@@ -15,5 +15,8 @@ public/*.html
 *.pdf
 *.docx
 
-# Templates
-!public/template.html
+# Templates (keep src/templates)
+!src/templates/
+
+# Virtual environment
+venv/
