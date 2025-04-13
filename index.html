@@ -3,82 +3,135 @@
 <head>
   <meta charset="UTF-8">
   <title>FTGN Journalism</title>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    :root {{
+      --bg: #ffffff;
+      --fg: #111111;
+      --muted: #666666;
+      --highlight: #0a84ff;
+    }}
     body {{
-      font-family: 'Merriweather', serif;
-      background: #1a1a1a;
-      color: #f0f0f0;
-      max-width: 900px;
-      margin: auto;
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      max-width: 760px;
+      margin: 0 auto;
       padding: 2rem;
+      line-height: 1.7;
     }}
-    h1, h2 {{
-      color: #ffffff;
+    h1 {{
+      font-family: 'Merriweather', serif;
+      font-size: 2.4rem;
+      margin-bottom: 0.5rem;
     }}
-    label, select, input {{
-      font-size: 1rem;
-      margin-right: 1rem;
-    }}
-    .result-item {{
-      margin: 1rem 0;
+    h2 {{
+      margin-top: 3rem;
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      text-transform: uppercase;
     }}
     a {{
-      color: #4ea3ff;
+      color: var(--highlight);
       text-decoration: none;
+      font-weight: 500;
     }}
     a:hover {{
       text-decoration: underline;
     }}
-    .lang-switch {{
-      margin-top: 1rem;
+    .essay {{
+      margin-bottom: 1rem;
+    }}
+    .essay small {{
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: block;
+    }}
+    .filters {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin: 1rem 0 2rem;
+    }}
+    .filters label {{
+      font-size: 0.9rem;
+      color: var(--muted);
+    }}
+    .filters select, .filters input {{
+      padding: 0.3rem 0.6rem;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      color: #000;
+      font-family: inherit;
+      font-size: 1rem;
+    }}
+    .topbar {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+    }}
+    .toggle-mode {{
+      font-size: 0.9rem;
+      border: none;
+      background: none;
+      color: var(--highlight);
+      cursor: pointer;
+    }}
+    footer {{
+      margin-top: 4rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      border-top: 1px solid #ddd;
+      padding-top: 1rem;
     }}
     .light-mode {{
-      background: #ffffff;
-      color: #111;
+      --bg: #ffffff;
+      --fg: #111111;
+      --muted: #666666;
     }}
-    .toggle {{
-      margin: 1rem 0;
+    .dark-mode {{
+      --bg: #111111;
+      --fg: #f9f9f9;
+      --muted: #888888;
     }}
   </style>
   <script src="https://unpkg.com/lunr/lunr.js"></script>
 </head>
-<body>
-  <h1>FTGN Journalism</h1>
-  <div class="toggle">
-    <button onclick="toggleMode()">🌓 Toggle Light/Dark Mode</button>
+<body class="light-mode">
+  <div class="topbar">
+    <h1>FTGN Journalism</h1>
+    <button class="toggle-mode" onclick="toggleMode()">🌓 Toggle Mode</button>
   </div>
-  <div>
-    <label for="search">Search:</label>
-    <input type="text" id="search" onkeyup="searchEssays()" placeholder="Enter keywords...">
-    <label for="yearFilter">Year:</label>
+
+  <div class="filters">
+    <input type="text" id="search" onkeyup="searchEssays()" placeholder="Search essays...">
     <select id="yearFilter" onchange="searchEssays()">
-      <option value="">All</option>
+      <option value="">All Years</option>
     </select>
-    <label for="locationFilter">Location:</label>
     <select id="locationFilter" onchange="searchEssays()">
-      <option value="">All</option>
+      <option value="">All Locations</option>
     </select>
-    <label for="themeFilter">Theme:</label>
     <select id="themeFilter" onchange="searchEssays()">
-      <option value="">All</option>
+      <option value="">All Themes</option>
       <option value="civilian">Civilian</option>
     </select>
   </div>
+
   <div id="results"></div>
-  <div class="lang-switch">
-    <label>Language:</label>
-    <select onchange="switchLanguage(this.value)">
-      <option value="en" selected>English</option>
-      <option value="fr">Français</option>
-    </select>
-  </div>
+
+  <footer>
+    © Zeeshan Khan · FTGN Journalism · Built with Emacs & Lunr.js
+  </footer>
+
   <script>
-    let essays = [];
-    let idx;
+    let essays = [], idx;
 
     fetch("essays/metadata.json")
-      .then(response => response.json())
+      .then(res => res.json())
       .then(data => {{
         essays = data;
         populateFilters();
@@ -87,26 +140,14 @@
       }});
 
     function populateFilters() {{
-      const yearSet = new Set();
-      const locSet = new Set();
-      essays.forEach(e => {{
-        yearSet.add(e.year);
-        locSet.add(e.location);
-      }});
-      yearSet.forEach(y => {{
-        const opt = document.createElement("option");
-        opt.value = y; opt.textContent = y;
-        document.getElementById("yearFilter").appendChild(opt);
-      }});
-      locSet.forEach(l => {{
-        const opt = document.createElement("option");
-        opt.value = l; opt.textContent = l;
-        document.getElementById("locationFilter").appendChild(opt);
-      }});
+      const years = new Set(), locations = new Set();
+      essays.forEach(e => {{ years.add(e.year); locations.add(e.location); }});
+      years.forEach(y => document.getElementById("yearFilter").innerHTML += `<option value="${{y}}">${{y}}</option>`);
+      locations.forEach(l => document.getElementById("locationFilter").innerHTML += `<option value="${{l}}">${{l}}</option>`);
     }}
 
     function buildIndex() {{
-      idx = lunr(function () {{
+      idx = lunr(function() {{
         this.ref('filename');
         this.field('title');
         this.field('year');
@@ -119,29 +160,27 @@
     function searchEssays() {{
       const query = document.getElementById("search").value;
       const year = document.getElementById("yearFilter").value;
-      const location = document.getElementById("locationFilter").value;
+      const loc = document.getElementById("locationFilter").value;
       const theme = document.getElementById("themeFilter").value;
-      let results = idx.search(query ? query : "*");
+      const results = idx.search(query || "*");
       let filtered = results.map(r => essays.find(e => e.filename === r.ref));
       if (year) filtered = filtered.filter(e => e.year === year);
-      if (location) filtered = filtered.filter(e => e.location === location);
+      if (loc) filtered = filtered.filter(e => e.location === loc);
       if (theme) filtered = filtered.filter(e => e.theme === theme);
       displayResults(filtered);
     }}
 
     function displayResults(items) {{
-      const container = document.getElementById("results");
-      container.innerHTML = items.map(function(e) {{
-        return "<div class='result-item'><a href='essays/en/" + e.filename.replace(".md", ".html") + "'>" + e.title + "</a> (" + e.year + ")</div>";
-      }}).join("");
+      const div = document.getElementById("results");
+      div.innerHTML = items.map(e =>
+        `<div class='essay'><a href='essays/en/${{e.filename.replace(".md", ".html")}}'>${{e.title}}</a><small>${{e.year}} — ${{e.location}}</small></div>`
+      ).join("");
     }}
 
     function toggleMode() {{
-      document.body.classList.toggle("light-mode");
-    }}
-
-    function switchLanguage(lang) {{
-      alert("Multilingual content loading not implemented. Placeholder for: " + lang);
+      const body = document.body;
+      body.classList.toggle("light-mode");
+      body.classList.toggle("dark-mode");
     }}
   </script>
 </body>
