@@ -1,0 +1,17 @@
+# Emacs
+.*.swo
+.*.swp
+*.elc
+*.backup
+*.~
+
+# Build files
+public/
+
+# System
+.DS_Store
+
+# Project specific
+*.html
+*.pdf
+*.docx
