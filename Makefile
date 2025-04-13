@@ -15,4 +15,10 @@ clean:
 serve: html
 	cd public && python3 -m http.server 8000
 
-.PHONY: html clean serve
+# Deploy to GitHub Pages
+deploy: html
+	git add public/
+	git commit -m "Deploy to GitHub Pages"
+	git push origin main
+
+.PHONY: html clean serve deploy

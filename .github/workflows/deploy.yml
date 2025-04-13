@@ -1,0 +1,33 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install markdown
+      - name: Build site
+        run: |
+          mkdir -p public
+          for file in essays/en/*.md; do \
+            markdown "$file" | \
+            awk -v file="$file" 'BEGIN {print "<!-- Content will be inserted here -->"} 1' \
+            > "public/$(basename $file .md).html"; \
+          done
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          commit_message: 'Automated deployment'
+          force_orphan: true
