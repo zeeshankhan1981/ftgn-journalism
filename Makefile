@@ -2,7 +2,7 @@
 html: clean
 	mkdir -p public
 	for file in essays/en/*.md; do \
-		markdown $$file | \
+		pandoc $$file -f markdown -t html | \
 		awk -v file="$$file" 'BEGIN {print "<!-- Content will be inserted here -->"} 1' \
 		> public/$$(basename $$file .md).html; \
 	done
