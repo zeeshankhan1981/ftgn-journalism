@@ -1,0 +1,18 @@
+
+#+TITLE: FTGN Journalism Project
+#+AUTHOR: Zeeshan Khan
+#+DESCRIPTION: A series of fact-based civilian experience essays under U.S. military bombardment
+
+* Overview
+This repository contains journalistic Markdown essays structured for use in Emacs Doom.
+
+* Directory Structure
+- essays/    :: All 250-word essays in Markdown format
+- notes/     :: Research notes and org-mode outlines
+- sources/   :: Supporting PDF and primary source documents
+
+* Usage
+Open with Emacs Doom using `SPC p p` to jump into this project.
+
+* License
+All work © Zeeshan Khan unless otherwise noted. Licensed for educational use only.
