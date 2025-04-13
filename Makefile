@@ -2,12 +2,14 @@
 html: clean
 	mkdir -p public
 	for file in essays/en/*.md; do \
-		markdown $$file > public/$$(basename $$file .md).html; \
+		markdown $$file | \
+		awk -v file="$$file" 'BEGIN {print "<!-- Content will be inserted here -->"} 1' \
+		> public/$$(basename $$file .md).html; \
 	done
 
 # Clean build directory
 clean:
-	rm -rf public
+	rm -rf public/*.html
 
 # Serve locally
 serve: html

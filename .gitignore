@@ -6,12 +6,14 @@
 *.~
 
 # Build files
-public/
+public/*.html
 
 # System
 .DS_Store
 
 # Project specific
-*.html
 *.pdf
 *.docx
+
+# Templates
+!public/template.html
