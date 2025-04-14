@@ -15,8 +15,3 @@ Rafiq Rahmani, 12, survived with shrapnel wounds. He described how his younger b
 General David Petraeus issued an apology, but local villagers protested for days. Rafiq left school afterward and never returned, haunted by survivor’s guilt.
 
 **Source:** [[https://www.theguardian.com/world/2011/mar/03/nine-afghan-boys-killed][The Guardian]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

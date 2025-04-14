@@ -16,8 +16,3 @@ Huy lost hearing in one ear after a B-52 strike landed too close to his position
 The siege became a symbol of American airpower—but also of its limits.
 
 **Source:** [[https://history.army.mil][U.S. Army Center of Military History]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

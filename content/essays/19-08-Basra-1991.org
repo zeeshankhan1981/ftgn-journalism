@@ -15,8 +15,3 @@ Ali Jassim, a 19-year-old conscript, was stationed near the outskirts when clust
 Basra’s civilian population endured long-term effects from the war, including contaminated water supplies and chronic health issues tied to the destruction of sanitation systems.
 
 **Source:** [[https://www.amnesty.org][Amnesty International]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

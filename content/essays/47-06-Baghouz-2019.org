@@ -15,8 +15,3 @@ Um Yasir, a Syrian mother of three, had taken refuge in a tent when the bombing 
 Investigative reports later revealed that the U.S. failed to disclose the strike, which may have killed over 80 people. Her story was documented by journalists who arrived weeks after the area was secured.
 
 **Source:** [[https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html][The New York Times]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

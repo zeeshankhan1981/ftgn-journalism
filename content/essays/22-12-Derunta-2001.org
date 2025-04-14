@@ -15,8 +15,3 @@ Hakim Noor, a teenager at the time, lived in a nearby farming village. A misfire
 His father, who worked those fields for decades, helped bury the victims in a hillside cemetery. Hakim later moved to Jalalabad, never returning to farm again.
 
 **Source:** [[https://theintercept.com/2017/10/06/the-uncounted-civilian-casualties-airstrikes/][The Intercept]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

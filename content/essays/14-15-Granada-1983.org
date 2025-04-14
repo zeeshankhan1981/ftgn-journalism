@@ -15,8 +15,3 @@ David Charles, a university janitor, was inside the campus when U.S. aircraft st
 The operation lasted just days but left lasting political and social consequences. Locals like Charles remained haunted by the sudden eruption of war on their island.
 
 **Source:** [[https://history.army.mil][U.S. Army Center of Military History]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

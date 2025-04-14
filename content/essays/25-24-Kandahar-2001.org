@@ -15,8 +15,3 @@ Fatima Achakzai, a schoolteacher, was inside a girls' school when a bomb struck 
 After the Taliban fled, she reopened classes in tents. She became an advocate for girls' education despite trauma and instability.
 
 **Source:** [[https://www.pbs.org/frontline/shows/campaign/][PBS Frontline]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

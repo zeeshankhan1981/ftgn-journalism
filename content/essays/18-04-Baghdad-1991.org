@@ -15,8 +15,3 @@ Layla Hassan, a university student, was in her dormitory when the power went out
 The bombing continued for weeks. Layla later described walking past destroyed bridges and government buildings on her way to search for food. Civilian infrastructure, including hospitals and water facilities, was devastated.
 
 **Source:** [[https://www.hrw.org/reports/1991/gulfwar][Human Rights Watch]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

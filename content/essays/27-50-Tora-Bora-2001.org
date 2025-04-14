@@ -15,8 +15,3 @@ Abdul Ghafar, a goat herder, lived on the lower slopes when the air campaign beg
 Though the strikes failed to capture bin Laden, they displaced thousands of families like Ghafar’s. His livestock were lost, and his home was destroyed in the bombings.
 
 **Source:** [[https://www.theguardian.com/world/2001/dec/17/afghanistan.terrorism][The Guardian]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:
