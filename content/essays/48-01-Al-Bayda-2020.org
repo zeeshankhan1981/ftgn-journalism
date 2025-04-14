@@ -15,8 +15,3 @@ Fadhl al-Rimi, a schoolteacher, recognized one of the bodies as his student. He 
 He later testified to human rights groups that no militants were in the area. His school was closed for two weeks in mourning.
 
 **Source:** [[https://reprieve.org/uk/][Reprieve]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

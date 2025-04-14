@@ -15,8 +15,3 @@ Mohammad Younis, a farmer, lost his brother when a U.S. bomb hit a suspected mil
 In interviews with NGOs, Younis insisted his family had no militant ties. Many locals expressed resentment over indiscriminate bombings, which they believed targeted tribes opposed to the Taliban.
 
 **Source:** [[https://www.nytimes.com/2001/11/30/world/afghan-war-aftermath.html][The New York Times]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

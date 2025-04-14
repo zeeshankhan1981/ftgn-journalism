@@ -15,8 +15,3 @@ Aisha al-Mutairi, a pediatrician, was tending patients when missiles struck a ne
 Her account, circulated by Doctors Without Borders, illustrated the humanitarian cost of renewed U.S. involvement in Yemen.
 
 **Source:** [[https://www.doctorswithoutborders.org/latest/yemen-2025][MSF/Doctors Without Borders]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

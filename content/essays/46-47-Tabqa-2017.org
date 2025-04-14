@@ -15,8 +15,3 @@ Nisreen al-Taha, an engineer, was working on a maintenance team at the Euphrates
 Fearing a dam collapse, she joined other engineers in stabilizing the structure under fire. Her account appeared in international reports on how infrastructure was imperiled by U.S. bombings.
 
 **Source:** [[https://www.nytimes.com/interactive/2017/12/21/world/middleeast/raqqa-isis-airstrikes.html][The New York Times]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

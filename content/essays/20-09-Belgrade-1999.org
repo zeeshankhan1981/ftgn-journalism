@@ -15,8 +15,3 @@ Jelena Matic, a TV technician, was working at Radio Television Serbia when the b
 The attack drew controversy, as critics argued it violated international law by targeting civilian broadcasters. Matic suffered permanent injuries and never returned to the studio.
 
 **Source:** [[https://www.amnesty.org/en/documents/eur70/018/2000/en/][Amnesty International]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

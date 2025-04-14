@@ -15,8 +15,3 @@ The resulting firestorm melted asphalt, suffocated thousands, and consumed entir
 The bombing campaign by British and American forces resulted in the deaths of approximately 25,000 people and the near-total destruction of one of Germany's most culturally rich cities.
 
 **Source:** [[https://www.bbc.com/news/world-europe-51475494][BBC]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

@@ -15,8 +15,3 @@ Nadwa al-Jubouri, a widow with three children, lived in western Mosul. In March 
 She was evacuated to a refugee camp and later told her story to humanitarian groups. The U.S. acknowledged civilian casualties but claimed efforts were made to minimize them.
 
 **Source:** [[https://www.theguardian.com/world/2017/may/25/us-mosul-airstrikes-deadliest-attack-iraq-2003][The Guardian]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

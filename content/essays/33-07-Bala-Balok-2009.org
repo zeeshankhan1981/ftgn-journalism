@@ -15,8 +15,3 @@ Haji Nader Khan, a village elder, lost his daughter and three grandchildren when
 He later testified to international media about the mass graves hastily dug to bury victims. The Pentagon acknowledged civilian casualties but disputed the scale.
 
 **Source:** [[https://www.washingtonpost.com/wp-dyn/content/article/2009/05/08/AR2009050803969.html][The Washington Post]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

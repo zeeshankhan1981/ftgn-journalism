@@ -15,8 +15,3 @@ Asha Mohamed, a herder’s wife, said a nearby livestock shelter was destroyed, 
 U.S. officials maintained no civilian deaths occurred. Human rights monitors disputed this, citing lack of transparency in assessments.
 
 **Source:** [[https://airwars.org/conflict/somalia/][Airwars]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

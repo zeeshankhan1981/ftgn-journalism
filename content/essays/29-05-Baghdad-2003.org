@@ -15,8 +15,3 @@ Khalid al-Janabi, a pharmacist, was watching television with his children when t
 Al-Janabi's pharmacy was later destroyed in a fire caused by a misfired missile. He salvaged medicines and distributed them for free in his neighborhood.
 
 **Source:** [[https://www.bbc.com/news/world-middle-east-32057228][BBC News]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

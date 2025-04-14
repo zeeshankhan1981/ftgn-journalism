@@ -16,8 +16,3 @@ Do Ba, 10 years old, hid in a ditch with his younger sister. He watched soldiers
 Do Ba survived and later testified before Vietnamese and foreign investigators.
 
 **Source:** [[https://www.pbs.org/wgbh/americanexperience/films/mylai/][Peabody Award-winning PBS Documentary]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

@@ -16,8 +16,3 @@ Between 1965 and 1972, Hanoi faced repeated waves of aerial assault. The most in
 Thanh later became a doctor, treating patients suffering from long-term effects of the bombings, including trauma, burns, and radiation exposure from certain U.S. munitions.
 
 **Source:** [[https://www.redcross.org.vn][Vietnamese Red Cross]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:

@@ -15,8 +15,3 @@ Fatimah Al-Saqaf, a teacher and mother of three, was preparing breakfast when ex
 The strikes killed at least eight civilians and injured 16, according to Houthi health officials. Local footage showed chaos as ambulances navigated debris-laden streets lit by cellphone flashlights.
 
 **Source:** [[https://apnews.com/article/yemen-hodeidah-airstrike-2025][Associated Press]]
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:
