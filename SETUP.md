@@ -51,8 +51,50 @@ This document guides you through setting up the Against The Tide project on a ne
 ### Content Creation
 
 1. **Create or edit Org files** in the `content-org/essays/` directory using Emacs
-2. **Export to Hugo markdown** using ox-hugo (in Emacs: `C-c C-e H H`)
+2. **Export to Hugo markdown** using ox-hugo in Emacs
+   - Open the Org file in Emacs
+   - Press `C-c C-e` to open the export menu
+   - Select `H H` for Hugo export
+   - Or modify directly in the Hugo markdown files in `content/essays/`
+
 3. **Preview** your changes using the Hugo development server
+
+### Troubleshooting Common Issues
+
+If your Org file changes aren't appearing in the site:
+
+1. Ensure proper frontmatter in your Org file:
+   ```org
+   #+TITLE: Essay Title
+   #+DATE: YYYY-MM-DD
+   #+HUGO_BASE_DIR: ../../
+   #+HUGO_SECTION: essays
+   #+HUGO_TAGS: tag1 tag2
+   #+EXPORT_FILE_NAME: file-name
+   #+HUGO_CATEGORIES: category1
+   #+HUGO_CUSTOM_FRONT_MATTER: :location "Location" :year "Year"
+   ```
+
+2. Manual export fallback:
+   - You can directly edit the Hugo markdown files in `content/essays/`
+   - Ensure the frontmatter is formatted properly:
+   ```yaml
+   ---
+   title: "Essay Title"
+   date: YYYY-MM-DD
+   location: "Location"
+   year: "Year"
+   tags: ["tag1", "tag2"]
+   categories: ["category1"]
+   ---
+   ```
+
+3. Rebuild the site:
+   ```bash
+   hugo
+   # or
+   make build-for-upload
+   ```
 
 ### Publishing
 
