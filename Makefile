@@ -8,15 +8,18 @@ html: clean
 	# Build home page
 	cp src/templates/base.html public/index.html
 	
-	# Copy markdown essays to public folder so they can be accessed directly
+	# Essays are already in the public folder
 	mkdir -p public/essays/en
-	cp -f essays/en/*.md public/essays/en/
+	mkdir -p public/essays/html
 	
-	# Copy metadata
-	cp -f essays/metadata.json public/essays/
+	# Generate HTML wrappers for markdown files
+	chmod +x scripts/generate-html-wrappers.sh
+	./scripts/generate-html-wrappers.sh
 	
-	# Create about page
-	cp -f about.html public/
+	# Metadata is already in the public folder
+	
+	# Create about page if it exists
+	[ -f about.html ] && cp -f about.html public/ || echo "No about.html found"
 
 # Clean build directory
 clean:

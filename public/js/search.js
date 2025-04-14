@@ -23,6 +23,24 @@ document.addEventListener('DOMContentLoaded', function() {
             
             console.log("Loaded essays:", essays);
             
+            // Process essay data to fix any metadata issues
+            essays = essays.map(essay => {
+                // Extract proper location from title if available
+                if (essay.title) {
+                    const titleParts = essay.title.split(' ');
+                    // If title follows pattern "XX Location Year", extract location
+                    if (titleParts.length >= 3) {
+                        // Get all parts except first and last
+                        const locationParts = titleParts.slice(1, -1);
+                        // Only update if location is the same as year (indicating an issue)
+                        if (essay.location === essay.year) {
+                            essay.location = locationParts.join(' ');
+                        }
+                    }
+                }
+                return essay;
+            });
+            
             // Extract unique categories
             essays.forEach(essay => {
                 if (essay.theme) {
@@ -231,15 +249,29 @@ document.addEventListener('DOMContentLoaded', function() {
         sortedEssays.forEach(essay => {
             const row = document.createElement('tr');
             
-            // Direct link to the markdown file
-            const essayLink = `/essays/en/${essay.filename}`;
+            // Process the title to make it more readable
+            let displayTitle = essay.title;
+            if (displayTitle) {
+                // Remove the initial number pattern if it exists (e.g., "42 Rouen 1944" -> "Rouen")
+                const titleParts = displayTitle.split(' ');
+                if (titleParts.length >= 3 && /^\d+$/.test(titleParts[0])) {
+                    // Extract the middle part (location) for display
+                    const locationParts = titleParts.slice(1, -1);
+                    displayTitle = locationParts.join(' ');
+                }
+            }
+            
+            // Use HTML wrapper to view the markdown
+            const htmlLink = `/essays/html/${essay.filename.replace('.md', '.html')}`;
             
             row.innerHTML = `
-                <td class="essay-title">${essay.title}</td>
+                <td class="essay-title">${displayTitle}</td>
                 <td>${essay.location}</td>
                 <td>${essay.year}</td>
                 <td>${essay.theme || 'Unspecified'}</td>
-                <td><a href="${essayLink}" class="read-link">Read →</a></td>
+                <td>
+                    <a href="${htmlLink}" class="read-link">Read →</a>
+                </td>
             `;
             tbody.appendChild(row);
         });
