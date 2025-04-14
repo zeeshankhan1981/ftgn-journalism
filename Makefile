@@ -1,29 +1,26 @@
 # Build HTML from Markdown
 html: clean
-	mkdir -p public
+	mkdir -p public/essays
+	mkdir -p public/css public/js public/img
+	
+	# No need to copy files - they're already in place
 	
 	# Build home page
 	cp src/templates/base.html public/index.html
 	
-	# Build individual essay pages
-	for file in essays/en/*.md; do \
-		title=$(basename "$file" .md | sed 's/^[0-9]*-//'); \
-		location=$(grep "# " "$file" | sed 's/# //'); \
-		year=$(echo "$title" | grep -oE '[0-9]{4}'); \
-		theme="civilian"; \
-		
-		pandoc "$file" -f markdown -t html | \
-		awk -v title="$title" -v location="$location" -v year="$year" -v theme="$theme" 'BEGIN {print "<!-- Content will be inserted here -->"} 1' | \
-		sed 's/\$\{title\}/"'"$title""/g' | \
-		sed 's/\$\{location\}/"'"$location""/g' | \
-		sed 's/\$\{year\}/"'"$year""/g' | \
-		sed 's/\$\{theme\}/"'"$theme""/g' | \
-		awk -v file="$file" '{print}' > "public/$$(basename $$file .md).html"; \
-	done
+	# Copy markdown essays to public folder so they can be accessed directly
+	mkdir -p public/essays/en
+	cp -f essays/en/*.md public/essays/en/
+	
+	# Copy metadata
+	cp -f essays/metadata.json public/essays/
+	
+	# Create about page
+	cp -f about.html public/
 
 # Clean build directory
 clean:
-	rm -rf public/*.html
+	rm -rf public/*.html public/essays/*.html
 
 # Serve locally
 serve: html

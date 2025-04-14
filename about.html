@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Against The Tide</title>
+    <title>About - Against The Tide</title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="A series of fact-based civilian experiences under U.S. military bombardment">
-    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="description" content="About Against The Tide, a series of fact-based civilian experiences under U.S. military bombardment">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history, about">
     <meta name="author" content="TorchScribe">
     
     <!-- Open Graph / Social Media -->
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Against The Tide">
-    <meta property="og:description" content="A series of fact-based civilian experiences under U.S. military bombardment">
-    <meta property="og:url" content="https://torchscribe.com/">
+    <meta property="og:title" content="About - Against The Tide">
+    <meta property="og:description" content="About Against The Tide, a series of fact-based civilian experiences under U.S. military bombardment">
+    <meta property="og:url" content="https://torchscribe.com/about.html">
     
     <!-- Fonts and Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -58,29 +58,43 @@
             </nav>
         </header>
 
-        <main>
-            <section class="hero">
-                <h1>Against The Tide</h1>
-                <p class="subtitle">A series of fact-based civilian experiences under U.S. military bombardment</p>
-            </section>
+        <main class="about-content">
+            <h1>About Against The Tide</h1>
+            
+            <ul class="about-list">
+                <li>
+                    <h2>Project Overview</h2>
+                    <p>Against The Tide is a collection of 250-word essays documenting civilian experiences during U.S. military bombardments. This project provides fact-based, compassionate journalism that focuses on the human impact of warfare.</p>
+                </li>
+                
+                <li>
+                    <h2>Methodology</h2>
+                    <p>Essays are based on verified historical accounts, eyewitness testimonies, and scholarly sources. The 250-word format creates focused, impactful narratives that can be easily read and shared.</p>
+                </li>
 
-            <section id="essays">
-                <h2>Essays Archive</h2>
-                <div class="search-container">
-                    <input type="text" id="search-input" placeholder="Search by location, year, or theme..." class="search-bar">
-                </div>
-
-                <div class="filters-container">
-                    <!-- Category filters will be inserted here by JavaScript -->
-                </div>
-
-                <div class="essays-list">
-                    <!-- Essays will be inserted here by JavaScript -->
-                    <div class="loading">
-                        <span class="loading-text">Loading essays...</span>
-                    </div>
-                </div>
-            </section>
+                <li>
+                    <h2>Author</h2>
+                    <p>TorchScribe is a collective of journalists and researchers specializing in the documentation of civilian experiences in conflict zones. Their work brings attention to overlooked aspects of military conflicts.</p>
+                </li>
+                
+                <li>
+                    <h2>Technical Implementation</h2>
+                    <p>This website features a typewriter-inspired design that reflects the journalistic nature of the project. All essays are stored as Markdown files, which can be easily edited with Emacs Doom.</p>
+                </li>
+                
+                <li>
+                    <h2>Keyboard Shortcuts</h2>
+                    <p>Alt+S: Focus search box<br>
+                    Alt+A: Go to About page<br>
+                    Alt+Home: Go to Home page<br>
+                    Print: Ctrl+P/⌘+P (printer-friendly styling included)</p>
+                </li>
+                
+                <li>
+                    <h2>Contact</h2>
+                    <p>For inquiries or additional information: <a href="mailto:info@torchscribe.com">info@torchscribe.com</a></p>
+                </li>
+            </ul>
         </main>
 
         <footer>
@@ -88,8 +102,7 @@
             <p>Curated by TorchScribe</p>
         </footer>
     </div>
-
-    <script src="/js/search.js"></script>
+    
     <script>
         // Dark mode toggle functionality
         document.addEventListener('DOMContentLoaded', () => {
@@ -108,7 +121,7 @@
             // Alt+S focuses search
             if (e.altKey && e.key === 's') {
                 e.preventDefault();
-                document.getElementById('search-input').focus();
+                window.location.href = '/#search-input';
             }
             
             // Alt+Home goes to home page

@@ -1,22 +1,29 @@
-# Emacs
-.*.swo
-.*.swp
-*.elc
-*.backup
-*.~
+# System files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
 
 # Build files
 public/*.html
+public/essays/*.html
+public/essays/*.md
 
-# System
-.DS_Store
+# Node.js (if used in future)
+node_modules/
+package-lock.json
 
-# Project specific
-*.pdf
-*.docx
-
-# Templates (keep src/templates)
-!src/templates/
-
-# Virtual environment
+# Python (if used for build tools)
+__pycache__/
+*.py[cod]
+*$py.class
 venv/
+ENV/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
