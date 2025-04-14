@@ -1,8 +1,188 @@
-<!doctype html><html lang=en-us data-theme=light><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Years - Against The Tide</title>
-<meta name=description content="A series of fact-based civilian experience essays documenting U.S. military bombardments"><meta name=keywords content="journalism,civilian,military,bombardment,essays,history"><meta name=author content="TorchScribe"><meta property="og:type" content="website"><meta property="og:title" content="Years - Against The Tide"><meta property="og:description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments"><meta property="og:url" content="https://torchscribe.com/years/"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel=stylesheet><link rel=stylesheet href=/css/style.css><link rel=icon type=image/svg+xml href=/img/favicon.svg><link rel=icon type=image/png href=/img/favicon.png><script>const getThemePreference=()=>localStorage.getItem("theme")?localStorage.getItem("theme"):window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light",setTheme=e=>{document.documentElement.setAttribute("data-theme",e),localStorage.setItem("theme",e)};setTheme(getThemePreference())</script></head><body><div class=container><header><div class=logo>Against <span>The</span> Tide</div><nav><a href=/>Home</a>
-<a href=/#essays>Essays</a>
-<a href=/about/>About</a>
-<button id=theme-toggle aria-label="Toggle dark mode">
-<span class=theme-toggle-icon>◐</span></button></nav></header><main><div class=list-container><h1>Years</h1><div class=list-controls><input type=text id=essay-search placeholder="Search essays..." aria-label="Search essays"><div class=sort-options><button class="sort-button active" data-sort=title>Title</button>
-<button class=sort-button data-sort=location>Location</button>
-<button class=sort-button data-sort=year>Year</button></div></div><ul class=essay-list id=essays></ul></div><script>document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("essay-search"),t=document.querySelectorAll(".essay-item");e.addEventListener("input",()=>{const n=e.value.toLowerCase();t.forEach(e=>{const t=e.querySelector(".essay-title").textContent.toLowerCase(),s=e.querySelector(".essay-meta").textContent.toLowerCase();t.includes(n)||s.includes(n)?e.style.display="":e.style.display="none"})});const n=document.querySelectorAll(".sort-button"),s=document.getElementById("essays");n.forEach(e=>{e.addEventListener("click",()=>{n.forEach(e=>e.classList.remove("active")),e.classList.add("active");const o=e.dataset.sort,i=Array.from(t);i.sort((e,t)=>{if(o==="title")return e.querySelector(".essay-title").textContent.localeCompare(t.querySelector(".essay-title").textContent);if(o==="location")return e.dataset.location.localeCompare(t.dataset.location);if(o==="year")return e.dataset.year.localeCompare(t.dataset.year)}),s.innerHTML="",i.forEach(e=>{s.appendChild(e)})})})})</script></main><footer><p>© 2025 Against The Tide · All rights reserved</p><p>Curated by TorchScribe</p></footer></div><script>document.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("theme-toggle");e.addEventListener("click",()=>{const e=document.documentElement.getAttribute("data-theme"),t=e==="dark"?"light":"dark";setTheme(t)})}),document.addEventListener("keydown",e=>{e.altKey&&e.key==="s"&&(e.preventDefault(),window.location.href="/#essays"),e.altKey&&e.key==="Home"&&(e.preventDefault(),window.location.href="/"),e.altKey&&e.key==="e"&&(e.preventDefault(),window.location.href="/#essays"),e.altKey&&e.key==="a"&&(e.preventDefault(),window.location.href="/about/")})</script></body></html>
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Years - Against The Tide</title>
+    
+    
+    <meta name="description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Years - Against The Tide">
+    <meta property="og:description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta property="og:url" content="https://torchscribe.com/years/">
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    
+    <script>
+        
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        
+        
+        <a href="/" >Home</a>
+        
+        <a href="/#essays" >Essays</a>
+        
+        <a href="/about/" >About</a>
+        
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>
+
+        <main>
+            
+<div class="list-container">
+    <h1>Years</h1>
+    
+    <div class="list-controls">
+        <input type="text" id="essay-search" placeholder="Search essays..." aria-label="Search essays">
+        <div class="sort-options">
+            <button class="sort-button active" data-sort="title">Title</button>
+            <button class="sort-button" data-sort="location">Location</button>
+            <button class="sort-button" data-sort="year">Year</button>
+        </div>
+    </div>
+    
+    <ul class="essay-list" id="essays">
+        
+    </ul>
+</div>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchInput = document.getElementById('essay-search');
+        const essayItems = document.querySelectorAll('.essay-item');
+        
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            essayItems.forEach(item => {
+                const title = item.querySelector('.essay-title').textContent.toLowerCase();
+                const meta = item.querySelector('.essay-meta').textContent.toLowerCase();
+                
+                if (title.includes(searchTerm) || meta.includes(searchTerm)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+        
+        
+        const sortButtons = document.querySelectorAll('.sort-button');
+        const essayList = document.getElementById('essays');
+        
+        sortButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                sortButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                const sortBy = button.dataset.sort;
+                const essays = Array.from(essayItems);
+                
+                essays.sort((a, b) => {
+                    if (sortBy === 'title') {
+                        return a.querySelector('.essay-title').textContent.localeCompare(
+                            b.querySelector('.essay-title').textContent
+                        );
+                    } else if (sortBy === 'location') {
+                        return a.dataset.location.localeCompare(b.dataset.location);
+                    } else if (sortBy === 'year') {
+                        return a.dataset.year.localeCompare(b.dataset.year);
+                    }
+                });
+                
+                essayList.innerHTML = '';
+                essays.forEach(essay => {
+                    essayList.appendChild(essay);
+                });
+            });
+        });
+    });
+</script>
+
+        </main>
+
+        <footer>
+    <p>© 2025 Against The Tide · All rights reserved</p>
+    <p>Curated by TorchScribe</p>
+</footer>
+    </div>
+
+    <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            setTheme(newTheme);
+        });
+    });
+    
+    
+    document.addEventListener('keydown', (e) => {
+        
+        if (e.altKey && e.key === 's') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'Home') {
+            e.preventDefault();
+            window.location.href = '/';
+        }
+        
+        
+        if (e.altKey && e.key === 'e') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'a') {
+            e.preventDefault();
+            window.location.href = '/about/';
+        }
+    });
+</script>
+</body>
+</html>

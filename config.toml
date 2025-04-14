@@ -10,6 +10,24 @@ lastmod = [":git", "lastmod", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
 
+# Enable for direct rendering of Org files
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    style = "github"
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+  [markup.org] # This enables direct Org file rendering!
+    enableOrgMode = true
+
 # URL Management
 [permalinks]
 essays = "/:section/:filename/"
@@ -44,17 +62,6 @@ essays = "/:section/:filename/"
     name = "About"
     url = "/about/"
     weight = 3
-
-# Enable syntax highlighting
-[markup]
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    lineNos = false
-    style = "github"
-
-  [markup.goldmark.renderer]
-    unsafe = true  # Allow HTML in markdown
 
 # Taxonomy settings
 [taxonomies]

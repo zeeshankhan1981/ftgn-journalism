@@ -14,13 +14,6 @@ This document guides you through setting up the Against The Tide project on a ne
    - Windows: `choco install hugo-extended`
    - Or download from: https://github.com/gohugoio/hugo/releases
 
-3. **ox-hugo** package for Org to Hugo markdown export
-   - Add to your Doom Emacs config in `~/.doom.d/packages.el`:
-   ```elisp
-   (package! ox-hugo)
-   ```
-   - Run `doom sync` to install the package
-
 ## Project Setup
 
 1. **Clone the repository**
@@ -29,16 +22,7 @@ This document guides you through setting up the Against The Tide project on a ne
    cd ftgn-journalism
    ```
 
-2. **Convert existing content** (if needed)
-   ```bash
-   # Convert markdown to Hugo format
-   ./scripts/convert-md-to-hugo.sh
-   
-   # Convert markdown to Org format
-   ./scripts/setup-org-workflow.sh
-   ```
-
-3. **Start Hugo server for development**
+2. **Start Hugo server for development**
    ```bash
    ./scripts/hugo-server.sh
    # or
@@ -50,50 +34,26 @@ This document guides you through setting up the Against The Tide project on a ne
 
 ### Content Creation
 
-1. **Create or edit Org files** in the `content-org/essays/` directory using Emacs
-2. **Export to Hugo markdown** using ox-hugo in Emacs
-   - Open the Org file in Emacs
-   - Press `C-c C-e` to open the export menu
-   - Select `H H` for Hugo export
-   - Or modify directly in the Hugo markdown files in `content/essays/`
+1. **Edit Org files** directly in the `content/essays/` directory using Emacs
+2. **Preview** your changes using the Hugo development server
 
-3. **Preview** your changes using the Hugo development server
+The workflow is simplified - you don't need to export Org files to markdown. Hugo directly renders the Org files.
 
-### Troubleshooting Common Issues
+### Creating New Content
 
-If your Org file changes aren't appearing in the site:
+1. **Create a new Org file** in `content/essays/` directory
+   - Follow the naming pattern: `XX-XX-Name-Year.org`
+   - Include the required headers
 
-1. Ensure proper frontmatter in your Org file:
    ```org
-   #+TITLE: Essay Title
+   #+TITLE: Location Year
    #+DATE: YYYY-MM-DD
-   #+HUGO_BASE_DIR: ../../
-   #+HUGO_SECTION: essays
+   #+AUTHOR: TorchScribe
    #+HUGO_TAGS: tag1 tag2
-   #+EXPORT_FILE_NAME: file-name
-   #+HUGO_CATEGORIES: category1
+   #+HUGO_CATEGORIES: category
    #+HUGO_CUSTOM_FRONT_MATTER: :location "Location" :year "Year"
-   ```
 
-2. Manual export fallback:
-   - You can directly edit the Hugo markdown files in `content/essays/`
-   - Ensure the frontmatter is formatted properly:
-   ```yaml
-   ---
-   title: "Essay Title"
-   date: YYYY-MM-DD
-   location: "Location"
-   year: "Year"
-   tags: ["tag1", "tag2"]
-   categories: ["category1"]
-   ---
-   ```
-
-3. Rebuild the site:
-   ```bash
-   hugo
-   # or
-   make build-for-upload
+   Essay content here...
    ```
 
 ### Publishing
@@ -111,37 +71,17 @@ If your Org file changes aren't appearing in the site:
 ## Project Structure
 
 ```
-├── archetypes/         # Content templates
-├── config.toml         # Hugo configuration
-├── content/            # Hugo content (auto-generated from Org)
-├── content-org/        # Org source files
-├── layouts/            # Hugo templates
-├── static/             # Static assets (CSS, JS, images)
-└── public/             # Generated site
-```
-
-## Org File Structure
-
-Each essay should be created as an Org file with proper front matter:
-
-```org
-#+TITLE: Location Year
-#+DATE: YYYY-MM-DD
-#+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
-#+HUGO_TAGS: tag1 tag2
-#+HUGO_CATEGORIES: category
-#+EXPORT_FILE_NAME: file-name
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Location" :year "Year"
-
-Essay content goes here...
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:
-
-Source citations here...
+├── archetypes/       # Content templates
+├── config.toml       # Hugo configuration
+├── content/          # Org content files
+│   └── essays/       # Essay files in Org format
+├── layouts/          # Hugo templates
+├── Makefile          # Build commands
+├── public/           # Generated site (for upload)
+├── README.md         # Documentation
+├── scripts/          # Helper scripts
+├── SETUP.md          # This guide
+└── static/           # Static assets (CSS, JS, etc)
 ```
 
 ## Scripts
@@ -149,25 +89,23 @@ Source citations here...
 The project includes several helper scripts:
 
 - **hugo-server.sh**: Start Hugo development server
-- **convert-md-to-hugo.sh**: Convert markdown to Hugo format
-- **setup-org-workflow.sh**: Convert markdown to Org format
+- **org-mode-setup.sh**: Set up Org mode workflow if needed
 - **stop-servers.sh**: Stop any running servers
 
 ## Useful Commands
 
 - **Start Hugo server**: `hugo server -D` or `make serve`
 - **Build site**: `hugo` or `make build-for-upload`
-- **Create new content**: `hugo new essays/title.md`
-- **In Emacs**: `C-c C-e H H` (Export Org to Hugo markdown)
+- **Create new content**: Create a new .org file in content/essays/
 
 ## Troubleshooting
 
-- If exports aren't working, ensure ox-hugo is properly installed
 - For Hugo server issues, check the Hugo version with `hugo version`
 - Clean the build directory with `rm -rf public/` before rebuilding
+- If Org files aren't rendering correctly, ensure your Hugo version is 0.93.0 or later
 
 ## Resources
 
 - [Hugo Documentation](https://gohugo.io/documentation/)
-- [ox-hugo Documentation](https://ox-hugo.scripter.co/)
+- [Hugo Org Mode Support](https://ox-hugo.scripter.co/)
 - [Doom Emacs Documentation](https://github.com/doomemacs/doomemacs/blob/master/docs/index.org)

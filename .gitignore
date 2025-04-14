@@ -26,4 +26,5 @@ ENV/
 
 # Temporary files
 tmp/
-temp/
+temp/.hugo_build.lock
+resources/

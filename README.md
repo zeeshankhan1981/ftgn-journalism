@@ -8,8 +8,8 @@ Against The Tide is a collection of 250-word essays documenting civilian experie
 
 ## Features
 
-- **Org-mode content**: Essays are written in Emacs Org mode
-- **Hugo-powered site**: Fast, modern static site generation
+- **Org-mode content**: Essays are written directly in Emacs Org mode
+- **Hugo-powered site**: Hugo renders Org files without export step
 - **Modern, responsive design**: Typewriter-inspired, minimalist presentation 
 - **Dark mode support**: Toggle between light/dark themes
 - **Keyboard navigation**: Quick access with keyboard shortcuts
@@ -18,8 +18,7 @@ Against The Tide is a collection of 250-word essays documenting civilian experie
 
 ## Directory Structure
 
-- `content-org/` - Original essay content in Org format
-- `content/` - Hugo content (auto-generated from Org)
+- `content/essays/` - Essay content in Org format (edited directly)
 - `public/` - Generated website files
 - `layouts/` - Hugo templates for site generation
 - `static/` - Static assets (CSS, JS, images)
@@ -29,25 +28,17 @@ Against The Tide is a collection of 250-word essays documenting civilian experie
 
 ### Content Creation
 
-Essays are written in Org mode using Emacs (Doom Emacs recommended) and stored in the `content-org/essays/` directory.
+Essays are written in Org mode using Emacs (Doom Emacs recommended) and stored directly in the `content/essays/` directory.
 
 ```org
 #+TITLE: Location Year
 #+DATE: YYYY-MM-DD
+#+AUTHOR: TorchScribe
 #+HUGO_TAGS: tag1 tag2
 #+HUGO_CATEGORIES: category
-#+HUGO_SECTION: essays
 #+HUGO_CUSTOM_FRONT_MATTER: :location "Location" :year "Year"
-#+EXPORT_FILE_NAME: file-name
 
 Essay content here...
-
-* Sources
-:PROPERTIES:
-:EXPORT_EXCLUDE: t
-:END:
-
-Source citations here...
 ```
 
 ### Local Development
@@ -60,18 +51,6 @@ make serve
 
 # Stop any running servers
 ./scripts/stop-servers.sh
-```
-
-### Converting Existing Content
-
-Two scripts are provided to help with content conversion:
-
-```bash
-# Convert existing markdown to Hugo format
-./scripts/convert-md-to-hugo.sh
-
-# Convert existing markdown to Org format
-./scripts/setup-org-workflow.sh
 ```
 
 ### Deployment
