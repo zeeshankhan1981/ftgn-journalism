@@ -12,9 +12,9 @@ html: clean
 	mkdir -p public/essays/en
 	mkdir -p public/essays/html
 	
-	# Generate HTML wrappers for markdown files
-	chmod +x scripts/generate-html-wrappers.sh
-	./scripts/generate-html-wrappers.sh
+	# Convert markdown to HTML with fixed script
+	chmod +x scripts/fix-converter.sh
+	./scripts/fix-converter.sh
 	
 	# Metadata is already in the public folder
 	
