@@ -71,32 +71,149 @@ The workflow is simplified - you don't need to export Org files to markdown. Hug
 ## Project Structure
 
 ```
-├── archetypes/       # Content templates
+.
+├── .doom.d/          # Doom Emacs configuration
+├── .github/          # GitHub workflows and configurations
+├── archetypes/       # Hugo content templates
+│   └── default.md    # Default template for new content
+├── cleanup-plan/     # Cleanup strategy documentation
 ├── config.toml       # Hugo configuration
-├── content/          # Org content files
+├── content/          # Main content directory
+│   ├── about.org     # About page content
 │   └── essays/       # Essay files in Org format
+│       ├── XX-XX-Name-Year.org
+│       └── ...
 ├── layouts/          # Hugo templates
-├── Makefile          # Build commands
+│   ├── _default/    # Default templates
+│   │   ├── baseof.html
+│   │   ├── list.html
+│   │   └── single.html
+│   └── partials/    # Reusable template components
+│       ├── footer.html
+│       ├── header.html
+│       ├── nav.html
+│       └── search.html
 ├── public/           # Generated site (for upload)
-├── README.md         # Documentation
 ├── scripts/          # Helper scripts
-├── SETUP.md          # This guide
-└── static/           # Static assets (CSS, JS, etc)
+│   ├── hugo-server.sh    # Start Hugo development server
+│   ├── org-mode-setup.sh # Set up Org mode workflow
+│   ├── stop-servers.sh   # Stop running servers
+│   └── ...
+├── src/              # Source code directory
+├── static/           # Static assets
+│   ├── css/         # Stylesheets
+│   ├── js/          # JavaScript files
+│   └── images/      # Static images
+└── venv/            # Python virtual environment
 ```
 
-## Scripts
+## Scripts and Development Tools
 
-The project includes several helper scripts:
+The project includes several helper scripts and development tools:
 
-- **hugo-server.sh**: Start Hugo development server
-- **org-mode-setup.sh**: Set up Org mode workflow if needed
-- **stop-servers.sh**: Stop any running servers
+### Development Scripts
 
-## Useful Commands
+- **hugo-server.sh**: Start Hugo development server with hot reloading
+  - Usage: `./scripts/hugo-server.sh`
+  - Features: Auto-reloads when content changes, provides detailed error messages
 
-- **Start Hugo server**: `hugo server -D` or `make serve`
-- **Build site**: `hugo` or `make build-for-upload`
-- **Create new content**: Create a new .org file in content/essays/
+- **stop-servers.sh**: Safely stop any running Hugo servers
+  - Usage: `./scripts/stop-servers.sh`
+  - Features: Gracefully shuts down servers, cleans up temporary files
+
+- **org-mode-setup.sh**: Set up Org mode workflow
+  - Usage: `./scripts/org-mode-setup.sh`
+  - Features: Configures Org mode for Hugo integration, sets up custom export settings
+
+### Development Environment
+
+1. **Emacs Configuration**
+   - Doom Emacs is required for optimal development experience
+   - Custom configuration in [.doom.d](cci:7://file:///Users/zeeshankhan/ftgn-journalism/.doom.d:0:0-0:0) directory
+   - Includes specialized keybindings for Hugo workflow
+
+2. **Python Environment**
+   - Python virtual environment in `venv/` directory
+   - Used for running Hugo and other development tools
+   - Activate with: `source venv/bin/activate`
+
+### Development Workflow
+
+1. **Initial Setup**
+   ```bash
+   # Create and activate virtual environment
+   python -m venv venv
+   source venv/bin/activate
+   
+   # Install Hugo
+   pip install hugo
+   ```
+
+2. **Starting Development**
+   ```bash
+   # Start development server
+   ./scripts/hugo-server.sh
+   
+   # In another terminal, edit content
+   emacs content/essays/your-essay.org
+   ```
+
+3. **Stopping Development**
+   ```bash
+   # Stop servers
+   ./scripts/stop-servers.sh
+   
+   # Deactivate virtual environment
+   deactivate
+   ```
+
+## Development Commands
+
+### Hugo Commands
+
+- **Development Server**
+  ```bash
+  # Start development server with drafts
+  hugo server -D
+  
+  # Start with custom port
+  hugo server -D --port 1314
+  ```
+
+- **Building Site**
+  ```bash
+  # Basic build
+  hugo
+  
+  # Build with drafts
+  hugo -D
+  
+  # Clean build
+  hugo --cleanDestinationDir
+  ```
+
+### Make Commands
+
+- **Basic Commands**
+  ```bash
+  # Start development server
+  make serve
+  
+  # Build site for production
+  make build-for-upload
+  
+  # Clean build directory
+  make clean
+  ```
+
+- **Advanced Commands**
+  ```bash
+  # Build with specific theme
+  make build THEME=your-theme
+  
+  # Build with custom base URL
+  make build BASEURL="https://your-site.com"
+  ```
 
 ## Troubleshooting
 
