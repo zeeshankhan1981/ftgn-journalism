@@ -6,18 +6,18 @@
     <title>About - Against The Tide</title>
     
     <!-- SEO Meta Tags -->
-    <meta name="description" content="About Against The Tide, a series of fact-based civilian experiences under U.S. military bombardment">
-    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history, about">
+    <meta name="description" content="About Against The Tide - A series of fact-based civilian experiences under U.S. military bombardment">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
     <meta name="author" content="TorchScribe">
     
     <!-- Open Graph / Social Media -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="About - Against The Tide">
-    <meta property="og:description" content="About Against The Tide, a series of fact-based civilian experiences under U.S. military bombardment">
+    <meta property="og:description" content="About Against The Tide - A series of fact-based civilian experiences under U.S. military bombardment">
     <meta property="og:url" content="https://torchscribe.com/about.html">
     
     <!-- Fonts and Styles -->
-    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
     
     <!-- Favicon -->
@@ -51,7 +51,7 @@
             <nav>
                 <a href="/">Home</a>
                 <a href="/#essays">Essays</a>
-                <a href="/about.html">About</a>
+                <a href="/about.html" class="active">About</a>
                 <button id="theme-toggle" aria-label="Toggle dark mode">
                     <span class="theme-toggle-icon">◐</span>
                 </button>
@@ -61,40 +61,80 @@
         <main class="about-content">
             <h1>About Against The Tide</h1>
             
+            <p class="subtitle">A journalism project focused on civilian experiences during military operations, built with a focus on minimalism and ease of maintenance.</p>
+            
             <ul class="about-list">
                 <li>
-                    <h2>Project Overview</h2>
-                    <p>Against The Tide is a collection of 250-word essays documenting civilian experiences during U.S. military bombardments. This project provides fact-based, compassionate journalism that focuses on the human impact of warfare.</p>
+                    <h2>Project Philosophy</h2>
+                    <p>Against The Tide is a collection of fact-based accounts focused on civilian experiences during U.S. military bombardments throughout history. The project aims to document these stories in a straightforward, accessible way with minimal technical overhead.</p>
                 </li>
                 
                 <li>
-                    <h2>Methodology</h2>
-                    <p>Essays are based on verified historical accounts, eyewitness testimonies, and scholarly sources. The 250-word format creates focused, impactful narratives that can be easily read and shared.</p>
-                </li>
-
-                <li>
-                    <h2>Author</h2>
-                    <p>TorchScribe is a collective of journalists and researchers specializing in the documentation of civilian experiences in conflict zones. Their work brings attention to overlooked aspects of military conflicts.</p>
+                    <h2>Technical Stack</h2>
+                    <p>This website is built using simple, standards-based web technologies:</p>
+                    <ul>
+                        <li>Vanilla HTML, CSS, and JavaScript (no frameworks)</li>
+                        <li>Markdown for content (converted to HTML)</li>
+                        <li>Emacs Doom as the primary editing environment</li>
+                        <li>Python's built-in HTTP server for local development</li>
+                        <li>A custom Makefile for the build process</li>
+                    </ul>
+                    <p>The entire site is statically generated, requiring no databases or server-side processing.</p>
                 </li>
                 
                 <li>
-                    <h2>Technical Implementation</h2>
-                    <p>This website features a typewriter-inspired design that reflects the journalistic nature of the project. All essays are stored as Markdown files, which can be easily edited with Emacs Doom.</p>
+                    <h2>Content Structure</h2>
+                    <p>Essays are written in Markdown format and stored as plain text files. Each essay follows a consistent structure:</p>
+                    <ul>
+                        <li>A clear headline indicating location and date</li>
+                        <li>A concise account of events</li>
+                        <li>Verifiable sources for further reading</li>
+                    </ul>
+                    <p>Metadata for each essay (like location, year, and theme) is stored in a single JSON file, making it easy to organize and search.</p>
+                </li>
+                
+                <li>
+                    <h2>Design Principles</h2>
+                    <p>The site's design is guided by a few core principles:</p>
+                    <ul>
+                        <li><strong>Typewriter-inspired:</strong> Using monospace fonts and subtle design elements that evoke classic journalism</li>
+                        <li><strong>Content-first:</strong> Minimal distractions with focus on readability</li>
+                        <li><strong>Responsive:</strong> Works well on all devices from mobile to desktop</li>
+                        <li><strong>Accessible:</strong> Consideration for different reading preferences, including dark mode</li>
+                    </ul>
+                </li>
+                
+                <li>
+                    <h2>Emacs Doom Integration</h2>
+                    <p>This project is designed to be fully editable through Emacs Doom, a configuration framework for Emacs. This provides:</p>
+                    <ul>
+                        <li>Integrated markdown editing</li>
+                        <li>Version control through Magit</li>
+                        <li>Project-wide search and refactoring</li>
+                        <li>Terminal access for running local server and build commands</li>
+                    </ul>
+                    <p>The entire workflow can be managed within Emacs, from writing content to deploying updates.</p>
                 </li>
                 
                 <li>
                     <h2>Keyboard Shortcuts</h2>
-                    <p>Alt+S: Focus search box<br>
-                    Alt+A: Go to About page<br>
-                    Alt+Home: Go to Home page<br>
-                    Print: Ctrl+P/⌘+P (printer-friendly styling included)</p>
+                    <p>The site features several keyboard shortcuts for power users:</p>
+                    <ul>
+                        <li><kbd>Alt</kbd> + <kbd>Home</kbd>: Return to home page</li>
+                        <li><kbd>Alt</kbd> + <kbd>S</kbd>: Focus search input</li>
+                        <li><kbd>Alt</kbd> + <kbd>E</kbd>: Return to essays list</li>
+                    </ul>
                 </li>
                 
                 <li>
-                    <h2>Contact</h2>
-                    <p>For inquiries or additional information: <a href="mailto:info@torchscribe.com">info@torchscribe.com</a></p>
+                    <h2>Authorship</h2>
+                    <p>All content on Against The Tide is curated by TorchScribe, with a commitment to factual accuracy and source verification.</p>
                 </li>
             </ul>
+            
+            <div class="about-footer">
+                <a href="/#essays" class="back-to-essays">← Back to Essays</a>
+            </div>
         </main>
 
         <footer>
@@ -102,7 +142,7 @@
             <p>Curated by TorchScribe</p>
         </footer>
     </div>
-    
+
     <script>
         // Dark mode toggle functionality
         document.addEventListener('DOMContentLoaded', () => {
@@ -121,7 +161,7 @@
             // Alt+S focuses search
             if (e.altKey && e.key === 's') {
                 e.preventDefault();
-                window.location.href = '/#search-input';
+                window.location.href = '/#essays';
             }
             
             // Alt+Home goes to home page
@@ -130,10 +170,10 @@
                 window.location.href = '/';
             }
             
-            // Alt+A goes to about page
-            if (e.altKey && e.key === 'a') {
+            // Alt+E returns to essay list
+            if (e.altKey && e.key === 'e') {
                 e.preventDefault();
-                window.location.href = '/about.html';
+                window.location.href = '/#essays';
             }
         });
     </script>

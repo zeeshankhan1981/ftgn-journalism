@@ -18,8 +18,8 @@ html: clean
 	
 	# Metadata is already in the public folder
 	
-	# Create about page if it exists
-	[ -f about.html ] && cp -f about.html public/ || echo "No about.html found"
+	# Copy about page
+	cp -f about.html public/
 
 # Clean build directory
 clean:
