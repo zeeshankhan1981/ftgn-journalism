@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 46-47-Tabqa-2017.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Tabqa" :year "2017"
+#+LOCATION: Tabqa
+#+YEAR: 2017
 
 
 The U.S. provided air cover during the Syrian Democratic Forces’ offensive to capture Tabqa from ISIS. Airstrikes were frequent in the lead-up to the dam’s capture.

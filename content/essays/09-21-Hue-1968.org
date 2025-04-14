@@ -5,7 +5,8 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Vietnam War
 #+EXPORT_FILE_NAME: 09-21-Hue-1968.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Hue" :year "1968"
+#+LOCATION: Hue
+#+YEAR: 1968
 
 
 During the Tet Offensive, the ancient city of Hue became a battleground. U.S. Marines launched heavy artillery and aerial assaults to recapture it from North Vietnamese and Viet Cong forces.

@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 44-34-Mosul-2017.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Mosul" :year "2017"
+#+LOCATION: Mosul
+#+YEAR: 2017
 
 
 The U.S.-backed campaign to liberate Mosul from ISIS involved extensive airstrikes from late 2016 to mid-2017. Residential areas were often caught in the crossfire.

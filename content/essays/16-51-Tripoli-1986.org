@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 16-51-Tripoli-1986.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Tripoli" :year "1986"
+#+LOCATION: Tripoli
+#+YEAR: 1986
 
 
 In retaliation for the Berlin discotheque bombing, the U.S. launched Operation El Dorado Canyon, striking Tripoli and Benghazi.

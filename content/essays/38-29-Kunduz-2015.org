@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 38-29-Kunduz-2015.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Kunduz" :year "2015"
+#+LOCATION: Kunduz
+#+YEAR: 2015
 
 
 A U.S. AC-130 gunship bombed a Médecins Sans Frontières (Doctors Without Borders) trauma hospital in Kunduz, Afghanistan, killing 42 people.

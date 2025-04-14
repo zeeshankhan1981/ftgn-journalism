@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 49-03-Al-Shabab-Camp-2022.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Al Shabab Camp" :year "2022"
+#+LOCATION: Al Shabab Camp
+#+YEAR: 2022
 
 
 In February 2022, U.S. Africa Command confirmed an airstrike targeting al-Shabaab militants in Somalia. While officials claimed precision, local reports suggested civilian structures were damaged.

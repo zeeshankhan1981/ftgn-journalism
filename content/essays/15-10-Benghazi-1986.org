@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 15-10-Benghazi-1986.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Benghazi" :year "1986"
+#+LOCATION: Benghazi
+#+YEAR: 1986
 
 
 Alongside Tripoli, Benghazi was bombed by U.S. forces during Operation El Dorado Canyon. Airstrikes targeted military barracks and communications hubs.

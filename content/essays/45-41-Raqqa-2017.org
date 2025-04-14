@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 45-41-Raqqa-2017.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Raqqa" :year "2017"
+#+LOCATION: Raqqa
+#+YEAR: 2017
 
 
 During the battle to retake Raqqa from ISIS, the U.S.-led coalition launched thousands of airstrikes, leaving 80% of the city in ruins.

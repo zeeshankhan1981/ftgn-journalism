@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 40-30-Manbij-2016.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Manbij" :year "2016"
+#+LOCATION: Manbij
+#+YEAR: 2016
 
 
 Manbij was the site of intense U.S.-led coalition bombing during the campaign to expel ISIS from northern Syria.

@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 25-24-Kandahar-2001.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Kandahar" :year "2001"
+#+LOCATION: Kandahar
+#+YEAR: 2001
 
 
 As the Taliban’s spiritual capital, Kandahar was heavily bombed in late 2001. Key facilities, including mosques and Red Crescent clinics, were damaged.

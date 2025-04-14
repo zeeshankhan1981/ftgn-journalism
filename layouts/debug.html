@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="debug">
+    <h1>Debug Information</h1>
+    
+    <h2>Essays and Parameters</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Filename</th>
+                <th>Location</th>
+                <th>Year</th>
+                <th>Raw Params</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range where .Site.RegularPages "Section" "essays" }}
+            <tr>
+                <td>{{ .Title }}</td>
+                <td>{{ .File.Path }}</td>
+                <td>{{ .Params.location }}</td>
+                <td>{{ .Params.year }}</td>
+                <td><pre>{{ printf "%#v" .Params }}</pre></td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>
+{{ end }}

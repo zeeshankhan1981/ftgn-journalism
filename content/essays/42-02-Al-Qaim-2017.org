@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 42-02-Al-Qaim-2017.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Al Qaim" :year "2017"
+#+LOCATION: Al Qaim
+#+YEAR: 2017
 
 
 Al-Qaim, near the Syrian border, was one of ISIS’s final strongholds. The U.S.-led coalition launched heavy air raids ahead of the Iraqi army’s advance.

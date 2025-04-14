@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 37-37-North-Waziristan-2013.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "North Waziristan" :year "2013"
+#+LOCATION: North Waziristan
+#+YEAR: 2013
 
 
 In a rare instance, a U.S. drone strike killed a tribal elder just days before he was to lead peace talks with the Pakistani government.

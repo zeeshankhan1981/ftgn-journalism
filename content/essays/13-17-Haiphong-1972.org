@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 13-17-Haiphong-1972.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Haiphong" :year "1972"
+#+LOCATION: Haiphong
+#+YEAR: 1972
 
 
 Bui Van Phu was working at the port of Haiphong when U.S. bombers launched a series of strikes in 1972. One night, a napalm bomb exploded near a warehouse, setting off a chain reaction that engulfed surrounding buildings.

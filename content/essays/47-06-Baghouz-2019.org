@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 47-06-Baghouz-2019.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Baghouz" :year "2019"
+#+LOCATION: Baghouz
+#+YEAR: 2019
 
 
 As ISIS made its last stand in Baghouz, U.S. warplanes dropped massive ordnance on makeshift camps where fighters and civilians were mixed.

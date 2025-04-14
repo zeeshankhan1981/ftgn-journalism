@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 27-50-Tora-Bora-2001.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Tora Bora" :year "2001"
+#+LOCATION: Tora Bora
+#+YEAR: 2001
 
 
 In December 2001, the U.S. launched an intense bombardment of Tora Bora, a mountainous area where Osama bin Laden was believed to be hiding.

@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 21-39-Pristina-1999.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Pristina" :year "1999"
+#+LOCATION: Pristina
+#+YEAR: 1999
 
 
 Pristina, the capital of Kosovo, was heavily bombed during NATO’s intervention in the Yugoslav Wars.

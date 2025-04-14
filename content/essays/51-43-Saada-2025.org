@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 51-43-Saada-2025.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Saada" :year "2025"
+#+LOCATION: Saada
+#+YEAR: 2025
 
 
 Saada, a Houthi stronghold, came under intense bombardment in March 2025 as part of a U.S. air campaign.

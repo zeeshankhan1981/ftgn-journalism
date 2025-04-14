@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 41-46-Sirte-2016.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Sirte" :year "2016"
+#+LOCATION: Sirte
+#+YEAR: 2016
 
 
 During the campaign to oust ISIS from Sirte, U.S. aircraft carried out over 500 airstrikes between August and December 2016.

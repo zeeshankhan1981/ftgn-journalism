@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 24-23-Kabul-2001.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Kabul" :year "2001"
+#+LOCATION: Kabul
+#+YEAR: 2001
 
 
 In response to the September 11 attacks, the U.S. launched Operation Enduring Freedom, beginning with airstrikes on Taliban-controlled Kabul.

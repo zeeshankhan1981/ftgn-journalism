@@ -5,7 +5,8 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Korean War
 #+EXPORT_FILE_NAME: 07-52-Wonsan-1951.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Wonsan" :year "1951"
+#+LOCATION: Wonsan
+#+YEAR: 1951
 
 
 Wonsan endured the longest naval blockade and bombardment in modern history. For over 860 days, U.S. Navy ships shelled the port city nearly every day during the Korean War. In tandem, airstrikes leveled much of the urban area.

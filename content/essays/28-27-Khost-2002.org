@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 28-27-Khost-2002.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Khost" :year "2002"
+#+LOCATION: Khost
+#+YEAR: 2002
 
 
 In 2002, U.S. forces bombed Khost as part of a wider campaign to dismantle Taliban and al-Qaeda hideouts along the Pakistan border.

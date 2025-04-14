@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 33-07-Bala-Balok-2009.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Bala Balok" :year "2009"
+#+LOCATION: Bala Balok
+#+YEAR: 2009
 
 
 On May 4, 2009, U.S. airstrikes in Bala Baluk District, Farah Province, killed over 140 civilians according to Afghan officials.

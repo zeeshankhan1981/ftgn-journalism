@@ -5,7 +5,8 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Vietnam War
 #+EXPORT_FILE_NAME: 08-18-Hanoi-1965.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Hanoi" :year "1965"
+#+LOCATION: Hanoi
+#+YEAR: 1965
 
 
 Nguyen Thi Thanh was 17 when the first wave of U.S. bombers targeted Hanoi in 1965. During “Operation Rolling Thunder,” her school was struck by a 500-pound bomb. She survived by diving beneath her desk, but 12 classmates were killed instantly. Her brother, drafted into local civil defense, helped clear the rubble.

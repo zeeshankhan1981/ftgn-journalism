@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 17-38-Panama-City-1989.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Panama City" :year "1989"
+#+LOCATION: Panama City
+#+YEAR: 1989
 
 
 In Operation Just Cause, the U.S. invaded Panama to depose General Manuel Noriega. The bombing of Panama City began on December 20, 1989.

@@ -4,7 +4,8 @@
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 35-28-Kunar-2011.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Kunar" :year "2011"
+#+LOCATION: Kunar
+#+YEAR: 2011
 
 
 In March 2011, a U.S. helicopter gunship attack killed nine Afghan boys gathering firewood in Kunar Province.

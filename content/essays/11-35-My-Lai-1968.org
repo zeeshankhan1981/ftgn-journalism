@@ -5,7 +5,8 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Vietname War
 #+EXPORT_FILE_NAME: 11-35-My-Lai-1968.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "My Lai" :year "1968"
+#+LOCATION: My Lai
+#+YEAR: 1968
 
 
 Although not a traditional bombing campaign, My Lai was the site of one of the Vietnam War’s worst atrocities. U.S. troops, under the command of Lt. William Calley, massacred over 500 unarmed civilians. 
