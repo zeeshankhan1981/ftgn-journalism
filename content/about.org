@@ -1,0 +1,57 @@
+#+TITLE: About
+#+DATE: 2025-04-14
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: about
+#+HUGO_TAGS: 
+#+HUGO_CATEGORIES: 
+#+EXPORT_FILE_NAME: about
+#+LOCATION: 
+#+YEAR: 
+
+# About Against The Tide
+
+Against The Tide is a comprehensive journalism project that documents civilian experiences during U.S. military bombardments from 1944 to 2025. Comprising 52 fact-based essays, this collection provides a unique perspective on the human impact of warfare.
+
+## Project Purpose
+
+The project aims to:
+- Document civilian experiences during U.S. military operations
+- Provide factual, well-sourced accounts of bombardments
+- Offer a compassionate view of the human cost of warfare
+- Create a searchable, accessible archive of these experiences
+
+## Content Structure
+
+Each essay follows a consistent format:
+- Title indicating location and year
+- Concise account of events
+- Verified sources for further reading
+- Metadata including location, year, and themes
+
+## Technical Implementation
+
+The project is built with:
+- Hugo static site generator
+- Org mode for content creation
+- Vanilla HTML, CSS, and JavaScript
+- Responsive design for all devices
+- Dark mode support
+- Keyboard navigation
+- Print-friendly styling
+
+## Navigation Features
+
+The site includes:
+- Sortable table view of all essays
+- Search functionality
+- Keyboard shortcuts
+- Responsive design
+- Print-friendly layouts
+
+## License
+
+© 2025 TorchScribe. All rights reserved.
+
+## Contact
+
+For inquiries or feedback, please contact TorchScribe through the website.
