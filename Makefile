@@ -26,10 +26,9 @@ clean:
 serve: html
 	cd public && python3 -m http.server 8080
 
-# Deploy to GitHub Pages
-deploy: html
-	git add public/
-	git commit -m "Deploy to GitHub Pages"
-	git push origin main
+# Generate files for manual upload to torchscribe.com
+build-for-upload: html
+	@echo "Files generated in the 'public' directory are ready to be uploaded to torchscribe.com"
+	@echo "Use your preferred file transfer method (FTP, SFTP, etc.) to upload these files."
 
 .PHONY: html clean serve deploy

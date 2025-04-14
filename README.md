@@ -41,8 +41,11 @@ Edit essay files in the `essays/en/` directory using any text editor (Emacs Doom
 ### Deployment
 
 ```bash
-# Deploy to GitHub Pages
-make deploy
+# Generate files for torchscribe.com
+make build-for-upload
+
+# Then upload the contents of the 'public' directory to your web host
+# using your preferred file transfer method (FTP, SFTP, etc.)
 ```
 
 ## Keyboard Shortcuts
