@@ -1,10 +1,10 @@
-#+TITLE: 39 Pristina 1999
+#+TITLE: 09 Belgrade 1999
 #+DATE: 1999-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 20-09-Belgrade-1999
-#+HUGO_CUSTOM_FRONT_MATTER: :location "1999" :year "1999"
+#+EXPORT_FILE_NAME: 20-09-Belgrade-1999.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Belgrade, 1999" :year "1999"
 
 
 During NATO’s bombing of Yugoslavia, led by the U.S., Belgrade faced weeks of strikes targeting infrastructure and media centers.

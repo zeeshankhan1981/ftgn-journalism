@@ -1,10 +1,10 @@
-#+TITLE: 16 Haditha 2005
+#+TITLE: 14 Fallujah 2004
 #+DATE: 2004-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 30-14-Fallujah-2004
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2004" :year "2004"
+#+EXPORT_FILE_NAME: 30-14-Fallujah-2004.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Fallujah, 2004" :year "2004"
 
 
 Fallujah saw two major battles between U.S. forces and insurgents. In November 2004, the U.S. launched Operation Phantom Fury, deploying heavy artillery, airstrikes, and white phosphorus.

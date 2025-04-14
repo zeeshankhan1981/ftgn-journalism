@@ -1,10 +1,10 @@
-#+TITLE: 28 Kunar 2011
+#+TITLE: 31 Marjah 2010
 #+DATE: 2010-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 34-31-Marjah-2010
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2010" :year "2010"
+#+EXPORT_FILE_NAME: 34-31-Marjah-2010.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Marjah, 2010" :year "2010"
 
 
 During Operation Moshtarak, U.S. Marines launched a major offensive in Marjah, involving heavy aerial bombardment to retake the town from Taliban control.

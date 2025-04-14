@@ -1,10 +1,10 @@
-#+TITLE: 09 Belgrade 1999
+#+TITLE: 08 Basra 1991
 #+DATE: 1991-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 19-08-Basra-1991
-#+HUGO_CUSTOM_FRONT_MATTER: :location "1991" :year "1991"
+#+EXPORT_FILE_NAME: 19-08-Basra-1991.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Basra, 1991" :year "1991"
 
 
 Basra, Iraq’s southern port city, was heavily bombed during the final stages of the Gulf War. The U.S. targeted military units retreating from Kuwait and key infrastructure.

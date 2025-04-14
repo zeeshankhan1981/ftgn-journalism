@@ -1,10 +1,10 @@
-#+TITLE: 50 Tora Bora 2001
+#+TITLE: 32 Mazar I Sharif 2001
 #+DATE: 2001-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 26-32-Mazar-i-Sharif-2001
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2001" :year "2001"
+#+EXPORT_FILE_NAME: 26-32-Mazar-i-Sharif-2001.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Mazar I Sharif, 2001" :year "2001"
 
 
 U.S. air support played a pivotal role in the Northern Alliance's capture of Mazar-i-Sharif. The city was bombed repeatedly before Taliban forces withdrew.

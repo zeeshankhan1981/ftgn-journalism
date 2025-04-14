@@ -1,10 +1,10 @@
-#+TITLE: 29 Kunduz 2015
+#+TITLE: 37 North Waziristan 2013
 #+DATE: 2013-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 37-37-North-Waziristan-2013
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2013" :year "2013"
+#+EXPORT_FILE_NAME: 37-37-North-Waziristan-2013.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "North Waziristan, 2013" :year "2013"
 
 
 In a rare instance, a U.S. drone strike killed a tribal elder just days before he was to lead peace talks with the Pakistani government.

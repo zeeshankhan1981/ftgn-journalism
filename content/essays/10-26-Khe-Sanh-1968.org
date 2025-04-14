@@ -1,10 +1,10 @@
-#+TITLE: 35 My Lai 1968
+#+TITLE: 26 Khe Sanh 1968
 #+DATE: 1968-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 10-26-Khe-Sanh-1968
-#+HUGO_CUSTOM_FRONT_MATTER: :location "1968" :year "1968"
+#+EXPORT_FILE_NAME: 10-26-Khe-Sanh-1968.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Khe Sanh, 1968" :year "1968"
 
 
 Pham Quang Huy was a porter for the South Vietnamese army stationed near the Khe Sanh combat base when the siege began. U.S. forces dropped more than 100,000 tons of bombs in 77 days—the equivalent of five Hiroshima-level bombs.

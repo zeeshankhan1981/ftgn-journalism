@@ -1,10 +1,10 @@
-#+TITLE: 26 Khe Sanh 1968
+#+TITLE: 21 Hue 1968
 #+DATE: 1968-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 09-21-Hue-1968
-#+HUGO_CUSTOM_FRONT_MATTER: :location "1968" :year "1968"
+#+EXPORT_FILE_NAME: 09-21-Hue-1968.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Hue, 1968" :year "1968"
 
 
 During the Tet Offensive, the ancient city of Hue became a battleground. U.S. Marines launched heavy artillery and aerial assaults to recapture it from North Vietnamese and Viet Cong forces.

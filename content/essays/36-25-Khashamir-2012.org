@@ -1,10 +1,10 @@
-#+TITLE: 37 North Waziristan 2013
+#+TITLE: 25 Khashamir 2012
 #+DATE: 2012-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 36-25-Khashamir-2012
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2012" :year "2012"
+#+EXPORT_FILE_NAME: 36-25-Khashamir-2012.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Khashamir, 2012" :year "2012"
 
 
 On the day of his wedding, Salem bin Ali Jaber, a cleric and vocal opponent of al-Qaeda, was killed in a U.S. drone strike.

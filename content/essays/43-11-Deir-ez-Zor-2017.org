@@ -1,10 +1,10 @@
-#+TITLE: 34 Mosul 2017
+#+TITLE: 11 Deir Ez Zor 2017
 #+DATE: 2017-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 43-11-Deir-ez-Zor-2017
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2017" :year "2017"
+#+EXPORT_FILE_NAME: 43-11-Deir-ez-Zor-2017.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Deir Ez Zor, 2017" :year "2017"
 
 
 As the Syrian government and U.S.-backed forces closed in on ISIS in Deir ez-Zor, the city was heavily bombarded.

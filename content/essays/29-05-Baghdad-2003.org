@@ -1,10 +1,10 @@
-#+TITLE: 14 Fallujah 2004
+#+TITLE: 05 Baghdad 2003
 #+DATE: 2003-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
-#+EXPORT_FILE_NAME: 29-05-Baghdad-2003
-#+HUGO_CUSTOM_FRONT_MATTER: :location "2003" :year "2003"
+#+EXPORT_FILE_NAME: 29-05-Baghdad-2003.org
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Baghdad, 2003" :year "2003"
 
 
 The “shock and awe” campaign marked the start of the U.S.-led invasion of Iraq. On March 20, 2003, Baghdad was blanketed with explosions as over 1,700 air sorties were launched in a single day.
