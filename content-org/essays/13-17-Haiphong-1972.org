@@ -1,0 +1,21 @@
+#+TITLE: 15 Granada 1983
+#+DATE: 1972-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 13-17-Haiphong-1972
+#+HUGO_CUSTOM_FRONT_MATTER: :location "1972" :year "1972"
+
+
+Bui Van Phu was working at the port of Haiphong when U.S. bombers launched a series of strikes in 1972. One night, a napalm bomb exploded near a warehouse, setting off a chain reaction that engulfed surrounding buildings.
+
+Phu helped evacuate wounded workers and lost two friends in the inferno. After the bombing, he spent weeks removing debris, only to be bombed again days later during another raid.
+
+The U.S. campaign aimed to disrupt North Vietnam’s logistics and shipping, but it severely impacted civilians working in the country’s most critical port city.
+
+**Source:** [Vietnam Ministry of Information](https://vietnamnews.vn)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

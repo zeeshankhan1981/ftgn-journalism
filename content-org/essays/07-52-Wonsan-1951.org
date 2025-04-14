@@ -1,0 +1,21 @@
+#+TITLE: 18 Hanoi 1965
+#+DATE: 1951-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 07-52-Wonsan-1951
+#+HUGO_CUSTOM_FRONT_MATTER: :location "1951" :year "1951"
+
+
+Wonsan endured the longest naval blockade and bombardment in modern history. For over 860 days, U.S. Navy ships shelled the port city nearly every day during the Korean War. In tandem, airstrikes leveled much of the urban area.
+
+Han Myong-suk was 10 years old when her school was bombed. She later recalled crawling through rubble to find her cousin, who was buried under debris. Her family relocated inland, where they struggled with starvation and disease.
+
+The sustained assault made Wonsan a symbol of relentless U.S. firepower. Though intended as a military strategy, the prolonged bombardment also devastated civilian infrastructure and livelihoods.
+
+**Source:** [Korean War Legacy Foundation](https://koreanwarlegacy.org)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

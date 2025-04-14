@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - Against The Tide</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content=" - Against The Tide">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content=" - Against The Tide">
+    <meta property="og:description" content=" - Against The Tide">
+    <meta property="og:url" content="https://torchscribe.com/essays/html/08-18-Hanoi-1965.html">
+    
+    <!-- Fonts and Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Against <span>The</span> Tide</div>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/#essays">Essays</a>
+                <a href="/about.html">About</a>
+                <button id="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="theme-toggle-icon">◐</span>
+                </button>
+            </nav>
+        </header>
+
+        <main class="essay-content markdown-content">
+            <header class="essay-header">
+                <h1></h1>
+            </header>
+            
+            <article class="essay-article">
+                <p>Nguyen Thi Thanh was 17 when the first wave of U.S. bombers targeted Hanoi in 1965. During “Operation Rolling Thunder,” her school was struck by a 500-pound bomb. She survived by diving beneath her desk, but 12 classmates were killed instantly. Her brother, drafted into local civil defense, helped clear the rubble. </p><p>Between 1965 and 1972, Hanoi faced repeated waves of aerial assault. The most intense came in December 1972 during “Operation Linebacker II,” which dropped over 20,000 tons of bombs on the city in just 12 days. </p><p>Thanh later became a doctor, treating patients suffering from long-term effects of the bombings, including trauma, burns, and radiation exposure from certain U.S. munitions. </p><p><strong>Source:</strong> <a href="https://www.redcross.org.vn" target="_blank" rel="noopener noreferrer">Vietnamese Red Cross</a> </p>
+            </article>
+            
+            <div class="essay-navigation">
+                <a href="/#essays" class="back-to-essays">← Back to Essays</a>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Against The Tide · All rights reserved</p>
+            <p>Curated by TorchScribe</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Dark mode toggle functionality
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get theme preference
+            const getThemePreference = () => {
+                if (localStorage.getItem('theme')) {
+                    return localStorage.getItem('theme');
+                }
+                return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            };
+            
+            // Apply the theme
+            const setTheme = (theme) => {
+                document.documentElement.setAttribute('data-theme', theme);
+                localStorage.setItem('theme', theme);
+            };
+            
+            // Set initial theme
+            setTheme(getThemePreference());
+            
+            // Toggle theme on click
+            const themeToggle = document.getElementById('theme-toggle');
+            themeToggle.addEventListener('click', () => {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                
+                setTheme(newTheme);
+            });
+            
+            // Keyboard navigation
+            document.addEventListener('keydown', (e) => {
+                // Alt+Home goes to home page
+                if (e.altKey && e.key === 'Home') {
+                    e.preventDefault();
+                    window.location.href = '/';
+                }
+                
+                // Alt+E returns to essay list
+                if (e.altKey && e.key === 'e') {
+                    e.preventDefault();
+                    window.location.href = '/#essays';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

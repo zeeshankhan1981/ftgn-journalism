@@ -1,0 +1,21 @@
+#+TITLE: 45 Sanaa 2025
+#+DATE: 2025-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 51-43-Saada-2025
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2025" :year "2025"
+
+
+Saada, a Houthi stronghold, came under intense bombardment in March 2025 as part of a U.S. air campaign.
+
+Hussein Sharaf, a shopkeeper, lost his wife and daughter when their home was struck. He returned from evening prayers to find rubble where his house stood. He later buried his family in the city’s crowded cemetery, which overflowed with civilian casualties.
+
+Journalists visiting Saada reported entire blocks flattened and a surge in amputations at local hospitals overwhelmed by trauma cases.
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2025/03/20/us-strikes-yemen-civilian-casualties)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

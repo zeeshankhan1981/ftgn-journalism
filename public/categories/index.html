@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories - Against The Tide</title>
+    
+    
+    <meta name="description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Categories - Against The Tide">
+    <meta property="og:description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta property="og:url" content="http://localhost:1313/categories/">
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    
+    <script>
+        
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        
+        
+        <a href="/" >Home</a>
+        
+        <a href="/#essays" >Essays</a>
+        
+        <a href="/about/" >About</a>
+        
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>
+
+        <main>
+            
+<div class="list-container">
+    <h1>Categories</h1>
+    
+    <div class="list-controls">
+        <input type="text" id="essay-search" placeholder="Search essays..." aria-label="Search essays">
+        <div class="sort-options">
+            <button class="sort-button active" data-sort="title">Title</button>
+            <button class="sort-button" data-sort="location">Location</button>
+            <button class="sort-button" data-sort="year">Year</button>
+        </div>
+    </div>
+    
+    <ul class="essay-list" id="essays">
+        
+        <li class="essay-item" data-location="" data-year="">
+            <a href="http://localhost:1313/categories/civilian/" class="essay-link">
+                <span class="essay-title">Civilian</span>
+                <span class="essay-meta">, </span>
+            </a>
+        </li>
+        
+    </ul>
+</div>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchInput = document.getElementById('essay-search');
+        const essayItems = document.querySelectorAll('.essay-item');
+        
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            essayItems.forEach(item => {
+                const title = item.querySelector('.essay-title').textContent.toLowerCase();
+                const meta = item.querySelector('.essay-meta').textContent.toLowerCase();
+                
+                if (title.includes(searchTerm) || meta.includes(searchTerm)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+        
+        
+        const sortButtons = document.querySelectorAll('.sort-button');
+        const essayList = document.getElementById('essays');
+        
+        sortButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                sortButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                const sortBy = button.dataset.sort;
+                const essays = Array.from(essayItems);
+                
+                essays.sort((a, b) => {
+                    if (sortBy === 'title') {
+                        return a.querySelector('.essay-title').textContent.localeCompare(
+                            b.querySelector('.essay-title').textContent
+                        );
+                    } else if (sortBy === 'location') {
+                        return a.dataset.location.localeCompare(b.dataset.location);
+                    } else if (sortBy === 'year') {
+                        return a.dataset.year.localeCompare(b.dataset.year);
+                    }
+                });
+                
+                essayList.innerHTML = '';
+                essays.forEach(essay => {
+                    essayList.appendChild(essay);
+                });
+            });
+        });
+    });
+</script>
+
+        </main>
+
+        <footer>
+    <p>© 2025 Against The Tide · All rights reserved</p>
+    <p>Curated by TorchScribe</p>
+</footer>
+    </div>
+
+    <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            setTheme(newTheme);
+        });
+    });
+    
+    
+    document.addEventListener('keydown', (e) => {
+        
+        if (e.altKey && e.key === 's') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'Home') {
+            e.preventDefault();
+            window.location.href = '/';
+        }
+        
+        
+        if (e.altKey && e.key === 'e') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'a') {
+            e.preventDefault();
+            window.location.href = '/about/';
+        }
+    });
+</script>
+</body>
+</html>

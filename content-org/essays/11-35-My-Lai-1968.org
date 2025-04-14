@@ -1,0 +1,21 @@
+#+TITLE: 44 Saigon 1968
+#+DATE: 1968-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 11-35-My-Lai-1968
+#+HUGO_CUSTOM_FRONT_MATTER: :location "1968" :year "1968"
+
+
+Although not a traditional bombing campaign, My Lai was the site of one of the Vietnam War’s worst atrocities. U.S. troops, under the command of Lt. William Calley, massacred over 500 unarmed civilians. 
+
+Do Ba, 10 years old, hid in a ditch with his younger sister. He watched soldiers execute his neighbors at close range. A helicopter crew—Warrant Officer Hugh Thompson and his gunners—landed amid the chaos and stopped further killings by threatening their fellow Americans.
+
+Do Ba survived and later testified before Vietnamese and foreign investigators.
+
+**Source:** [Peabody Award-winning PBS Documentary](https://www.pbs.org/wgbh/americanexperience/films/mylai/)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

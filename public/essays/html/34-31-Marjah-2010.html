@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - Against The Tide</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content=" - Against The Tide">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content=" - Against The Tide">
+    <meta property="og:description" content=" - Against The Tide">
+    <meta property="og:url" content="https://torchscribe.com/essays/html/34-31-Marjah-2010.html">
+    
+    <!-- Fonts and Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Against <span>The</span> Tide</div>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/#essays">Essays</a>
+                <a href="/about.html">About</a>
+                <button id="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="theme-toggle-icon">◐</span>
+                </button>
+            </nav>
+        </header>
+
+        <main class="essay-content markdown-content">
+            <header class="essay-header">
+                <h1></h1>
+            </header>
+            
+            <article class="essay-article">
+                <p>During Operation Moshtarak, U.S. Marines launched a major offensive in Marjah, involving heavy aerial bombardment to retake the town from Taliban control. </p><p>Amina Baloch, a mother of five, was preparing dinner when her neighbor’s house was flattened by a precision-guided missile. Her 12-year-old son was wounded by shrapnel. </p><p>She spent three nights in a trench with her children before they were evacuated by Red Crescent volunteers. The U.S. claimed success in routing insurgents, but many residents like Amina returned to find their homes in ruins. </p><p><strong>Source:</strong> <a href="https://www.npr.org/templates/story/story.php?storyId=124633206" target="_blank" rel="noopener noreferrer">NPR</a> </p>
+            </article>
+            
+            <div class="essay-navigation">
+                <a href="/#essays" class="back-to-essays">← Back to Essays</a>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Against The Tide · All rights reserved</p>
+            <p>Curated by TorchScribe</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Dark mode toggle functionality
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get theme preference
+            const getThemePreference = () => {
+                if (localStorage.getItem('theme')) {
+                    return localStorage.getItem('theme');
+                }
+                return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            };
+            
+            // Apply the theme
+            const setTheme = (theme) => {
+                document.documentElement.setAttribute('data-theme', theme);
+                localStorage.setItem('theme', theme);
+            };
+            
+            // Set initial theme
+            setTheme(getThemePreference());
+            
+            // Toggle theme on click
+            const themeToggle = document.getElementById('theme-toggle');
+            themeToggle.addEventListener('click', () => {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                
+                setTheme(newTheme);
+            });
+            
+            // Keyboard navigation
+            document.addEventListener('keydown', (e) => {
+                // Alt+Home goes to home page
+                if (e.altKey && e.key === 'Home') {
+                    e.preventDefault();
+                    window.location.href = '/';
+                }
+                
+                // Alt+E returns to essay list
+                if (e.altKey && e.key === 'e') {
+                    e.preventDefault();
+                    window.location.href = '/#essays';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

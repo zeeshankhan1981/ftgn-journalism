@@ -1,0 +1,21 @@
+#+TITLE: 02 Al Qaim 2017
+#+DATE: 2016-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 41-46-Sirte-2016
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2016" :year "2016"
+
+
+During the campaign to oust ISIS from Sirte, U.S. aircraft carried out over 500 airstrikes between August and December 2016.
+
+Salwa Ben Gassem, a midwife, was caught in the crossfire when an airstrike hit a building two doors from her clinic. The shockwave ruptured her eardrum and injured a newborn baby she was helping deliver.
+
+After the campaign, she joined a community-led effort to establish a new field hospital. Much of Sirte’s medical infrastructure was destroyed during the bombing.
+
+**Source:** [United Nations Reports on Libya](https://unsmil.unmissions.org)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

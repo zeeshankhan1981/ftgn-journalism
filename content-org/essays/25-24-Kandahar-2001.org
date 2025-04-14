@@ -1,0 +1,21 @@
+#+TITLE: 32 Mazar I Sharif 2001
+#+DATE: 2001-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 25-24-Kandahar-2001
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2001" :year "2001"
+
+
+As the Taliban’s spiritual capital, Kandahar was heavily bombed in late 2001. Key facilities, including mosques and Red Crescent clinics, were damaged.
+
+Fatima Achakzai, a schoolteacher, was inside a girls' school when a bomb struck nearby. Windows shattered and debris injured several students. Her classroom ceiling collapsed, but she shielded a child from falling rubble.
+
+After the Taliban fled, she reopened classes in tents. She became an advocate for girls' education despite trauma and instability.
+
+**Source:** [PBS Frontline](https://www.pbs.org/frontline/shows/campaign/)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

@@ -1,0 +1,21 @@
+#+TITLE: 25 Khashamir 2012
+#+DATE: 2011-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 35-28-Kunar-2011
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2011" :year "2011"
+
+
+In March 2011, a U.S. helicopter gunship attack killed nine Afghan boys gathering firewood in Kunar Province.
+
+Rafiq Rahmani, 12, survived with shrapnel wounds. He described how his younger brother was blown apart by the first missile. The boys had gone to collect wood after school, wearing bright-colored clothes.
+
+General David Petraeus issued an apology, but local villagers protested for days. Rafiq left school afterward and never returned, haunted by survivor’s guilt.
+
+**Source:** [The Guardian](https://www.theguardian.com/world/2011/mar/03/nine-afghan-boys-killed)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

@@ -1,0 +1,21 @@
+#+TITLE: 48 Tikrit 2015
+#+DATE: 2015-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 38-29-Kunduz-2015
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2015" :year "2015"
+
+
+A U.S. AC-130 gunship bombed a Médecins Sans Frontières (Doctors Without Borders) trauma hospital in Kunduz, Afghanistan, killing 42 people.
+
+Dr. Hamid Ullah was on a night shift when the first shells hit. The ICU caught fire, and he struggled to rescue unconscious patients. The strike continued for over 30 minutes despite MSF's warnings to military officials.
+
+U.S. authorities later called it a “mistake,” but survivors like Dr. Ullah viewed it as a failure of accountability. The hospital was the only major trauma center in northeastern Afghanistan.
+
+**Source:** [Doctors Without Borders](https://www.doctorswithoutborders.org/what-we-do/news-stories/news/kunduz-hospital-attack-what-happened)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

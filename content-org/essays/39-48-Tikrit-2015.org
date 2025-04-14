@@ -1,0 +1,21 @@
+#+TITLE: 30 Manbij 2016
+#+DATE: 2015-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 39-48-Tikrit-2015
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2015" :year "2015"
+
+
+U.S. aircraft supported Iraqi forces retaking Tikrit from ISIS with heavy airstrikes that targeted entrenched militant positions in the city center.
+
+Hussein Ali, a barber, had returned briefly to his shop to collect supplies when the bombing resumed. A nearby ISIS weapons depot exploded, throwing him into a wall. He survived with a broken arm and severe burns.
+
+The city was eventually liberated, but much of the civilian infrastructure was lost. Hussein’s shop, where three generations of his family had worked, was never rebuilt.
+
+**Source:** [Reuters](https://www.reuters.com/article/us-mideast-crisis-iraq-usa-insight-idUSKBN0MT0CA20150401)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

@@ -1,0 +1,12 @@
+<header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>

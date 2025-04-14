@@ -1,37 +1,45 @@
-# Build HTML from Markdown
-html: clean
-	mkdir -p public/essays
-	mkdir -p public/css public/js public/img
-	
-	# No need to copy files - they're already in place
-	
-	# Build home page
-	cp src/templates/base.html public/index.html
-	
-	# Essays are already in the public folder
-	mkdir -p public/essays/en
-	mkdir -p public/essays/html
-	
-	# Convert markdown to HTML with fixed script
-	chmod +x scripts/fix-converter.sh
-	./scripts/fix-converter.sh
-	
-	# Metadata is already in the public folder
-	
-	# Copy about page
-	cp -f about.html public/
+.PHONY: build clean serve hugo-build build-for-upload convert-org help all
 
-# Clean build directory
+# Default target
+all: build
+
+# Clean build artifacts
 clean:
-	rm -rf public/*.html public/essays/*.html
+	rm -rf public/*
 
-# Serve locally
-serve: html
-	cd public && python3 -m http.server 8080
+# Build the site with Hugo
+hugo-build: clean
+	hugo --minify
 
-# Generate files for manual upload to torchscribe.com
-build-for-upload: html
-	@echo "Files generated in the 'public' directory are ready to be uploaded to torchscribe.com"
-	@echo "Use your preferred file transfer method (FTP, SFTP, etc.) to upload these files."
+# Start Hugo development server
+serve:
+	./scripts/hugo-server.sh
 
-.PHONY: html clean serve deploy
+# Convert Org files to Hugo markdown
+convert-org:
+	@echo "Converting Org files to Hugo markdown..."
+	@echo "Note: This should be done in Emacs with ox-hugo (C-c C-e H H)"
+	@echo "This target is just a reminder."
+
+# Build for upload to torchscribe.com
+build-for-upload: hugo-build
+	@echo "Site built successfully in public/ directory"
+	@echo "Ready for upload to torchscribe.com"
+
+# Legacy build method (kept for compatibility)
+html: clean
+	@echo "Legacy build system is deprecated. Using Hugo instead."
+	$(MAKE) hugo-build
+
+# Help command
+help:
+	@echo "Available commands:"
+	@echo "  make              - Build the site with Hugo"
+	@echo "  make clean        - Remove build artifacts"
+	@echo "  make serve        - Start Hugo development server"
+	@echo "  make convert-org  - Reminder to convert Org files"
+	@echo "  make build-for-upload - Build site for upload to torchscribe.com"
+	@echo "  make html         - Legacy build (redirects to Hugo build)"
+
+# Build is the default target
+build: hugo-build

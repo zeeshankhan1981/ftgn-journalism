@@ -1,0 +1,21 @@
+#+TITLE: 12 Derunta 2001
+#+DATE: 1999-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 21-39-Pristina-1999
+#+HUGO_CUSTOM_FRONT_MATTER: :location "1999" :year "1999"
+
+
+Pristina, the capital of Kosovo, was heavily bombed during NATO’s intervention in the Yugoslav Wars.
+
+Arta Bunjaku, a teenager, sheltered in her school’s basement with dozens of neighbors. When an electricity substation was destroyed, the city was plunged into darkness for days. Her uncle, a mechanic, died when a missile struck a nearby bus station.
+
+After the bombing ended, Arta emerged to find her neighborhood flattened. She later worked with UNHCR as a translator, helping displaced families recount their experiences.
+
+**Source:** [Human Rights Watch](https://www.hrw.org/reports/2000/nato/)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

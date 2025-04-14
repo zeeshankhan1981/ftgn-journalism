@@ -1,0 +1,106 @@
+{{ define "main" }}
+<div class="homepage">
+    <section class="hero">
+        <h1>Against <span>The</span> Tide</h1>
+        <p class="subtitle">A series of fact-based civilian experience essays documenting U.S. military bombardments</p>
+    </section>
+    
+    <section class="essays-section">
+        <h2>Essays Archive</h2>
+        
+        <div class="search-container">
+            <input type="text" id="essay-search" class="search-bar" placeholder="Search essays..." aria-label="Search essays">
+        </div>
+        
+        <div class="essays-list" id="essays">
+            <table class="essays-table">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-sort="title">Title <span class="sort-indicator">↓</span></th>
+                        <th class="sortable" data-sort="location">Location</th>
+                        <th class="sortable" data-sort="year">Year</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ range where .Site.RegularPages "Section" "essays" }}
+                    <tr class="essay-row" data-title="{{ .Title }}" data-location="{{ .Params.location }}" data-year="{{ .Params.year }}">
+                        <td class="essay-title">{{ .Title }}</td>
+                        <td>{{ .Params.location }}</td>
+                        <td>{{ .Params.year }}</td>
+                        <td><a href="{{ .Permalink }}" class="read-link">Read</a></td>
+                    </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </div>
+    </section>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Search functionality
+        const searchInput = document.getElementById('essay-search');
+        const essayRows = document.querySelectorAll('.essay-row');
+        
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            essayRows.forEach(row => {
+                const title = row.dataset.title.toLowerCase();
+                const location = row.dataset.location.toLowerCase();
+                const year = row.dataset.year.toLowerCase();
+                
+                if (title.includes(searchTerm) || location.includes(searchTerm) || year.includes(searchTerm)) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
+        
+        // Sort functionality
+        const sortableHeaders = document.querySelectorAll('.sortable');
+        
+        sortableHeaders.forEach(header => {
+            header.addEventListener('click', () => {
+                const sortBy = header.dataset.sort;
+                const table = document.querySelector('.essays-table');
+                const rows = Array.from(table.querySelectorAll('tbody tr'));
+                
+                // Indicators reset
+                sortableHeaders.forEach(h => h.querySelector('.sort-indicator').textContent = '');
+                
+                // Get current sort direction (asc or desc based on data attribute)
+                const currentDirection = header.dataset.sortDir || 'asc';
+                const newDirection = currentDirection === 'asc' ? 'desc' : 'asc';
+                
+                // Set new direction
+                header.dataset.sortDir = newDirection;
+                
+                // Update indicator
+                header.querySelector('.sort-indicator').textContent = newDirection === 'asc' ? '↑' : '↓';
+                
+                // Sort rows
+                rows.sort((a, b) => {
+                    const aValue = a.dataset[sortBy].toLowerCase();
+                    const bValue = b.dataset[sortBy].toLowerCase();
+                    
+                    if (newDirection === 'asc') {
+                        return aValue.localeCompare(bValue);
+                    } else {
+                        return bValue.localeCompare(aValue);
+                    }
+                });
+                
+                // Reorder rows
+                const tbody = table.querySelector('tbody');
+                rows.forEach(row => tbody.appendChild(row));
+            });
+        });
+        
+        // Set initial sort (title ascending)
+        document.querySelector('[data-sort="title"]').click();
+    });
+</script>
+{{ end }}

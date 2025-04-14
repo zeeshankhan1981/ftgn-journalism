@@ -8,35 +8,71 @@ Against The Tide is a collection of 250-word essays documenting civilian experie
 
 ## Features
 
-- **Markdown-based content**: All essays are stored as simple Markdown files
+- **Org-mode content**: Essays are written in Emacs Org mode
+- **Hugo-powered site**: Fast, modern static site generation
 - **Modern, responsive design**: Typewriter-inspired, minimalist presentation 
 - **Dark mode support**: Toggle between light/dark themes
 - **Keyboard navigation**: Quick access with keyboard shortcuts
-- **Sortable list view**: Sort essays by title, location, year, or theme
+- **Sortable table view**: Sort essays by title, location, year
 - **Print-friendly styling**: Well-formatted printed output
 
 ## Directory Structure
 
-- `essays/` - All 250-word essays in Markdown format
+- `content-org/` - Original essay content in Org format
+- `content/` - Hugo content (auto-generated from Org)
 - `public/` - Generated website files
-- `src/` - Template files for site generation
-- `scripts/` - Helper scripts for development
+- `layouts/` - Hugo templates for site generation
+- `static/` - Static assets (CSS, JS, images)
+- `archetypes/` - Content templates for Hugo
 
-## Usage
+## Workflow
+
+### Content Creation
+
+Essays are written in Org mode using Emacs (Doom Emacs recommended) and stored in the `content-org/essays/` directory.
+
+```org
+#+TITLE: Location Year
+#+DATE: YYYY-MM-DD
+#+HUGO_TAGS: tag1 tag2
+#+HUGO_CATEGORIES: category
+#+HUGO_SECTION: essays
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Location" :year "Year"
+#+EXPORT_FILE_NAME: file-name
+
+Essay content here...
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:
+
+Source citations here...
+```
 
 ### Local Development
 
 ```bash
-# Start local server (builds site and opens in browser)
-./scripts/start-server.sh
+# Start Hugo development server
+./scripts/hugo-server.sh
+# or
+make serve
 
 # Stop any running servers
 ./scripts/stop-servers.sh
 ```
 
-### Content Management
+### Converting Existing Content
 
-Edit essay files in the `essays/en/` directory using any text editor (Emacs Doom recommended).
+Two scripts are provided to help with content conversion:
+
+```bash
+# Convert existing markdown to Hugo format
+./scripts/convert-md-to-hugo.sh
+
+# Convert existing markdown to Org format
+./scripts/setup-org-workflow.sh
+```
 
 ### Deployment
 
@@ -47,6 +83,10 @@ make build-for-upload
 # Then upload the contents of the 'public' directory to your web host
 # using your preferred file transfer method (FTP, SFTP, etc.)
 ```
+
+### New Installation
+
+For setting up on a new machine, see [SETUP.md](SETUP.md) for detailed instructions.
 
 ## Keyboard Shortcuts
 
@@ -59,4 +99,3 @@ make build-for-upload
 ## License
 
 © 2025 TorchScribe. All rights reserved.
-EOF < /dev/null

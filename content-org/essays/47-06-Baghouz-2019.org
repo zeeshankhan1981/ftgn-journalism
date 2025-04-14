@@ -1,0 +1,21 @@
+#+TITLE: 01 Al Bayda 2020
+#+DATE: 2019-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 47-06-Baghouz-2019
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2019" :year "2019"
+
+
+As ISIS made its last stand in Baghouz, U.S. warplanes dropped massive ordnance on makeshift camps where fighters and civilians were mixed.
+
+Um Yasir, a Syrian mother of three, had taken refuge in a tent when the bombing began. Her youngest daughter died instantly. Um Yasir survived with burns and shrapnel wounds.
+
+Investigative reports later revealed that the U.S. failed to disclose the strike, which may have killed over 80 people. Her story was documented by journalists who arrived weeks after the area was secured.
+
+**Source:** [The New York Times](https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

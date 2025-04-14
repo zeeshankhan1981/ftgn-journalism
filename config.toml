@@ -1,0 +1,63 @@
+baseURL = "https://torchscribe.com/"
+languageCode = "en-us"
+title = "Against The Tide"
+description = "A series of fact-based civilian experience essays documenting U.S. military bombardments"
+
+# Content Management
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+# URL Management
+[permalinks]
+essays = "/:section/:filename/"
+
+# Theme Parameters
+[params]
+  author = "TorchScribe"
+  description = "A series of fact-based civilian experience essays documenting U.S. military bombardments"
+  mainSections = ["essays"]
+  dateFormat = "January 2, 2006"
+  copyright = "© 2025 Against The Tide · All rights reserved"
+  
+  # Custom Parameters
+  [params.ui]
+    darkMode = true
+    typewriter = true
+    
+  [params.footer]
+    text = "Curated by TorchScribe"
+
+# Menu Configuration
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Essays"
+    url = "/#essays"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+# Enable syntax highlighting
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    style = "github"
+
+  [markup.goldmark.renderer]
+    unsafe = true  # Allow HTML in markdown
+
+# Taxonomy settings
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  year = "years"

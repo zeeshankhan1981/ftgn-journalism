@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    
+    <!-- Fonts and Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    <!-- Dark Mode Toggle Script -->
+    <script>
+        // Check for saved theme preference or use system preference
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        // Apply the theme
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        // Set theme on initial load
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        {{ partial "header.html" . }}
+
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+
+        {{ partial "footer.html" . }}
+    </div>
+
+    {{ partial "scripts.html" . }}
+</body>
+</html>

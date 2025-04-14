@@ -1,0 +1,21 @@
+#+TITLE: 09 Belgrade 1999
+#+DATE: 1991-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 19-08-Basra-1991
+#+HUGO_CUSTOM_FRONT_MATTER: :location "1991" :year "1991"
+
+
+Basra, Iraq’s southern port city, was heavily bombed during the final stages of the Gulf War. The U.S. targeted military units retreating from Kuwait and key infrastructure.
+
+Ali Jassim, a 19-year-old conscript, was stationed near the outskirts when cluster bombs hit his convoy. He survived by diving into a roadside ditch, but dozens of fellow soldiers were killed. Later, he described scenes of devastation—burned-out tanks, dead animals, and oil fires turning the sky black.
+
+Basra’s civilian population endured long-term effects from the war, including contaminated water supplies and chronic health issues tied to the destruction of sanitation systems.
+
+**Source:** [Amnesty International](https://www.amnesty.org)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

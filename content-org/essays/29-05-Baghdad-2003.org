@@ -1,0 +1,21 @@
+#+TITLE: 14 Fallujah 2004
+#+DATE: 2003-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 29-05-Baghdad-2003
+#+HUGO_CUSTOM_FRONT_MATTER: :location "2003" :year "2003"
+
+
+The “shock and awe” campaign marked the start of the U.S.-led invasion of Iraq. On March 20, 2003, Baghdad was blanketed with explosions as over 1,700 air sorties were launched in a single day.
+
+Khalid al-Janabi, a pharmacist, was watching television with his children when the first strike hit a government complex two blocks away. The windows shattered. Fearing for their lives, the family fled to their basement.
+
+Al-Janabi's pharmacy was later destroyed in a fire caused by a misfired missile. He salvaged medicines and distributed them for free in his neighborhood.
+
+**Source:** [BBC News](https://www.bbc.com/news/world-middle-east-32057228)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:

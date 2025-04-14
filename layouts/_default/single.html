@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article class="essay-content markdown-content">
+    <header class="essay-header">
+        <h1>{{ .Title }}</h1>
+        <div class="metadata">
+            <p><strong>Location:</strong> {{ .Params.location }}</p>
+            <p><strong>Year:</strong> {{ .Params.year }}</p>
+        </div>
+    </header>
+    
+    <div class="essay-article">
+        {{ .Content }}
+    </div>
+    
+    {{ with .Params.tags }}
+    <div class="essay-tags">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    <div class="essay-navigation">
+        <a href="/#essays" class="back-to-essays">← Back to Essays</a>
+    </div>
+</article>
+{{ end }}

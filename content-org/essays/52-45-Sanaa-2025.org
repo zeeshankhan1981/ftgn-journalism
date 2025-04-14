@@ -1,0 +1,21 @@
+#+TITLE: Sanaa 2025
+#+DATE: 2025-01-01
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: essays
+#+HUGO_TAGS: civilian
+#+EXPORT_FILE_NAME: 52-45-Sanaa-2025
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Sanaa" :year "2025"
+
+
+On March 15, 2025, U.S. and allied forces launched a large-scale bombing campaign on Houthi targets in Sanaa, Yemen’s capital.
+
+Aisha al-Mutairi, a pediatrician, was tending patients when missiles struck a nearby arms depot. The shockwave collapsed part of the children’s hospital wing. She pulled two infants from rubble and worked overnight to stabilize the injured with dwindling supplies.
+
+Her account, circulated by Doctors Without Borders, illustrated the humanitarian cost of renewed U.S. involvement in Yemen.
+
+**Source:** [MSF/Doctors Without Borders](https://www.doctorswithoutborders.org/latest/yemen-2025)
+
+* Sources
+:PROPERTIES:
+:EXPORT_EXCLUDE: t
+:END:
