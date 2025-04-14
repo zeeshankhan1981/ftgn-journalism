@@ -1,10 +1,10 @@
-#+TITLE: 01 Al Bayda 2020
+#+TITLE: Al Bayda 2020
 #+DATE: 2020-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 48-01-Al-Bayda-2020.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Al Bayda, 2020" :year "2020"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Al Bayda" :year "2020"
 
 
 U.S. drone strikes targeted alleged AQAP operatives in Al Bayda province. Locals reported civilian casualties, including two boys riding a motorbike.

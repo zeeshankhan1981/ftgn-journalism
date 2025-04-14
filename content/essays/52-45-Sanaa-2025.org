@@ -1,10 +1,10 @@
-#+TITLE: 45 Sanaa 2025
+#+TITLE: Sanaa 2025
 #+DATE: 2025-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 52-45-Sanaa-2025.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Sanaa, 2025" :year "2025"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Sanaa" :year "2025"
 
 
 On March 15, 2025, U.S. and allied forces launched a large-scale bombing campaign on Houthi targets in Sanaa, Yemen’s capital.

@@ -1,10 +1,10 @@
-#+TITLE: 48 Tikrit 2015
+#+TITLE: Tikrit 2015
 #+DATE: 2015-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 39-48-Tikrit-2015.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Tikrit, 2015" :year "2015"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Tikrit" :year "2015"
 
 
 U.S. aircraft supported Iraqi forces retaking Tikrit from ISIS with heavy airstrikes that targeted entrenched militant positions in the city center.

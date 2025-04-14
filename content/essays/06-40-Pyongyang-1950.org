@@ -1,10 +1,11 @@
-#+TITLE: 40 Pyongyang 1950
+#+TITLE: Pyongyang 1950
 #+DATE: 1950-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
+#+HUGO_CATEGORIES: Korean War
 #+EXPORT_FILE_NAME: 06-40-Pyongyang-1950.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Pyongyang, 1950" :year "1950"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Pyongyang" :year "1950"
 
 
 During the Korean War, Pyongyang was subjected to intense aerial bombardment by U.S. forces. In November 1950, the capital was flattened in a series of raids intended to destroy military infrastructure. Survivors describe living in caves and makeshift shelters.

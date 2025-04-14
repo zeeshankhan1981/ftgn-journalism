@@ -1,10 +1,10 @@
-#+TITLE: 04 Baghdad 1991
+#+TITLE: Baghdad 1991
 #+DATE: 1991-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
 #+HUGO_TAGS: civilian
 #+EXPORT_FILE_NAME: 18-04-Baghdad-1991.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Baghdad, 1991" :year "1991"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Baghdad" :year "1991"
 
 
 During the first Gulf War, U.S. and coalition forces launched a massive air campaign on Baghdad. On January 17, 1991, air raid sirens pierced the night as bombs began falling across the capital.

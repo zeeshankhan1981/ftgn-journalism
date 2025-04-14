@@ -1,10 +1,11 @@
-#+TITLE: 36 Nagasaki 1945
+#+TITLE: Nagasaki 1945
 #+DATE: 1945-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
+#+HUGO_CATEGORIES: World War II
 #+EXPORT_FILE_NAME: 04-36-Nagasaki-1945.org
-#+HUGO_CUSTOM_FRONT_MATTER: :location "Nagasaki, 1945" :year "1945"
+#+HUGO_CUSTOM_FRONT_MATTER: :location "Nagasaki" :year "1945"
 
 
 Masakatsu Obata, 99, was working at the Mitsubishi factory in Nagasaki when the atomic bomb detonated. After an air raid warning subsided, he resumed work, only to be engulfed by a sudden, intense light. The factory’s roof collapsed, and Obata sustained injuries. He sought shelter and encountered a coworker with severe burns, whose skin had melted off. The coworker died three days later.
