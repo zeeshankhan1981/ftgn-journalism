@@ -2,9 +2,9 @@
 #+DATE: 2016-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 40-30-Manbij-2016.org
-#+LOCATION: Manbij
+#+LOCATION: Syria
 #+YEAR: 2016
 
 

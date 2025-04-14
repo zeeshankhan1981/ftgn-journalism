@@ -2,9 +2,9 @@
 #+DATE: 2022-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 49-03-Al-Shabab-Camp-2022.org
-#+LOCATION: Al Shabab Camp
+#+LOCATION: Somalia
 #+YEAR: 2022
 
 

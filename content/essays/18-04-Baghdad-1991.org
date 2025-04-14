@@ -2,9 +2,9 @@
 #+DATE: 1991-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 18-04-Baghdad-1991.org
-#+LOCATION: Baghdad
+#+LOCATION: Iraq
 #+YEAR: 1991
 
 

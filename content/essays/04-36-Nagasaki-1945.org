@@ -5,7 +5,7 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: World War II
 #+EXPORT_FILE_NAME: 04-36-Nagasaki-1945.org
-#+LOCATION: Nagasaki
+#+LOCATION: Japan
 #+YEAR: 1945
 
 

@@ -2,9 +2,9 @@
 #+DATE: 2016-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 41-46-Sirte-2016.org
-#+LOCATION: Sirte
+#+LOCATION: Libya
 #+YEAR: 2016
 
 

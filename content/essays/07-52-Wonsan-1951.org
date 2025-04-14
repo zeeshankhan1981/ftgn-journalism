@@ -5,7 +5,7 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Korean War
 #+EXPORT_FILE_NAME: 07-52-Wonsan-1951.org
-#+LOCATION: Wonsan
+#+LOCATION: North Korea
 #+YEAR: 1951
 
 

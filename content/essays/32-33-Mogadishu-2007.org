@@ -2,9 +2,9 @@
 #+DATE: 2007-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 32-33-Mogadishu-2007.org
-#+LOCATION: Mogadishu
+#+LOCATION: Somalia
 #+YEAR: 2007
 
 

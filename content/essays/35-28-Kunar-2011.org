@@ -2,9 +2,9 @@
 #+DATE: 2011-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 35-28-Kunar-2011.org
-#+LOCATION: Kunar
+#+LOCATION: Afghanistan
 #+YEAR: 2011
 
 

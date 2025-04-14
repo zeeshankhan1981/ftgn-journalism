@@ -2,9 +2,9 @@
 #+DATE: 1986-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 15-10-Benghazi-1986.org
-#+LOCATION: Benghazi
+#+LOCATION: Libya
 #+YEAR: 1986
 
 

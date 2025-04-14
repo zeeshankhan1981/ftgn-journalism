@@ -2,9 +2,9 @@
 #+DATE: 2005-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 31-16-Haditha-2005.org
-#+LOCATION: Haditha
+#+LOCATION: Iraq
 #+YEAR: 2005
 
 

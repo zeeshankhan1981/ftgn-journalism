@@ -2,9 +2,9 @@
 #+DATE: 1999-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 21-39-Pristina-1999.org
-#+LOCATION: Pristina
+#+LOCATION: Kosovo
 #+YEAR: 1999
 
 

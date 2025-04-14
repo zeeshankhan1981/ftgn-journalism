@@ -2,9 +2,9 @@
 #+DATE: 2020-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 48-01-Al-Bayda-2020.org
-#+LOCATION: Al Bayda
+#+LOCATION: Yemen
 #+YEAR: 2020
 
 

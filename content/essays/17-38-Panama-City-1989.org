@@ -2,9 +2,9 @@
 #+DATE: 1989-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 17-38-Panama-City-1989.org
-#+LOCATION: Panama City
+#+LOCATION: Panama
 #+YEAR: 1989
 
 

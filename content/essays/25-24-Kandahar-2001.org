@@ -2,9 +2,9 @@
 #+DATE: 2001-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 25-24-Kandahar-2001.org
-#+LOCATION: Kandahar
+#+LOCATION: Afghanistan
 #+YEAR: 2001
 
 

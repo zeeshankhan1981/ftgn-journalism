@@ -2,9 +2,9 @@
 #+DATE: 2017-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 46-47-Tabqa-2017.org
-#+LOCATION: Tabqa
+#+LOCATION: Syria
 #+YEAR: 2017
 
 

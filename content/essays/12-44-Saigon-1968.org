@@ -2,9 +2,9 @@
 #+DATE: 1968-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 12-44-Saigon-1968.org
-#+LOCATION: Saigon
+#+LOCATION: Vietnam
 #+YEAR: 1968
 
 

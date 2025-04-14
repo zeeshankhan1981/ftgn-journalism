@@ -5,7 +5,7 @@
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Vietname War
 #+EXPORT_FILE_NAME: 11-35-My-Lai-1968.org
-#+LOCATION: My Lai
+#+LOCATION: Vietnam
 #+YEAR: 1968
 
 

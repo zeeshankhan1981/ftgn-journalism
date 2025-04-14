@@ -2,9 +2,9 @@
 #+DATE: 1999-01-01
 #+HUGO_BASE_DIR: ../../
 #+HUGO_SECTION: essays
-#+HUGO_TAGS: civilian
+#+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 20-09-Belgrade-1999.org
-#+LOCATION: Belgrade
+#+LOCATION: Serbia
 #+YEAR: 1999
 
 
