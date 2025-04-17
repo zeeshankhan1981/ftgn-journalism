@@ -1,4 +1,5 @@
-((nil . ((eval . (progn
+((python-mode . ((python-shell-virtualenv-root . "./venv")))
+ (nil . ((eval . (progn
                   ;; Set up markdown mode
                   (add-hook 'markdown-mode-hook
                             (lambda ()
@@ -17,4 +18,5 @@
                   (add-hook 'find-file-hook
                             (lambda ()
                               (when (derived-mode-p 'markdown-mode 'org-mode)
-                                (magit-auto-revert-mode 1))))))))
+                                (magit-auto-revert-mode 1))))))
+              (projectile-project-type . hugo)))

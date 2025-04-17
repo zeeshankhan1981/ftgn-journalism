@@ -1,7 +1,7 @@
 #+TITLE: Rouen 1944
 #+DATE: 1944-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: World War II
 #+EXPORT_FILE_NAME: 01-42-Rouen-1944

@@ -1,0 +1,12 @@
+#+TITLE: Hugo Tips and Tricks
+#+DATE: 2025-04-17
+#+DRAFT: false
+#+TAGS: hugo static-site
+#+CATEGORIES: Tech
+#+SUMMARY: Useful tips for working with Hugo static sites.
+
+Here are some handy Hugo tips for static site development.
+
+* Use archetypes for consistency.
+* Preview drafts locally.
+* Organize content with tags and categories.

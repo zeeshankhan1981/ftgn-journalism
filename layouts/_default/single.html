@@ -2,19 +2,23 @@
 <article class="essay-content markdown-content">
     <header class="essay-header">
         <h1>{{ .Title }}</h1>
+        {{ if and .Params.location .Params.year }}
         <div class="metadata">
             <p><strong>Location:</strong> {{ .Params.location }}</p>
             <p><strong>Year:</strong> {{ .Params.year }}</p>
         </div>
+        {{ end }}
     </header>
     
     <div class="essay-article">
         {{ .Content }}
     </div>
     
-    {{ with .Params.tags }}
+    {{ $tags := .Params.tags }}
+    {{ if $tags }}
     <div class="essay-tags">
-        {{ range . }}
+        {{ $tagList := (cond (reflect.IsSlice $tags) $tags (split $tags " ")) }}
+        {{ range $tagList }}
         <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
         {{ end }}
     </div>

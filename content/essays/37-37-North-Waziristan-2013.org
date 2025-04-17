@@ -1,7 +1,7 @@
 #+TITLE: North Waziristan 2013
 #+DATE: 2013-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 37-37-North-Waziristan-2013.org
 #+LOCATION: Pakistan

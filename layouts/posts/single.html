@@ -1,0 +1,42 @@
+{{ define "main" }}
+<article class="blog-post">
+    <header>
+        <h1>{{ .Title }}</h1>
+        <p class="meta">
+            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            {{/* Categories handling: split string if needed */}}
+            {{ $cats := .Params.categories }}
+            {{ if $cats }}
+                | <span>
+                {{ $catList := (cond (reflect.IsSlice $cats) $cats (split $cats " ")) }}
+                {{ delimit $catList ", " }}
+                </span>
+            {{ end }}
+            {{/* Tags handling: split string if needed */}}
+            {{ $tags := .Params.tags }}
+            {{ if $tags }}
+                | <span>
+                {{ $tagList := (cond (reflect.IsSlice $tags) $tags (split $tags " ")) }}
+                {{ delimit $tagList ", " }}
+                </span>
+            {{ end }}
+        </p>
+    </header>
+    <section class="markdown-content">
+        {{ .Content }}
+    </section>
+    {{ $tags := .Params.tags }}
+    {{ if $tags }}
+    <div class="blog-tags">
+        {{ $tagList := (cond (reflect.IsSlice $tags) $tags (split $tags " ")) }}
+        {{ range $tagList }}
+        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+    <footer>
+        <hr>
+        <p><a href="/posts/">← Back to Blog</a></p>
+    </footer>
+</article>
+{{ end }}

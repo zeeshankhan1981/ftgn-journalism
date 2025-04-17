@@ -1,0 +1,1291 @@
+#+TITLE: KP Mines and Minerals Bill 2025
+#+AUTHOR: Govt. of Khyber Pakhtunkhwa Law Department
+#+LANGUAGE: en
+#+OPTIONS: toc:nil num:nil
+
+Assistant Draking Officer-Vil Govt. of Khyber Pakhtunkhwa
+Law Department
+* A
+Bill
+to provide to develop an internationally competitive, stable and enabling environment for domestic and foreign investment in the mining and minerals sector in the Province of Khyber Pakhtunkhwa;
+WHEREAS, it is expedient to provide to develop an internationally competitive, stable and enabling environment for domestic and foreign investment in the mining and minerals sector in the Province of Khyber Pakhtunkhwa, by the establishment of efficient and transparent administrative, legal and fiscal frameworks, which are substantially consistent with the administrative, legal and fiscal frameworks, implemented by each other Province in the Islamic Republic of Pakistan, and matters ancillary thereto and connected therewith;
+It is hereby enacted by the Provincial Assembly of Khyber Pakhtunkhwa as follows:
+** 1.
+* PART-I PRELIMINARY
+Short title, extent and commencement.---(1) This Act may be called the Khyber Pakhtunkhwa Mines and Minerals Act, 2025.
+except-
+** 2.
+(2)
+It shall extend to the whole of the Province of Khyber Pakhtunkhwa,
+(a)
+(b)
+merged districts and sub-divisions, being the areas merged with the Province of Khyber Pakhtunkhwa and duly notified by Government after the Constitution (Twenty-fifth Amendment) Act, 2018 (Act No. XXXVII of 2018), where mineral resources shall be regulated in accordance with the special provisions contained in Schedule-XI (Special provisions pertaining to regulations of mineral resources in the merged districts and sub-divisions) of this Act from the date of commencement of this Act, until 31st December, 2030. Unless otherwise repugnant, the provisions of this Act shall, mutatis mutandis, apply accordingly; and
+mineral resources necessary for the generation of nuclear energy, mineral oil and natural gas, and no mineral titles may be applied for, granted or awarded in respect of any such resources under this Act.
+Exemption: The provisions of this Act, relating to minor minerals, shall not be applicable in merged districts and sub- divisions until 31st December, 2030.
+(3) This Act shall come into force at once.
+Definitions.---(1) In this Act, unless there is anything repugnant in the subject or context.-
+1| Page
+322324
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+"Additional Director General" means a qualified mining engineer or geologist duly nominated by the Department on a seniority-cum-fitness basis who occupies the position of an Additional Director General of the Directorate General, in accordance with clause (b) of sub-section 0(2) of section 4 of this Act:
+"Appellate Tribunal" means the Khyber Pakhtunkhwa Appellate Tribunal for mines and minerals established under section 22 of this Act, to hear appeals against the orders made by the District Mining Liaison Committee, the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable under this Act;
+"Auction Committee" means the Auction Committee established under section 11 of this Act;
+"authorised officer" means as the context requires any officer delegated with power under this Act including any officer nominated by the Director General, the Licensing Authority or Minor Minerals Licensing Authority under this Act, respectively;
+"challan" means a document, in the form of the template set out in Schedule-VII, which may be issued in respect of the specific offences listed in Schedule-VI, through the process specified under this Act;
+"company" means a company as defined in the Companies Act, 2017 (Act No. XIX of 2017), incorporated under the laws of the Islamic Republic of Pakistan;
+"Constitution" means the Constitution of the Islamic Republic of Pakistan 1973;
+"Department"
+means the
+Minerals Development
+Department of Government, established for the purpose of the administration of this Act;
+"Director Exploration" means the qualified mining engineer or geologist, duly nominated by the Department, in accordance with sub-section (2) of section 14 of this Act, who occupies the position of Director of the Exploration Promotion Division of the Directorate General;
+"Director General" means the qualified mining engineer or geologist, duly nominated by the Department, on the basis of seniority-cum-fitness, in accordance with clause (a) of sub- section (2) of section 4 of this Act, who occupies the position of Director General of the Directorate General;
+2| Page
+Assistent Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(k)
+(1)
+"Directorate General" means the Directorate General Mines and Minerals, Khyber Pakhtunkhwa, established under the Department for the purpose of the administration of this Act;
+"Director Licensing" means a qualified mining engineer or geologist, duly nominated by the Department in accordance with sub-section (4) of section 6, who occupies the position of Director of the Licensing Division of the Directorate General and has all powers necessary to implement the decisions of the Licensing Authority;
+(m) "disposed" has the meaning given to it in sub-section (3) of section 83 of this Act and "dispose" and "disposes" shall be interpreted accordingly;
+(n)
+(0)
+(p)
+(q)
+(r)
+(s)
+"Dispute Resolution Committee" means the
+means the Dispute Resolution Committee, established by the Department under this Act, which shall-
+(i) hear all disputes arising between stakeholders of
+mineral bearing areas following the grant of a mineral title pursuant to Paragraph 8 of 0; and
+(ii) recommend resolution of inter-tribal land disputes, facilitate demarcation and division of land between the sub-sections and clans pursuant to Paragraph 9 of Schedule-XI;
+"District Administration" Administration;
+means concerned District
+"District Mining Liaison Committee" means each District Mining Liaison Committee, established under section 16 of this Act, in each district in the Province to assist the Licensing Authority, Minor Minerals Licensing Authority and title holders to resolve certain land, forestry and environmental disputes in respect of their mineral titles;
+"District Police" means concerned District Police Department;
+"Enforcement Officer" means an officer of the Mines and Minerals Force, as provided in Schedule-X, duly nominated;
+"Environmental Management Plan" means a plan setting out any measures which an applicant for a mineral title shall implement to conserve and protect the environment and wildlife from potential pollution or other damage and destruction which may result from the proposed reconnaissance operations, prospecting operations, exploration operations or mining operations, delivered by the
+3 Page
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(t)
+(u)
+(v)
+applicant, pursuant to clause (i) of sub-section (2) of section 46 of this Act and which has been approved by the Environmental Protection Agency in accordance with the approval of the grant or award of the relevant mineral title by the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, under this Act;
+"Environmental Protection Agency" means the Khyber Pakhtunkhwa Environmental Protection Agency, established under the administrative control of the Forestry Department under the Khyber Pakhtunkhwa Environmental Protection Act, 2014;
+"exploration licence" means an exploration licence for Large-scale-Mining granted under this Act;
+"exploration operation" means any operation for exploration and prospecting purposes, as the case may be, including geological mapping and the collection of surface and sub-surface samples of minerals for the purpose of mineralogical examination, assaying and
+and test work, geochemical analysis, geophysical surveying, trenching, drilling, resource estimation and reserve evaluation, but such work in relation to reconnaissance operations, exploration operations, and prospecting operations, shall not include any mining operations or commercial activity, including, but not limited to sale of minerals;
+(w) "Exploration Promotion Division" means the Khyber Pakhtunkhwa Exploration Promotion Division, established under section 013 of this Act, to collect, analyse and publish exploration data in respect of the Province and establish and maintain the geological database contemplated under section 015 of this Act;
+(x)
+(y)
+(z)
+"Federal Government" means the Government of the Islamic Republic of Pakistan, and references to "Federal" shall be construed accordingly;
+"Federal Mineral Wing" means the functional unit of the Ministry of Energy, Petroleum Division, Government of Pakistan, entrusted with the responsibility of dealing with the business matters relating to mines and minerals sector in accordance with the Constitution and Rules of Business of the Government of Pakistan;
+"firm" means a partnership registered under the Partnership Act, 1932 (Act No. IX of 1932);
+(aa) "Forestry Department" means the Climate Change, Forestry, Environment and Wildlife Department of Government;
+4 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(bb) "Geological Survey of Pakistan" means the national organisation of the Government of Pakistan, which, as per its charter, is primarily responsible for performing geological surveys for collection and dissemination of geological information in Pakistan;
+(cc) "Good Mining Practices" mean the exercise of that degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be expected from a skilled and experienced operator engaged in the mining and minerals sector under the same or similar circumstances, complying with applicable laws, regulations and recognised industry standards;
+(dd)
+"Government" means the Government of the Province of Khyber Pakhtunkhwa;
+(ee) "guidelines" mean guidelines made under this Act;
+(ff)
+"human dwelling" means a cluster of at least fifty (50) houses;
+(gg) "idle mineral title" means any mineral title in respect of Large-scale-Mining or Small-scale-Mining, save for a reconnaissance licence, mineral deposit retention licence, or a minor mineral title, in relation to which a title holder has failed to carry on exploration operations or mining operations, as the case may be, in accordance with the approved Technical Economic and Financial Viability Scheme, delivered in accordance with sub-section (2) of section 46 of this Act, subject to any amendments approved by the Licensing Authority in accordance with this Act;
+(hh)
+(ii)
+(jj)
+"land" includes any surface bearing or expected to bear any mineral, land beneath water and the sub-soil of land or any land utilised for any such reconnaissance operations, prospecting operations, exploration operations or mining operations as stipulated under this Act;
+"land user" means an organisation or individual, which or who holds a legal right to use a specific area of land, whether through an agreement, a legal easement or any other legal
+reason;
+"landowner" means an organisation or individual, which or who owns a specific area of land according to a legally valid title;
+(kk) "Large-scale-Mining" means any process of mining, with a proposed capital investment of at least rupees five hundred million (500,000,000):
+5| Page
+52009 Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+Provided that in respect of any licence, lease or permit granted by the Licensing Authority or awarded as part of any auction or competitive bidding process under the repealed Act and rules made thereunder, which shall be considered to have been granted by the Licensing Authority or awarded through an auction or competitive bidding process in accordance with the provisions of this Act:
+Provided further that in Large-scale-Mining, investors shall enter into joint venture with Government-owned mining company with the specific partnership ratio on such terms and conditions as may be determined by Government;
+(11) "lateral limits" means, in relation to an area of land pertaining to a mineral title, the vertical lines towards the earth passing through the sides by which that area is bounded;
+(mm) "licence area" means the area of land, including its lateral
+limits, to which a mineral title relates;
+(nn) "Licensing Authority" means the Licensing Authority for all minerals other than minor minerals, established under section 0 of this Act and possessing the powers and functions more particularly described in section 6 of this Act;
+(00) "local communities" unless otherwise determined, local communities mean any group or groups of people, residing within the locality and vicinity of a licence or lease area, the scale of which shall be such as may be prescribed;
+(pp) "mine" means any surface or underground excavation horizontal, inclined or vertical, where any reconnaissance operations, prospecting operations, exploration operations and mining operations have been or are being carried out, and includes all works, machinery, tramway, ropeway and siding, whether above or below ground, in or adjacent or belonging to or appurtenant to a mine;
+(qq) "mine closure plan" means a plan in the prescribed form setting out any measures which an applicant for a mineral title shall implement to de-commission each proposed mine and rehabilitate the land in respect of which the mineral title is sought, and delivered by the applicant pursuant to clause (j) of sub-section (2) of section 46 of this Act and which has been approved by the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, in accordance with the approval of the grant or award of the relevant mineral title by the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, in accordance with section 05 of this Act;
+6 Page
+Assistent Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(rr) "mineral" for the purpose of this Act, means all surface and sub-surface natural deposits of ores and metals and other metallic and non-metallic substances with distinctive chemical compositions and physical properties, including naturally occurring aqueous solutions containing more than one percent (01%) mineral salt, but does not include mineral oil, natural gas or mineral resources necessary for the generation of nuclear energy;
+(ss)
+(tt)
+"mineral agreement" means any mineral agreement entered into between a title holder, Government and any other organisation, in accordance with section 65 of this Act;
+"mineral deposit retention licence" means a mineral deposit retention licence for such mineral deposit activities as granted under this Act:
+(uu) “mineral dispatch invoice" means the invoice issued by the Director General through its authorised officer(s) for the purpose of transportation of minerals by the title holder more particularly described in section 68 of this Act;
+(vv) "mineral group" means a group of minerals listed in
+Schedule-1:
+(ww) "mineral reserve area" means any land in the Province designated by the Licensing Authority or, in respect of minor minerals, the Minor Minerals Licensing Authority, in accordance with section 28 of this Act, as being an area-
+(i)
+(ii)
+which contains quantities of minerals found at mineable sites whose economic viability is geologically established or projected by the volume of mineral formations; and
+in respect of which a mineral title may only be awarded by the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, through an auction or competitive bidding process in accordance with this Act;
+(xx) "mineral reserve area register" means the Khyber Pakhtunkhwa mineral reserve area register established and maintained by the Directorate General through the relevant officer duly authorized, in accordance with sub-section (1) of section 10 of this Act;
+(yy) "Mineral Testing Laboratory" means the Mineral Testing Laboratory established in the Exploration Promotion Division, in accordance with sub-section (1) of section 108 of this Act;
+7 Page
+Fool
+Assistent Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(zz) "mineral title" means any of the following licences, permits
+or leases granted or awarded under this Act-
+(i)
+a reconnaissance licence;
+(ii) a prospecting licence;
+(iii)
+an exploration licence;
+(iv)
+a mineral deposit retention licence;
+(v)
+a mining lease (Large-scale-Mining);
+(vi)
+a mining lease (small-scale-Mining); and
+(vii)
+a temporary permit;
+(aaa) "Mineral Investment Facilitation Authority" means the Khyber Pakhtunkhwa Minerals Investment Facilitation Authority, constituted under section 19 of this Act, to promote investment in the mining and minerals sector in the Province and provide strategic leadership and guidance to the Department;
+(bbb) "mineral title application register" means the Khyber Pakhtunkhwa mineral title application register established and maintained by the Directorate General through the Director Licensing and the relevant officer duly authorized in this behalf, in accordance with clause (a) of sub-section (1) of section 10 of this Act;
+(ccc) "Mines and Minerals Force" means the enforcement body, established by Government, in accordance with Schedule-X, for the prevention of illegal and unauthorised mining, the retrieval of possession of minerals from illegal miners or stockers and the enforcement of the provisions of this Act;
+(ddd) "mining cadastre register" means the Khyber Pakhtunkhwa mining cadastre register established and maintained by the Directorate General through the Director Licensing and the relevant officer duly authorized in this behalf, in accordance with clause (c) of sub-section (1) of section 10 of this Act;
+(eee) "Mining Cadastre System" means the Khyber Pakhtunkhwa Mining Cadastre System, established and maintained by the Directorate General, in accordance with section 9 of this Act;
+(fff) "mining lease" means a mining lease (Large-scale-Mining or
+Small-scale-Mining), as the context requires;
+(ggg) "mining operation" means any operation, carried out in connection with the development of a mine, or the production
+8| Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+of minerals from a mine, or both, including any geological
+and geochemical exploration or extraction and marketing, and "mined" shall have a corresponding meaning;
+(hhh) "Minister" means the individual, duly notified by the Government, to be the Minister-In-Charge of a Department with designation as such;
+(iii)
+"minor mineral title" means-
+(i)
+a temporary permit in respect of minor minerals; and
+(jjj)
+(ii)
+a mining lease (Small-scale-Mining) in respect of minor minerals:
+"minor minerals" means bajri, shingle, ordinary sand, gravel, and ordinary stones or any other mineral specified by Government as a minor mineral from time to time by notification in the official Gazette, in accordance with sub- section (1) of section 27 of this Act;
+(kkk) "Minor Minerals Licensing Authority" means the Minor Minerals Licensing Authority established in accordance with section 7 and performing duties in respect of minor minerals in accordance with section 08 of this Act;
+(111)
+"official Gazette" means the official Gazette published by Government;
+(mmm) "organisation" means any corporate entity, company, consortium, firm or association of persons, registered under the relevant laws, for the time being in force, and includes a public organisation;
+(nnn) "prescribed" means prescribed by rules and regulations;
+(000) "prospecting licence" means a prospecting licence for
+prospecting operations as granted under this Act;
+(ppp) "prospecting operation" means any operation for prospecting and exploration purposes, as the case may be, including geological mapping and the collection of surface and subsurface samples of minerals for the purpose of mineralogical examination, assaying and test work, and shall include mining operations consistent in their nature with Small-scale-Mining;
+(qqq) "Province" means the Province of Khyber Pakhtunkhwa and
+"Provincial" shall be interpreted accordingly;
+(rrr) "public organisation" means such organisation, which independently or, if it is a consortium, the majority
+9 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+shareholders therein, an entity, agency, corporation, company or other body or institution established by or under a Federal law or a law of the Province, or an entity, agency, corporation, company or other body or institution in which more than fifty percent (50%) of the shares are owned or controlled by the Federal Government or Government, and also includes any state-owned enterprise, entity, agency, corporation or a company, in which more than fifty percent (50%) of the shares are owned or controlled, either directly or indirectly, by a foreign state;
+(sss) "rare earth minerals" means the minerals declared as such in Schedule-I or any other mineral, specified by Government as such, from time to time, by notification in the official Gazette, in accordance with sub-section (2) of section 27 of this Act;
+(ttt)
+"reconnaissance licence" means a reconnaissance licence for reconnaissance operations as granted under this Act;
+(uuu) "reconnaissance operation" means any operation carried out for a general search of any mineral by means of aerial photographs and remote sensing techniques through satellite imageries and airborne geophysical surveys, for geological mapping and other reconnaissance stage exploration techniques;
+(vvv) "registered mine surveyor" means a surveyor, duly registered with the Directorate General, under sub-section (1) of section 110 of this Act;
+(www) "registered mining consultant" means a consultant, qualified in mining engineering or geology, duly registered with the Directorate General, under sub-section (1) of section 109 of this Act;
+(xxx) "repealed Act" means the Khyber Pakhtunkhwa Mines and Minerals Act, 2017 (Khyber Pakhtunkhwa Act No. XXXVI of 2017);
+(yyy) "risk" means a hazard that is related to the reconnaissance operations, prospecting operations, exploration operations, mining operations or other related and ancillary operations of a mining project, including any work injury, significant accident, and any other loss, injury or harmful result arising out of the hazard;
+(zzz) "regulations" mean regulations made under this Act;
+(aaaa) "rules" mean rules made under this Act;
+(bbbb) "Schedule" means the Schedule appended to this Act;
+10 Page
+Assistent Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(cccc) "Secretary" means the Secretary of the Department;
+(dddd) "security deposit" means the money to be deposited by a bidder in connection with an auction or competitive bidding procedure in the amount specified in the manner as may be prescribed;
+(eeee) "significant accident" means-
+(i)
+the death of an individual;
+(ii)
+(iii)
+a serious injury or illness of an individual requiring them to have immediate treatment as an inpatient in a hospital for the amputation of any part of a body, a serious head or eye injury, a serious burn, the separation of skin from an underlying tissue, a spinal injury, the loss of a bodily function, serious lacerations or medical treatment within forty-eight (48) hours of exposure to a substance; or
+a dangerous incident posing a serious risk to an individual's health or safety;
+(ffff) "Small-scale-Mining" means any process of mining, with a proposed capital investment of at least rupees twenty-five million (25,000,000), but no more than rupees five hundred million (500,000,000):
+Provided that the requirement of rupees twenty five (25) million capital investment for Small-scale-Mining shall not apply to the merged districts and sub-divisions, merged with the Province of Khyber Pakhtunkhwa or areas designated as backward through notification by Government;
+(gggg) "social impact management plan" means a plan prepared by an applicant for a mineral title in accordance with sub- section (2) of section 79 of this Act and delivered pursuant to sub-section (2) of section 46 and which has been approved by the Licensing Authority, in accordance with the approval of the grant or award of the relevant mineral title by the Licensing Authority, in accordance with section 55 of this Act:
+(hhhh) "social impact study" means a study prepared by an applicant for a mineral title in accordance with sub-section (1) of section 79 and delivered pursuant to sub-section (2) of section 46 and which has been approved by the Licensing Authority, in accordance with the approval of the grant or award of the relevant mineral title by the Licensing Authority, in accordance with section 055 of this Act;
+11| Page
+Assistant Drafting Officer-Vil Govt. of Khyber Pakhtunkhwa
+Law Department
+(iiii) "Special Court" means the existing Court of Civil Judge or
+Additional Sessions Judge, as specified in Paragraph 9.1 of Schedule-X to try offences under this Act within its respective jurisdiction;
+(jjjj) "strategic minerals" means the minerals declared as such in
+Paragraph-9 of Schedule-I;
+(kkkk) "tailings dam" means any facility designed, constructed and managed to contain tailings resulting from a mining project, which are processed using dangerous chemicals and which may have an adverse impact on the environment;
+(llll) "Technical, Economic and Financial Viability Scheme" means a technical, economic and financial development and operation scheme in respect of the proposed reconnaissance operations, exploration operations, prospecting operations or mining operations for Large-scale-Mining or Small-scale- Mining, including the applicable details indicated in Schedule-IV, duly prepared and authenticated by a registered mining consultant, delivered by the applicant pursuant to clause (1) of sub-section (2) of section 46 of this Act, on the mining cadastre system, and which has been approved by the Licensing Authority, in accordance with the approval of the grant or award of the relevant mineral title by the Licensing Authority pursuant to section 55 of this Act, and as may be updated from time to time with the prior written approval of the Licensing Authority;
+(mmmm)
+"temporary permit" means a permit granted to a relevant Government Department or public organisation by the Licensing Authority or Minor Minerals Licensing Authority wherever applicable, for projects of national interest, which shall be valid for a period of three (3) months, during which period the relevant Government Department or public organisation shall apply for the grant of other relevant mineral title;
+(nnnn) "title holder" means,-
+(i)
+(ii)
+in relation to Large-scale-Mining, a company to which a reconnaissance licence, an exploration licence, a mineral deposit retention licence or a mining lease (Large-scale-Mining), has been granted or awarded under this Act, or has otherwise been transferred in accordance with this Act;
+in relation to Small-scale-Mining, other than in respect of minor minerals, a company or a firm to which a prospecting licence or a mining lease (Small-scale- Mining) has been granted or awarded under this Act,
+12 | Page
+(2)
+or has otherwise been transferred in accordance with this Act;
+(iii) in relation to Small-scale-Mining in respect of minor minerals, a company or a firm to which a mining lease (Small-scale-Mining) in respect of minor minerals has been granted or awarded under this Act, or has otherwise been transferred in accordance with this Act: and
+(iv)
+a Government Department or public organisation to which a temporary permit has been granted or awarded under this Act;
+(0000) "transfer" means to transfer or assign a mineral title from one company, firm or individual to another company or firm, and "transferred" shall be interpreted accordingly; and
+(pppp) "transferee" means a company or firm to which a mineral
+title is transferred in accordance with this Act.
+In this Act, any reference to "this Act" shall be constructed to include
+any rules made hereunder from time to time.
+(3) In this Act, any reference to "Rs." Or "" denotes the official currency in the Islamic Republic of Pakistan.
+** 3.
+* PART-II
+* ADMINISTRATION AND LICENSING
+Assistance by the Department.---The Department shall assist Government with overseeing the administration of this Act and the development of policies relating to the mining and minerals sector as directed by Government.
+** 4.
+Administration of Directorate General.---(1) The Directorate General shall assist the Department with, among others, administering the implementation of and compliance with this Act in the Province, in respect of all minerals, other than minerals in the Energy Mineral Group described in Schedule-I or any other relevant group specified by Government from time to time by notification in the official Gazette. The Directorate General shall comprise of, inter alia, a Licensing Division and an Exploration Promotion Division.
+(2) The Department shall nominate by notification in the official Gazette-
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(a)
+a qualified mining engineer or geologist on the basis of seniority-cum-fitness as Director General; and
+(b)
+a qualified mining engineer or geologist on the basis of seniority-cum-fitness as the Additional Director General.
+13 Page
+заче
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(3) The Directorate General shall employ any such number of geologists, mining engineers, surveyors and such other officers as may be necessary for the due administration of this Act.
+(4) In addition to any powers and functions which are expressly provided in this Act, the Government may from time to time, by notification in the official Gazette-
+(a)
+(b)
+(5)
+delegate any of its powers and functions to the Director General, the Additional Director General, the Director Licensing, the Director Exploration or any other relevant officer, of the Directorate General, duly authorized in this behalf as may be considered necessary for the due administration of this Act; and
+vary or revoke any delegation given by it.
+The Director General shall nominate one (1) or more mining engineers or geologists with substantial experience in the mining and minerals sector employed in the Directorate General as the authorised officer(s) in each relevant district, as applicable, in the Province to-
+(a)
+undertake regular inspections of licence reconnaissance operations, prospecting
+and
+operations,
+(6)
+exploration operations and mining operations in the relevant district:
+(b)
+(c)
+(d)
+(e)
+review reports submitted by title holders in accordance with this Act in relation to licence areas located in the relevant district;
+collect, on behalf of Government, any fees, rents, royalties and other amounts payable by the title holders under this Act in respect of the grant, award, renewal, conversion, amendment or transfer of mineral titles, and the conduct of reconnaissance operations, prospecting operations, exploration operations or mining operations in the Province;
+issue penalty notices and notices of cancellation of mineral titles to title holders who fail to comply with the terms and conditions of mineral titles granted under this Act; and
+prepare a quarterly report on non-compliance under this Act and penalty notices and notices of cancellation of mineral titles issued under this Act, in respect of the relevant district.
+The Director General may, from time to time,-
+(a)
+delegate any of their powers and functions to the authorised officers and any other officer of the Directorate General as may be necessary for the due administration of this Act; and
+14 Page
+(b)
+vary or revoke any delegation given by them.
+(7) The District Administration, the District Police and all other authorities, offices or agencies of Government in the relevant district shall render all reasonable assistance to the Director General and the authorised officers to-
+(8)
+(a)
+(b)
+recover any unpaid fees, rents, royalties and other amounts payable by the title holders under this Act; and
+limit unauthorised reconnaissance operations, prospecting operations, exploration operations or mining operations in the Province.
+Government shall, from time to time, by notification in the official Gazette, assign to the Director General all powers necessary to-
+(a)
+(b)
+(c)
+(d)
+collect, on behalf of the Government, any fees, rents, royalties and other amounts payable by the title holders under this Act in respect of the grant, award, renewal, conversion, amendment or transfer of mineral titles, and the conduct of reconnaissance operations, prospecting operations, exploration operations or mining operations in the Province pursuant to PART-IX of this Act;
+issue guidelines to assist compliance with this Act when undertaking any reconnaissance operations, prospecting operations, exploration operations or mining operations in the Province in order to promote sustainable mining practices, which take into account the need to conserve and protect natural resources for future generations;
+monitor compliance by the title holders with this Act, including the terms and conditions of mineral titles granted or awarded under this Act, and prevent unauthorised mining activities in the Province in accordance with section 100 of this Act, including by nominating authorised officers to-
+(i)
+(ii)
+undertake regular inspections of licence areas and reconnaissance operations, prospecting operations, exploration operations and mining operations in the Province; and
+review reports submitted by title holders in accordance with this Act and the terms and conditions of their mineral titles;
+take enforcement action against an organization or individual who commits an offence under this Act and publish a periodical gazette reporting on the occurrence and outcome of any such enforcement action, including, without limitation, by way of suspension or cancellation of a licence;
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+15| Page
+Assistent Drafting Officer-VII Govt. of Khyber Pakhtunkhwa Law Department
+** 5.
+(e)
+(f)
+(g)
+(h)
+(i)
+resolve boundary dispute in respect of licence areas between title holders;
+exercise overall supervision over the authorised officers and the performance and operation of the Licensing Authority, the Minor Minerals Licensing Authority and the Exploration Promotion Division, including implementing programmes to develop the technical, legal and administrative competencies and expertise of the officers of the Directorate General; promote the mining and minerals sector in the Province, including by implementing programmes to improve infrastructure and technical capacity;
+approve, renew or revoke the registration of geologists, mining engineers and surveyors and publish standard operating procedures with regard to such approvals, renewals or revocations; and
+implement recommendations of the Mineral Investment Facilitation Authority as per directions of the Department.
+Establishment of Licensing Authority.---For the purpose of all minerals, other than minor minerals, there shall be established a Licensing Authority, which shall consist of-
+(a)
+Director General;
+Chairman
+(b) Additional Director General;
+Members
+(c)
+Chief Inspector of Mines, Khyber Pakhtunkhwa;
+Members
+(d)
+Chief Commissioner, Mines Labour
+Members
+Welfare;
+(e)
+a representative of Forestry Department, not below the rank of Deputy Secretary;
+Members
+(f) a representative of Law, Parliamentary affairs and Human Rights Department, not below the rank of Deputy Secretary;
+Members
+(g)
+a representative of the Environmental Protection Agency, not below the rank of BPS-18:
+Members
+(h)
+Director Exploration;
+Members
+(i)
+a GIS officer, not below the rank of BPS- 18, nominated by the Department; and
+Members
+(j) Director Licensing.
+Member-cum- Secretary
+16| Page
+зачем
+Assistent Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+** 6.
+Powers and functions of Licensing Authority.---(1) The Licensing Authority shall-
+recommend and direct the form and procedure for-
+(a)
+(i)
+(b)
+(c)
+(d)
+(ii)
+the application for the grant, renewal, conversion, amendment, transfer, surrender and cancellation of mineral titles under this Act; and
+the award of mineral titles through an auction or competitive bidding process in accordance with this Act:
+Provided that any such recommendations and directions shall not materially depart from the form and procedure for the same already specified in this Act:
+administer the review and approval of applications for the grant, award, renewal, conversion, amendment, transfer, surrender and cancellation of mineral titles under this Act, including by undertaking technical and financial evaluation of applications, considering the recommendations of the Auction Committee and such other investigations as may be deemed necessary for the due administration of this Act, in accordance with section 055 of this Act;
+administer the procedure for auctions or competitive bidding processes for the award of mineral titles in respect of mineral reserve areas, including the following responsibilities and powers which it may delegate to the Auction Committee in accordance with section 12 of this Act:
+(i)
+(ii)
+(iii)
+to conduct auctions, competitive biddings, re-auctions and re-competitive biddings for mineral reserve areas;
+to confirm the eligibility of participants in auction and competitive bidding processes for the award of mineral titles in respect of mineral reserve areas in accordance with this Act;
+to undertake technical and financial evaluation of participants in auctions and competitive bidding processes and such other investigations as may be deemed necessary for the due administration of this Act:
+recommend to Government to designate minerals for the purposes of this Act and allocate minerals into groups pursuant to section 27 of this Act:
+17| Page
+22009
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(e) designate such areas in the Province as mineral reserve areas pursuant to section 028 of this Act and fix reserved prices for the purposes of any auction or competitive bidding process for the award of mineral titles in respect of such mineral reserve areas in accordance with this Act, except for minor minerals;
+(f)
+(g)
+(h)
+(i)
+publish an annual gazette reporting on the number of mineral title grant, renewal, conversion, amendment, transfer, surrender and cancellation applications received by the Licensing Authority and the number of mineral titles granted, renewed, converted, transferred, amended, surrendered and cancelled by the Licensing Authority under this Act, including the number of mineral titles awarded through an auction or competitive bidding process;
+make recommendations to Government in respect of the eligibility of title holders for a mineral agreement under PART-VII of this Act;
+plan, develop and update the mineral title application register, the mineral reserve area register and the mining cadastre register, including improving such registers; and
+implement recommendations of the mineral investment facilitation authority and may implement suggestion of the Federal Mineral Wing in relation to the powers and functions of the Licensing Authority.
+(2) In the exercise of their powers and functions under this Act, the Licensing Authority shall give due consideration to the following matters:
+(a)
+(b)
+(c)
+(d)
+promoting sustainable mining practices and taking into account the need to conserve and protect the natural resources in, on or under the land to which the application relates including adjoining or neighbouring land;
+any decision, direction or order made by the Environmental Protection Agency or the Forestry Department in respect of the licence area the subject of the relevant application or auction or competitive bidding process;
+any relevant recommendations of the Mineral Investment Facilitation Authority or guidance of the Federal Mineral Wing in relation to the powers and functions of the Licensing Authority; and
+ensuring a consistent approach to the grant, award, renewal, conversion, transfer and amendment of mineral titles, including through auction and competitive bidding processes, across each province in the Islamic Republic of Pakistan.
+18 Page
+FRook
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa Law Department
+(3) The Licensing Authority shall decide, implement and take decisions, with minimum quorum of two thirds (3) of the members, present in the meeting of the Licensing Authority, and that two thirds (3) of such present members decide in favour or against any such matter which is placed before them.
+(4) The Department shall nominate, by notification in the official Gazette, a qualified mining engineer or geologist on the basis of seniority-cum- fitness as Director Licensing, who occupies the position of Director of the Licensing Division of Directorate General and shall have all powers necessary to implement the decisions of the Licensing Authority under this Act.
+(5)
+The Licensing Authority shall nominate one (1) or more officers of the Directorate General, including any such number of mining engineers or geologists with substantial experience in the mining and minerals sector, as authorised officer(s) in the Province for performance of specific task(s) relating to powers and functions of the Licensing Authority as it deems appropriate to assign to such authorised officer(s).
+** 7.
+Establishment of Minor Minerals Licensing Authority.---For the purpose of minor minerals, the Department may, by Notification in the official Gazette, nominate the concerned Additional Director General as Minor Minerals Licensing Authority.
+** 8.
+Powers and functions of Minor Minerals Licensing Authority.---(1) The Minor Minerals Licensing Authority shall-
+(a)
+(b)
+(c)
+recommend the form and procedure for the award of minor mineral titles through an auction process in accordance with this Act:
+administer the review and approval of applications for the grant, suspension and cancellation of minor mineral titles under this Act upon the recommendations of the relevant authorised officer;
+administer the procedure for auctions of minor mineral titles in respect of mineral reserve areas, including the following responsibilities and powers which it may delegate to the Auction Committee in accordance with section 12 of this Act-
+(d)
+(i)
+to conduct auctions and re-auctions for mineral reserve areas in respect of minor minerals; and
+(ii)
+to undertake technical and financial evaluation of participants in auction processes and such other investigations as may be deemed necessary for the due administration of this Act;
+make recommendations to Government to designate minerals as minor minerals for the purposes of this Act and to allocate minor minerals into groups;
+19| Page
+зачу
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(e)
+(f)
+designate such areas in the Province as mineral reserve areas in respect of minor minerals pursuant to section 028 of this Act and fix reserved prices for the purposes of any auction for the award of minor mineral titles in respect of such mineral reserve areas in accordance with this Act; and
+publish an annual Gazette reporting on the number of applications received by the Minor Minerals Licensing Authority for award, surrender, transfer, assignment or cancellation of minor mineral titles and the number of minor mineral titles awarded, approved for surrender, transfer or assignment, or cancelled by the Minor Minerals Licensing Authority under this Act.
+(2) The Minor Minerals Licensing Authority shall nominate one (1) or more officers of Directorate General, including any such number of mining engineers or geologists with substantial experience in the mining and minerals sector, as authorised officer(s) in the Province for performance of specific task(s) relating to powers and functions of the Minor Minerals Licensing Authority as it deems appropriate to assign to such authorised officer(s).
+** 9. Establishment and maintenance of Mining Cadastre System.---(1) The Directorate General shall establish the Mining Cadastre System, the administration, development and enforcement of which shall be overseen by the relevant officer of the Directorate General, duly authorized in this behalf.
+(2)
+This Mining Cadastre System shall provide various services,
+including those relating to-
+(a)
+(b)
+(c)
+(d)
+submitting applications for the grant, renewal, conversion, amendment, transfer, surrender and cancellation of mineral titles under this Act and notifying applicants of the outcome of such applications;
+submitting applications to participate in auctions for the award of mineral titles under this Act and conducting online auctions;
+submitting and responding to bids for the award of mineral titles through competitive bidding processes under this Act;
+submitting periodic reports which are required to be submitted by title holders in accordance with their reporting obligations under the mineral title and this Act;
+tracking of payment of government dues;
+monitoring of fulfilment of various obligations by the title holders:
+(e)
+(f)
+(g)
+complaints lodged against the title holders;
+(h)
+appeals and court cases instituted by the title holders;
+20| Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(3)
+(i)
+(j)
+(k)
+(1)
+(m)
+tracking of decisions of the District Mining Liaison Committee, the Appellate Tribunal and courts of law;
+publication of information in respect of mineral reserve areas;
+access to the Mining Cadastre Register;
+sending and receiving other notifications in accordance with this Act; and
+any other services which the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, may be required to provide from time to time in accordance with its powers and functions under this Act.
+The Mining Cadastre System shall stipulate the information required to access the services provided by the Directorate General, as well as the processes that shall be followed to access them.
+(4)
+This Act and any rules and guidelines prescribed by the Government, Mineral Investment Facilitation Authority, Licensing Authority, Minor Minerals Licensing Authority or the Director General from time to time shall be published on the Mining Cadastre System.
+(5) A summary of the annual report prepared by the Mineral Investment Facilitation Authority under sub-section (3) of section 20 of this Act, shall be published on the Mining Cadastre System.
+(6) The Mining Cadastre System shall provide clearly accessible links to the mineral title application register, the mineral reserve area register and the mining cadastre register along with any related guidelines published by the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, from time to time.
+(7) The Mining Cadastre System shall provide clearly accessible links to the geological database established and maintained under section 15 of this Act and any guidelines or other information or reports published by the Exploration Promotion Division from time to time.
+(8) The Director General, Licensing Authority, the Minor Minerals Licensing Authority and a relevant officer of the Directorate General duly authorized in this behalf, wherever applicable, shall ensure the Mining Cadastre System is established and maintained in accordance with any guidance received from the Mineral Investment Facilitation Authority for the purposes of ensuring consistent access to information and licensing services in each province in the Islamic Republic of Pakistan.
+** 10.
+Registers to be established and maintained on Mining Cadastre System.---(1) The Directorate General shall, through its authorised officer(s), establish the following searchable, digital, online registers to be accessed on the Mining Cadastre System-
+21 Page
+Assistant Draning Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(b)
+(c)
+(a)
+the mineral title application register two (2) years from the commencement date of the Act, which shall-
+(i)
+(ii)
+provide information on new mineral title applications in the Province; and
+provide information on applications to amend or convert a mineral title, or partially or totally surrender any mineral title in the Province;
+the mineral reserve area register within two (2) years from the commencement date of the Act; and
+the mining cadastre register within two (2) years from the commencement date of the Act, which shall provide data in respect of all types of mineral titles granted and awarded by the Licensing Authority in the Province, including-
+(i)
+(ii)
+information on a mineral title, including whether such mineral title is granted or awarded in respect of Large- scale Mining, Small-scale Mining and temporary permits;
+information on a mineral agreement entered into in respect of such mineral title; provided that such information will be limited to the existence and the term of any such mineral agreement;
+(iii) information on licence areas;
+(iv) information on the minerals regulated under a mineral title, including whether such minerals are minor minerals;
+(v)
+(vi)
+information on any security interests granted by a title holder over a mineral title in accordance with section 055 of this Act;
+a summary of the data in respect of the reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever applicable, permitted to be conducted under a mineral title;
+(vii) information on applications submitted for conversion,
+renewal and transfer of mineral titles;
+(viii) information on rents and royalty dues payable and amount paid by a title holder on each account;
+(ix) complaints lodged against title holders;
+(x) appeals and court cases instituted by title holders; and
+22 | Page
+(xi) tracking of decisions of District Mining Liaison
+Committee, Appellate Tribunal and courts of law.
+(2) Any organisation or individual may, upon payment of an administrative fee as may be specified by Government from time to time by notification in the official Gazette, search and obtain copies of records from the mineral title application register or the mining cadastre register.
+(3) The mineral reserve area register shall be freely available to be searched by the public by applying to the Licensing Authority.
+(4)
+The Licensing Authority may delete, correct or otherwise amend any entry made in the mineral title application register, the mineral reserve area register or the mining cadastre register if such entry was made in error, or otherwise does not comply with this Act.
+(5) If the Licensing Authority deletes, corrects or amends any entry in the mineral title application register or the mining cadastre register, the Licensing Authority or its authorised officer shall give written notice to any affected organisation or individual within ten (10) days.
+(6) If there is a difference between electronic information in the mineral title application register, the mineral reserve area register or the mining cadastre register and any other information or another document, the information in the relevant register shall prevail, whether or not the other information or the other document contains an original signature.
+(7) The Licensing Authority shall ensure that each of the mineral title application register, the mineral reserve area register and the mining cadastre register is established and maintained in a proper manner, including in accordance with any guidance received from the Federal Mineral Wing and/or the Mineral Investment Facilitation Authority, for the purposes of ensuring-
+(8)
+(a)
+(b)
+consistent application processes for the grant, award, renewal, conversion, transfer and amendment of mineral titles, including through auction and competitive bidding processes, across the Province; and
+consistent reporting of data in respect of mineral titles in the Province.
+It shall be an offence to-
+(a)
+produce or tender in evidence a document resulting in a false entry to; or
+Four
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+(b)
+present a false copy of an extract from,
+the mineral title application register, the mineral reserve area register or the mining
+cadastre register.
+23 Page
+** 11.
+Establishment of Auction Committee.---(1) The Department shall for the purpose of-
+(2)
+(a)
+(b)
+all minerals, other than minor minerals, establish an Auction Committee at the level of Directorate General; and
+minor minerals, establish an Auction Committee at the level of each district.
+The Auction Committee, mentioned in sub-section (1), shall have such composition as notified by the Department in the official Gazette.
+** 12.
+Powers and functions of Auction Committee.---The Licensing Authority and the Minor Minerals Licensing Authority, wherever applicable, may delegate the responsibilities and powers specified in clause (c) of sub-section (1) of section 6 and in clause (c) of sub-section (1) of section 8, respectively, to the Auction Committee, so that the Auction Committee may administer the procedure for auctions and competitive bidding proceedings in the manner as prescribed.
+** 13. Establishment of Exploration Promotion Division.---The Exploration Promotion Division shall be established within the Directorate General.
+** 14. Powers and functions of Exploration Promotion Division.---(1) The Exploration Promotion Division shall plan, develop, establish, maintain and update a geological database accessible online in accordance with section 15 of this Act, including improving such database.
+(2) The Department shall nominate, by notification in the official Gazette, the Director Exploration, who shall have all powers necessary to supervise and exercise oversight over the performance and operation of the Exploration Promotion Division.
+** 15. Geological database to be established and maintained by Exploration Promotion Division.---(1) The Exploration Promotion Division shall establish and maintain an online database of-
+(a)
+(b)
+non-confidential geological data collected from the exploration programmes undertaken by the Exploration Promotion Division under this Act; and
+subject to the confidentiality undertakings in section 113 of this Act, geological data provided by title holders in accordance with their reporting obligations under this Act.
+(2) Any organisation or individual may, upon payment of an administrative fee as may be prescribed by Government from time to time by notification in the official Gazette, search and obtain copies of the records of the geological database.
+(3)
+Geological data published on the geological database shall be in line with international best practices as updated from time to time.
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+24 Page
+Assistent Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(4)
+The Exploration Promotion Division shall ensure the geological database is established and maintained in accordance with any guidance received from the Mineral Investment Facilitation Authority or Geological Survey of Pakistan for the purposes of ensuring consistent reporting of geological data in each province in the Islamic Republic of Pakistan.
+** 16.
+Establishment of District Mining Liaison Committee.---(1) Upon commencement of this Act, a District Mining Liaison Committee shall be established in each district, consisting of the following:
+(a)
+the Deputy Commissioner of the Chairman concerned District;
+(b)
+District Police Officer of the concerned
+Member
+District;
+(c)
+District Officer of Environmental
+Member
+Protection Agency of the district concerned:
+(d)
+@ê
+District Officer of Forestry Department
+Member
+(e)
+of the district concerned; and
+Member-cum-
+An authorised officer of the Directorate General, in respect of the relevant Secretary
+District.
+(2) An authorised officer of the Directorate General shall provide secretariat support to each District Mining Liaison Committee.
+** 17.
+Powers and functions of District Mining Liaison Committee.---(1) Each District Mining Liaison Committee shall-
+(a)
+(b)
+(c)
+upon application by a title holder or landowner or land user, resolve land compensation and surface rent disputes amongst a title holder and a landowner or land user in respect of that title holder's licence area;
+upon application by an affected title holder, issue orders to landowners or land users to remove any obstruction or other hindrance on their Land that unreasonably limits the title holder's ability to access its licence area or undertake reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever applicable, in accordance with the terms and conditions of its mineral title;
+upon application by an affected title holder, issue orders to another title holder to remove any obstruction or other hindrance on their licence area that unreasonably limits the affected title holder's ability to access its licence area or undertake reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever
+25| Page
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+applicable, in accordance with the terms and conditions of its mineral title:
+upon application by an aggrieved title holder, mediate disputes between the title holder and the Forestry Department in respect of any decision, direction or order made by the Forestry Department or any of its authorised officers that unreasonably limits the title holder's ability to access its licence area or undertake reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever applicable, in accordance with the terms and conditions of its mineral title;
+upon application by an aggrieved title holder, mediate disputes between the title holder and the environmental protection agency in respect of any decision, direction or order made by the environmental protection agency or any of its authorised officers that unreasonably limits the title holder's ability to access its licence area or undertake reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever applicable, in accordance with the terms and conditions of its mineral title:
+upon referral by the Licensing Authority or Minor Minerals Licensing Authority, exercise the powers and functions listed in this sub-section, in the circumstances listed in this sub- section:
+issue a no-objection certificate from the local community for the grant or operation of a mineral title where required under the procedure for grant or renewal of a mineral title or minor mineral title, wherever applicable;
+attend to any other matter assigned by Government, from time to time, by notification in the official Gazette, for the administration of this Act;
+make efforts to control un-authorized mining; and
+recover Government dues from the defaulter through district administration.
+(2) If a landowner or land user persistently fails to comply with any order issued by a District Mining Liaison Committee pursuant to sub-section (1) above to remove any obstruction or other hindrance on their land that unreasonably limits the title holder's ability to access its Licence Area or undertake reconnaissance operations, prospecting operations, exploration operations or mining operations, wherever applicable, in accordance with the terms and conditions of its mineral title-
+(a) that landowner or land user commits an offence;
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+26 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+(b)
+(c)
+a title holder may request that the District Mining Liaison Committee issues a compulsory acquisition order for Government to acquire the relevant land under the Land Acquisition Act, 1894; and
+the District Mining Liaison Committee shall issue such order to acquire the relevant land to provide the title holder with access to its licence area and enable the title holder to undertake the relevant reconnaissance operations, prospecting operations, exploration operations or mining operations in accordance with the terms and conditions of its mineral title; provided that before issuing any such order, the District Mining Liaison Committee shall give the landowner or land user an opportunity to be heard.
+(3) The cost of any land, acquired under sub-section (2) above, shall be borne by the title holder, and ownership of the acquired land shall vest with Government.
+(4) Any application to a District Mining Liaison Committee shall be accompanied by payment by the applicant of an administrative fee as may be specified by Government, from time to time, by notification in the official Gazette.
+(5) Each District Mining Liaison Committee shall, during the course of the preceding year, provide an annual report to the Licensing Authority and the Minor Minerals Licensing Authority providing details relating to-
+(a)
+all applications and referrals made to it;
+(b)
+all disputes resolved or mediated by it; and
+** 18.
+(c)
+all orders issued by it.
+Procedure of District Mining Liaison Committee.---(1) Subject to this Act, meetings of a District Mining Liaison Committee shall be conducted in accordance with any practices and procedures specified by Government, from time to time, by notification in the official Gazette.
+(2) Meetings of a District Mining Liaison Committee shall be held monthly or as more frequently as may be required, as determined by the relevant Secretary of District Mining Liaison Committee.
+(3) The presence of three (3) members, including its chairman, shall constitute the quorum of a District Mining Liaison Committee. The chairman may invite any other individual(s) to attend the meetings of the District Mining Liaison Committee for expert views; provided that the individual(s) so invited shall have no right of vote or a conflict of interest.
+(4)
+Each District Mining Liaison Committee shall ensure that evidence produced before it is recorded in writing and made available to any affected party upon payment of an administrative fee as may be specified by Government, from time to time, by notification in the official Gazette.
+27| Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+(5) A District Mining Liaison Committee shall not, merely by reason of a change in its composition between sittings, or the absence of any member from any sitting, be bound to recall or rehear any witness who has given evidence and may act on the evidence already recorded by or produced before it.
+(6)
+The decisions of a District Mining Liaison Committee shall be made by majority of its members present; provided that in case of a tie, the chairman shall have a casting vote.
+(7) All decisions of a District Mining Liaison Committee, including the reasons for the decision given, shall be reduced to writing, and signed by the chairman and each member of the District Mining Liaison Committee.
+(8) The Secretary of the District Mining Liaison Committee shall communicate decisions of the District Mining Liaison Committee to the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable, for appropriate orders.
+(9)
+Any affected party may, upon payment of an administrative fee as may be specified by Government, from time to time, by notification in the official Gazette, obtain a copy of any such decisions of the District Mining Liaison Committee.
+** 19.
+Establishment of Mineral Investment Facilitation Authority.---(1) Soon after the commencement of this Act, Government shall, by notification in the official Gazette, establish the Mineral Investment Facilitation Authority.
+(2) The Mineral Investment Facilitation Authority shall consist of-
+(a)
+Minister for Minerals Development, Chairperson Khyber Pakhtunkhwa;
+(b)
+Minister for Finance or Advisor or
+Member
+Special Assistant to Chief Minister on Finance, Khyber Pakhtunkhwa;
+(c)
+Minister for Environment or Advisor or Special Assistant to Chief Minister on Environment, Khyber Pakhtunkhwa;
+Member
+(d)
+Member
+Minister for Law, Parliamentary Affairs and Human Rights or Advisor or Special Assistant to Chief Minister on Law, Parliamentary Affairs and Human Rights, Khyber Pakhtunkhwa;
+(e)
+Minister for Industries or Advisor or
+Member
+Special Assistant to Chief Minister on Industries, Khyber Pakhtunkhwa;
+(f)
+Secretary to Government, Minerals Development Department;
+Member
+28 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(g)
+Secretary to Department;
+Government, Finance
+Member
+(h) Secretary to
+Government, Climate
+Member
+Change, Forestry, Environment and Wildlife Department;
+(i)
+Secretary to Government, Law,
+Member
+Parliamentary Affairs and Human Rights Department;
+(j) Secretary to Government, Industries, Commerce and Technical Education
+Member
+Department;
+(k)
+Director General, Khyber Pakhtunkhwa Revenue Authority;
+Member
+(1)
+Director General of Federal Mineral
+Member
+Wing or his nominee not below the rank of Director; by invitation
+(m)
+a representative of mine owners, to be nominated by the Mineral Investment Facilitation Authority, for a period of three years; and
+Member
+(n)
+Director General, Directorate General.
+Member-cum-
+Secretary
+(3)
+The Chairperson of the Mineral Investment Facilitation Authority
+may invite any person as co-opted member.
+(4) The Mineral Investment Facilitation Authority may constitute a committee of its members and such committee may exercise such powers as may be delegated to it by the Mineral Investment Facilitation Authority.
+(5) The Directorate General shall provide secretariat support to the Mineral Investment Facilitation Authority.
+** 20.
+Powers and functions of Mineral Investment Facilitation Authority.---(1) The Mineral Investment Facilitation Authority shall promote and make recommendations to Government in relation to the development of the mining and minerals sector in the Province and the development of a consistent approach to the administrative, legal and fiscal frameworks across each province in the Islamic Republic of Pakistan, including with respect to-
+(a)
+the promotion of the mining and minerals sector in the Province;
+29 Page
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+the exploration programmes and mineral exploration activities undertaken by the Exploration Promotion Division and providing directions thereto;
+the provision of services by the Department for the development and facilitation of investment in the mining and minerals sector, including providing incentives to title holders to encourage local development and export of minerals and finished products;
+the prevention of unsafe mining practices, which pose a threat to the public health, safety or welfare or danger to life and property;
+the promotion of sustainable mining practices, which take into account the need to conserve and protect natural resources for future generations;
+review the fees, rents and royalties on its own accord or suggested by the Federal Mineral Wing and making recommendations to Government;
+review the formulae for the fixing of reserve prices and Security Deposit for auctions and competitive bidding processes on its own accord or suggested by the Federal Mineral Wing and providing directions to the Licensing Authority and the Minor Minerals Licensing Authority;
+review the amounts on its own accord or suggested by the Federal Mineral Wing for financial guarantees required to be delivered by a title holder under this Act and providing recommendations to Government;
+review the model Mineral Agreement on its own accord or suggested by the Federal Mineral Wing and making recommendations to Government in respect of the eligibility of title holders for a mineral agreement under PART-VII;
+develop financial and tax incentives, including minimum price supports and subsidised rates for import and purchase of machinery;
+review on its own accord or suggested by the Federal Mineral Wing for development of the provincial mines and minerals sector, including the powers and functions of Licensing Authority, and the function and operation of the Mining Cadastre System, the mineral title application register, the mineral reserve area register and the mining cadastre register, and providing recommendations to Government and directions to the Licensing Authority, wherever applicable;
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+30 Page
+(2)
+(1)
+improve infrastructure and technical capacity in the mining and minerals sector in the Province;
+(m) develop the technical, legal and administrative competencies and expertise of the officers of the Directorate General and other functional units of Government dealing with the mines and minerals sector;
+(n)
+(0)
+(p)
+undertake policy research and advisory services in matters connected with or ancillary to the mining and minerals sector, including engaging professional advisors;
+ensure a consistent approach to the establishment and maintenance of administrative, legal and fiscal frameworks across each province in the Islamic Republic of Pakistan; and
+perform any other function that Government deems appropriate to be undertaken for the purposes of this Act.
+The Mineral Investment Facilitation Authority shall conduct an annual performance review of-
+(3)
+(a)
+(b)
+(c)
+(d)
+(e)
+the implementation and operation of this Act;
+the productivity and decision-making of the Department, the Directorate General, the Licensing Authority, the Minor Minerals Licensing Authority, each District Mining Liaison Committee and the Appellate Tribunal;
+the exploration programmes and mineral exploration activities undertaken by the Exploration Promotion Division;
+the function and operation of the Mining Cadastre System, the mineral title application register, the mineral reserve area register, the mining cadastre register and the geological database established and maintained in accordance with the provisions of this Act; and
+the development of the mining and minerals sector in the Province, including with regards to social, economic and environmental indicators.
+The Mineral Investment Facilitation Authority shall publish an annual report on the state of the mining and minerals sector in the Province and present the findings and recommendations of the report for the consideration of Government by July 15th of each year. A summary of such report shall be made publicly available by publication on the Mining Cadastre System.
+Assistant Drafting Officer-Vil Govt. of Khyber Pakhtunkhwa Law Department
+31 Page
+** 21.
+Procedure of Mineral Investment Facilitation Authority.---(1) The Mineral Investment Facilitation Authority shall meet at least quarterly, with one such meeting being an annual review meeting.
+(2) In addition to the mandatory meetings, the Chairman may convene meetings of the Mineral Investment Facilitation Authority on such date, time and place as the Chairman may deem appropriate.
+(3) The quorum of the meeting shall be two-thirds (3) of its members, and all the decisions shall be taken by majority of votes. In case of tie, the Chairman shall have a casting vote.
+(4) No proceedings or decisions of the Mineral Investment Facilitation Authority shall be invalid only by reason of the existence of a vacancy or defect in the membership of the Mineral Investment Facilitation Authority.
+(5) Subject to this Act, the business of the Mineral Investment Facilitation Authority shall be conducted in such manner, and in accordance with such procedure, as may be determined by the Mineral Investment Facilitation Authority.
+(6) At each quarterly meeting, the Mineral Investment Facilitation Authority shall consider the matters listed in section 20 of this Act and-
+(a)
+(b)
+(c)
+(d)
+(e)
+review any updates to the fees, rents and royalties since the last quarterly meeting of the Mineral Investment Facilitation Authority and provide recommendations to Government in respect of the same;
+review any updates to the formulae for the fixing of reserve prices and Security Deposit for auctions and competitive bidding processes since the last quarterly meeting of the Mineral Investment Facilitation Authority and provide directions to the Licensing Authority and the Minor Minerals Licensing Authority in respect of the same;
+review any updates to the amounts for financial guarantees required to be delivered by a title holder under this Act since the last quarterly meeting of the Mineral Investment Facilitation Authority and provide recommendations to Government in respect of the same;
+review any updates to the form of model mineral agreement since the last quarterly meeting of the Mineral Investment Facilitation Authority and make recommendations to Government in respect of the eligibility of title holders for a mineral agreement under 0;
+review any updates to the powers and functions of the Licensing Authority since the last quarterly meeting of the Mineral Investment Facilitation Authority and provide
+Assistant Drafting Officer-VII
+Law Department
+Govt. of Khyber Pakhtunkhwa
+32 Page
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(7)
+directions to the Licensing Authority and the Minor Minerals Licensing Authority in respect of the same;
+(f) review any updates to the function and operation of the Mining Cadastre System, the mineral title application register, the mineral reserve area register and the mining cadastre register, since the last quarterly meeting of the Mineral Investment Facilitation Authority and provide directions to the Licensing Authority and the Minor Minerals Licensing Authority in respect of the same; and
+(g) make recommendations to Government as to-
+(i)
+policies to be adopted
+be adopted by Government, the Department, the Licensing Authority, the Minor Minerals Licensing Authority and their authorised officers; and
+(ii) development targets and programmes to be undertaken by the Department, Directorate General and other related attached divisions and public organisations of the Department.
+sector
+At each annual review meeting, the Mineral Investment Facilitation Authority shall, in addition to the matters listed in section 20 of this Act,-
+(a)
+set the programme for mineral exploration and mining activities for the Directorate General and other related attached divisions and public sector organisations of the Department for the following year in accordance with the annual development plan;
+(b)
+review the performance of the Khyber Pakhtunkhwa Minerals Development and Management Company Limited;
+(c)
+review the findings of the annual report; and
+(c)
+(8)
+review the implementation status of its recommendations and directions and make any required revisions to such policies, targets and programmes.
+The proceedings of each meeting of the Mineral Investment Facilitation Authority shall be recorded in the meeting minutes of the Mineral Investment Facilitation Authority and signed by the chairman.
+** 22.
+Establishment of Appellate Tribunal.---(1) Upon commencement of this Act. Government shall, by notification in the official Gazette, establish the Appellate Tribunal, with its seat located in Department.
+(2) The Department may maintain a panel of one (1) former judge of the High Court, two (2) representatives of the Law, Parliamentary affairs and human Rights Department and two (2) qualified mining engineers or geologists as
+33 Page
+5205
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+technical members, from which a quorum shall be formed at each sitting of the Appellate Tribunal.
+(3) The chairman of the Appellate Tribunal shall be appointed by the Government for a period of three (3) years, unless he resigns or is removed from office in accordance with the provisions of this Act.
+(4)
+The technical members of the Appellate Tribunal shall be a mining engineer or geologist with substantial experience in the mining and minerals sector and shall be appointed by the Department for a period of three (3) years, unless they resign or are removed from office in accordance with the provisions of this
+Act.
+(5)
+The qualification and terms and conditions of service of the chairman, legal member, technical member and other staff of the Appellate Tribunal shall be such as may be prescribed by the Government from time to time by notification in the official Gazette.
+(6)
+The chairman and members of the Appellate Tribunal shall not-
+have any direct or indirect financial interest; and
+(a)
+(b)
+have business dealings with any organisation or individual holding a direct or indirect controlling interest,
+in any organisation that renders mineral exploration, mining or processing services in Pakistan or abroad. A chairman or member of the Appellate Tribunal found to have such an interest shall promptly be removed from office.
+(7)
+Tribunal.
+** 23.
+The Department shall provide secretariat support to the Appellate
+Powers and functions of Appellate Tribunal.---(1) If-
+(a)
+(b)
+(c)
+a title holder is aggrieved by any decision made, direction, notification or order issued, proceedings taken or other act or action done by the Licensing Authority, the Minor Minerals Licensing Authority, the Director General or an authorised officer or any of their delegates from time to time;
+an applicant for a mineral title is aggrieved by any decision made, notification or order issued or other act or action done by the Licensing Authority or the Minor Minerals Licensing Authority, the Director General or an authorised officer or any of their delegates from time to time; or
+a title holder, landowner, land user or any other affected organisation or individual is aggrieved by any decision made, direction or order issued, proceedings taken or other act or action done by the District Mining Liaison Committee,
+34 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+they may, within thirty (30) days of the communication of the relevant decision, direction, notification, order issued, or other act or action, on payment of an administrative fee as may be prescribed by Government from time to time by notification in the official Gazette, make an appeal to the Appellate Tribunal.
+(2) The Appellate Tribunal, while hearing an appeal, may, if it so considers necessary in the interest of justice, grant a stay order; provided that no such order shall be passed in respect of any fees, rents and royalties or other amounts which the Director General has sought payment of by the appellant under this Act, unless the appellant deposits twenty-five per cent. (25%) of the disputed amount with the Department.
+(3) If the appeal in which a stay order has been granted is finally rejected and the Appellate Tribunal is of the view that the appeal was made on frivolous grounds or the stay order was obtained by deceit or fraud on the part of the appellant, it may, while deciding the appeal, impose a penalty as prescribed by the Government through notification in the official Gazette. The amount so deposited shall first be adjusted towards the penalty imposed under sub-section (2) and the remaining amount, if any, may be adjusted towards the recovery of the fees, rents and royalties or other amounts payable by the appellant under this Act.
+(4) The Appellate Tribunal, while hearing an appeal in respect of the issuance of a challan, may rescind or affirm the imposition of the fine or may make a fresh decision, direction or order.
+(5) The Appellate Tribunal shall hear and dispose of any appeal in respect of any decision, direction or order made by the District Mining Liaison Committee, the Licensing Authority, the Minor Minerals Licensing Authority, the Director General, any authorised officer or any of their delegates from time to time.
+** 24. Procedure of Appellate Tribunal.---(1) Subject to this Act, sittings of the Appellate Tribunal shall-
+(a)
+be conducted in accordance with any practices and procedures prescribed by the Government from time to time by notification in the official Gazette;
+(b)
+be bound by the Code of Civil Procedure, 1908; and
+(c)
+be bound by the rules of evidence.
+(2)
+Each sitting of the Appellate Tribunal shall be attended by a quorum
+of-
+(a)
+Former Judge of the High Court;
+Chairman
+(b)
+One (1) representative of the Law,
+Legal Member
+Parliamentary Affairs and Human
+Rights Department; and
+(c)
+One (1) qualified mining engineer or Technical Member geologist.
+35 Page
+52001
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(3) The Appellate Tribunal shall ensure that evidence produced before it is recorded in writing and made available to the relevant appellant and any other organisation or individual concerned upon payment of an administrative fee as may be prescribed by Government from time to time by notification in the official Gazette.
+(4) The Appellate Tribunal shall not, merely by reason of a change in its composition between sittings, or the absence of any member from any sitting, be bound to recall or rehear any witness who has given evidence and may act on the evidence already recorded by or produced before it.
+(5)
+All the decisions of the Appellate Tribunal shall be expressed in terms of the opinion of the majority of its members.
+(6)
+All decisions of the Appellate Tribunal, including the reasons for the decision given, shall be reduced to writing, and signed by the chairman and by each member of the Appellate Tribunal. Any applicant may, upon payment of an administrative fee as may be prescribed by Government from time to time by notification in the official Gazette, obtain a copy of any such decisions.
+(7)
+Any organisation or individual aggrieved by the final judgment and order of the Appellate Tribunal under this Act may within thirty (30) days of the final judgment and order of the Appellate Tribunal make an appeal to the High Court of the Province where the Appellate Tribunal is situated; provided that no appeal shall lie against an interlocutory order of the Appellate Tribunal. The High Court shall decide the appeal within sixty (60) days of the filing of the same.
+(8)
+All appeals against a final judgment of the High Court shall be filed within thirty (30) days before the Supreme Court of Pakistan.
+36 Page
+Assistant Dranting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+** 25.
+Immunity of authorities, offices etc.---No liability shall attach to Government, the Department, the Secretary, the Directorate General, the Director General, the Licensing Authority, the Minor Minerals Licensing Authority, the Director Licensing, the Exploration Promotion Division, the Director Exploration, the relevant officer duly authorised in this behalf, the Mineral Investment Facilitation Authority, (including the chairman or any member thereof), any District Mining Liaison Committee, (including the chairman or any member thereof), the Appellate Tribunal, (including the chairman or any member thereof), any authorised officer, or any other officer of the Department, in respect of the exercise or performance, or purported exercise or performance, in good faith, of any powers or functions under this Act.
+** 26.
+* PART-III
+* MINERAL OWNERSHIP AND DESIGNATIONS
+Mineral ownership.---(1) Subject to this Act, but notwithstanding anything to the contrary contained in any other law, or in any order or decree of court or other authority, or in any rule of custom or usage, or in any contract, instrument, deed or other document, all Minerals existing in their natural condition on or below the surface of any land in the Province shall be and shall always be deemed to have been the property of Government, and Government shall have all powers necessary for the proper enjoyment of its right thereto.
+(2) A title holder shall have the right to use, but not to own, the minerals obtained during any reconnaissance operations, exploration operations or prospecting operations to achieve the purposes of the relevant mineral title, subject to the requirements imposed under this Act.
+(3) The ownership of minerals obtained during any mining operations shall only transfer from Government to a title holder that holds a mining lease, a temporary permit, in accordance with the provisions of this Act; provided that-
+the minerals are those identified and regulated under the relevant mineral title;
+(a)
+(b)
+the minerals are extracted from the licence area; and
+(c)
+** 27.
+the title holder has complied with all the requirements imposed under this Act and the terms and conditions of the relevant mineral title, and if applicable the mineral agreement.
+Minor minerals and mineral groups. ---(1) Government may, as deemed appropriate from time to time, by notification in the official Gazette, designate a new mineral as a minor mineral, or remove a mineral as a minor mineral, for the purpose of this Act.
+(2) Government may, as deemed appropriate from time to time, by notification in the official Gazette, include or exclude a mineral from a group set out in, or prescribe a new group of minerals, for the purpose of this Act.
+37 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+** 28. Mineral reserve areas. ---(1) Subject to sub-section (2), the Licensing Authority or, in respect of minor minerals, the Minor Minerals Licensing Authority, may, as deemed appropriate from time to time, designate any lands in the Province, in respect of which there are no current granted or awarded mineral title as a mineral reserve area under this Act.
+(2) The Licensing Authority or the Minor Minerals Licensing Authority, wherever appropriate, shall make any decision to designate an area as a mineral
+reserve area:
+(3)
+(a)
+(b)
+upon the recommendation of the relevant authorised officer; and
+taking into account any decision, direction or order made by the Environmental Protection Agency, the Forestry Department or any other relevant department in the Province in respect of the relevant area.
+A mineral title in respect of any area designated as a mineral reserve area may only be awarded by the Licensing Authority or the Minor Minerals Licensing Authority, wherever appropriate, through an auction or competitive bidding process in accordance with this Act.
+(4)
+Following the designation of an area as a mineral reserve area, the Licensing Authority or the Minor Minerals Licensing Authority, wherever appropriate, upon the recommendation of auction committee, shall fix a reserved price for such mineral reserve area within sixty (60) days, taking into account-
+(a)
+(b)
+(c)
+the information on the economic viability of the area, including, the available mineral resource estimates, mineralogical and geochemical analysis, geology of the area, market potential and demand of the minerals;
+the infrastructure available at or near the area, including access roads, electricity and water availability, etc.;
+the development in the area including mines, quarries and haulage roads, etc.;
+(d)
+any production reports from the area; and
+(e)
+any other factor which may reasonably be considered
+to determine the reserve price in accordance with the due administration of this Act.
+(5)
+Following the fixing of a reserve price for a mineral reserve area, the Licensing Authority or the Minor Minerals Licensing Authority, wherever appropriate, shall promptly include the relevant mineral reserve area and the corresponding reserved price in the mineral reserve area register.
+38 Page
+7324
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law
+Department
+** 30. Distance
+from boundaries.---(1) No reconnaissance operations, prospecting operations, exploration operations or mining operations may be carried out by or on behalf of a title holder in or under its licence area within a distance of twenty (20) meters from the boundaries of that licence area, except with permission of the Licensing Authority or, in respect of minor mineral titles, the Minor Minerals Licensing Authority.
+(2) A company or firm, which undertakes reconnaissance operations, prospecting operations, exploration operations or mining operations in contravention of this section, shall commit an offence.
+** 31.
+Taking possession for public purposes and in emergencies.---(1) If Government determines that a licence area or a portion thereof is required at any time for any public purpose, the Licensing Authority or, in respect of minor mineral titles, the Minor Minerals Licensing Authority, shall deliver an order to the title holder instructing the title holder to release such area to Government on such terms and conditions as may be determined by Government and disclosed in the order, and the title holder shall promptly comply with any such order.
+(2)
+Government shall pay compensation to a title holder who is required to release all or part of its licence area to Government, calculated by reference to the proportionate investment made by that title holder in respect of such licence area, as evidenced by the title holder to the Licensing Authority or the Minor Minerals Licensing Authority, wherever applicable.
+(3) Where any area excluded under this section becomes subsequently available for the purpose of the grant of a mineral title, the previous title holder shall have a priority right over such area or a first right of refusal, if applicable, if his original mineral title would have still subsisted at the time but for the operation of this section.
+(4) In the event of a declared state of war or national emergency in the Province. Government may take control of works, plants and premises on or under a licence area upon delivery by the Licensing Authority to the relevant title holder of an order instructing the same, and the title holder shall promptly comply with any such order.
+(5)
+A title holder, who fails to comply with an order as contemplated under this section, shall commit an offence.
+* PART-IV
+** 32.
+* MINERAL TITLES, RIGHTS AND OBLIGATIONS
+Mineral title categories and types.---(1) For the purpose of Large-scale Mining, the following mineral titles may be granted by the Licensing Authority in accordance with this Act-
+(a)
+reconnaissance licence;
+(b)
+exploration licence;
+(c)
+mineral deposit retention licence; and
+40 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+(2)
+(d) mining lease (Large-scale-Mining).
+For the purpose of Small-scale-Mining, other than in respect of minor minerals, the following mineral titles may be granted by the Licensing Authority in accordance with this Act-
+(a)
+prospecting licence; and
+(b)
+mining lease (Small-scale-Mining).
+(3)
+For minor minerals, a mining lease (Small-scale-Mining) may be granted by the Minor Minerals Licensing Authority in accordance with this Act.
+(4)
+For the purpose of projects of national interest, a temporary permit may also be granted to a relevant Government department or public organisation by the Licensing Authority or, in relation to minor minerals, the Minor Minerals Licensing Authority, in accordance with this Act.
+** 33.
+Mineral title duration. ---(1) Under this Act, the Licensing Authority may grant or award mineral titles for a period not exceeding the following maximum permitted durations, wherever applicable.
+Option to extend or
+renew
+No.
+Category.
+Mineral title.
+Duration.
+Large-scale-
+Reconnaissance One (1) year.
+Mining.
+licence. Exploration licence.
+Four (4) years.
+Yes one additional
+period for four (4)
+years.
+Small-scale- Mining (other
+than in respect of
+minor minerals
+and other than
+minerals
+described in
+Schedule-II)
+Mineral deposit Two (2) years.
+No.
+retention
+licence.
+Mining lease
+Thirty
+(Large-scale-
+years.
+Mining).
+(30) Yes - for one or more renewals for period of thirty (30) years at a
+time.
+Prospecting
+licence.
+Mining
+(Small-scale-
+Mining).
+Three (3) years. No.
+lease Ten (10) years. Yes - for one or more
+10 years at a time (other than in respect of any minerals described in 0.
+renewals for period of
+(Minerals for
+which mining
+lease shall not be
+renewed).
+Temporary
+permit.
+Temporary permit.
+for such period as desired by executing agency or till
+-
+Yes one additional period as desired by the executing agency.
+41 Page
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+Category.
+Mineral title.
+Duration.
+completion of Project.
+Option to extend or
+renew
+(2)
+Under this Act, the Minor Minerals Licensing Authority may grant or award mineral titles for a period not exceeding the following maximum permitted durations, wherever applicable:
+Category.
+Mineral title.
+Duration.
+Option extend
+renew.
+to
+or
+respect
+Small-scale-Mining in Mining lease.
+of minor
+One (1) year.
+No.
+minerals. Temporary permit.
+Temporary permit.
+As desired by Yes
+-
+one
+** 34.
+the executing additional
+agency or till
+or till period
+as
+completion of desired by the the project.
+executing
+agency.
+Delineation of licenced area.---(1) An applicant for a mineral title shall specify the location of the proposed licenced area by identifying the horizontal and vertical location of the site according to geodesic datum references and coordinate system datum references.
+(2) Each licenced area in respect of which a mineral title is granted shall be in the form of a rectangle; provided that if the presence of boundaries of adjacent licence areas, other property boundaries or natural features make it necessary or desirable to vary this shape, the licence area shall nonetheless be a compact shape and each side of the licence area shall be a straight line and where possible at right angles to an adjacent side or parallel to an opposite side.
+** 35.
+Maximum licenced area. ---(1) The Licensing Authority may, under this Act, grant or award mineral titles in respect of a licenced area not exceeding the following maximum permitted areas wherever applicable:
+Category.
+Mineral title.
+Licence Area
+(sq. km).
+Large-scale-Mining.
+Reconnaissance licence.
+1,000.
+Exploration licence.
+** 400.
+Mineral deposit retention
+** 200.
+licence.
+Mining Lease
+** 100.
+As prescribed in 0 of 0
+Small-scale Mining (other than in respect of Minor Minerals) Temporary Permit
+Prospecting Licence Mining Lease Mining Permit Temporary Permit
+Determined on a case-by-case basis by the Licensing Authority in light of the relevant national interest considerations, but no greater than the maximum permitted
+42 Page
+Category.
+Mineral title.
+(2)
+Licence Area
+(sq. km).
+area in respect of a Mining Lease (Large-scale Mining)
+Under this Act, the Minor Minerals Licensing Authority may grant or award mineral titles in respect of a Licence Area, not exceeding the following maximum permitted areas, wherever applicable:
+Assistant Dr Order-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+Category
+Mineral title
+Small-scale Mining Mining Lease in respect of Minor Minerals
+Licence Area (acres) As prescribed in 0 of 0 , provided that a minor mineral title for gravel or ordinary sand may be granted for larger area with prior
+permission of the Department
+** 36.
+Temporary Permit
+Temporary Permit
+Determined on a case- by-case basis by the Minor
+Minerals
+Licensing Authority wherever applicable in light of the relevant national
+interest considerations, but no greater than the maximum permitted area in respect of a Mining Lease (Small- scale Mining)
+General obligations of a title holder.---(1) A title holder shall comply with the terms and conditions of each of its mineral titles granted or awarded under this Act, and if applicable, any mineral agreement. A title holder who violates any such terms and conditions, shall commit an offence.
+(2) A title holder who submits, or causes to be submitted, any document, information or particulars which are false or misleading, knowing those to be false or misleading, in connection with any notice, report, return or statement issued or given under the terms and conditions of any mineral title, shall commit an offence.
+(3) A title holder shall employ the services of a suitably qualified mining engineer, geologist, mining surveyor and other relevant professionals for the purposes of supervising reconnaissance operations, prospecting operations, exploration operations and mining operations.
+43| Page
+(4) A title holder shall not utilise mercury, it being a safety hazard, as part of any mining operation, prospecting operation, exploration operation or as part of
+any extraction, winning or related operation in the Province.
+(5)
+A title holder shall give to the Licensing Authority or, in respect of minor mineral titles, the Minor Minerals Licensing Authority, within thirty (30) days from the date of the change.
+(6)
+If it is a company or firm, notice of any change in-
+152023
+Assistant
+De Ofcer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+** 37.
+(a)
+its name;
+(b)
+its registered address;
+(c)
+(d)
+(e)
+(f)
+revised articles and memorandum of association, revised partnership deed and certificate of registration issued by the incorporation authority (SECP, Registrar of Firms etc.), as applicable;
+its directors or partners;
+its share capital, where such change affects at least ten percent (10%) of its total issued share capital as calculated prior to the change; and
+the ultimate beneficial ownership, whether direct or indirect, legal or beneficial, of its issued share capital.
+Rights and obligations of title holder of reconnaissance licence.---(1) A reconnaissance licence shall confer on the title holder:
+(a) the exclusive right to carry out reconnaissance operations in relation to the licence area in question in respect of any mineral or group of minerals to which the reconnaissance licence relates; and
+(b)
+the right to erect or construct ancillary works in the Licence area as may be reasonably necessary for, or in connection with, any reconnaissance operations, unless expressly prohibited under the terms of the reconnaissance licence or this Act.
+(2) A title holder shall have a right in priority to all other applicants to apply to convert a reconnaissance licence to an exploration licence if the title holder applies in the prescribed form before the expiry of such reconnaissance licence; provided that if the title holder fails to make such application at least three (3) months before the expiry of such reconnaissance licence, the title holder shall be required to pay a late penalty in the amount prescribed by Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed timeframe or pay any applicable late penalty, the title holder shall cease to have a priority right in respect of the grant or award of an exploration licence in respect of the relevant licence area.
+44 Page
+shall-
+(3) It shall be a condition of a reconnaissance licence that the title holder
+Assistant Dracer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(4)
+(a)
+(b)
+(c)
+(d)
+(e)
+commence reconnaissance operations within one (1) month of the grant of the reconnaissance licence and carry out reconnaissance operations in the licence area in accordance with the approved Technical Economic And Financial Viability Scheme delivered in accordance with clause (1) of sub-section (2) of section 46 of this Act and good mining practices, subject to any amendments approved by the Licensing Authority;
+take all steps reasonably necessary to conserve and protect the environment and wildlife from pollution or other damage and destruction as a result of such reconnaissance operations in the licence area;
+take all steps reasonably necessary to conduct such reconnaissance operations in the licence area;
+maintain in good condition and repair all structures, plants, equipment and other goods and materials in the licence area used in connection with the reconnaissance operations;
+remove from the licence area all structures, plants, equipment and other goods and materials not used or not intended to be used in connection with the reconnaissance operations;
+(f) give to the Licensing Authority notice of the discovery of a deposit of any rare earth mineral, strategic mineral and other mineral or group of minerals to which his mineral title or minor mineral title, wherever applicable, does not relate in the relevant licence area; and
+(g)
+give to the Licensing Authority notice of the discovery of a deposit of any mineral resources necessary for the generation of nuclear energy, mineral oil or natural gas, in the licence
+area.
+A title holder, who, without authorisation, disposes of any minerals or group of minerals or samples thereof, from any place where they were found or incidentally won in the course of reconnaissance operations, shall commit an offence.
+** 38. Rights and obligations of title holder of exploration licence.---(1) An exploration licence shall confer on the title holder-
+(a)
+the exclusive right to carry out exploration operations in relation to the licence area in question in respect of any mineral or group of minerals to which the exploration licence relates;
+45 Page
+Assistant Drakon Officer-VII
+Govt. of Khyber Pakhtunkhwa Law Department
+(2)
+(b)
+(c)
+(d)
+(e)
+(f)
+the right to enter and occupy the land which comprises the licence area for the purpose of carrying out exploration operations, subject to the surface rights of any landowner or land user and payment of surface rent and compensation in accordance with sections 48 and 73 of this Act;
+the right to take and use water on or flowing through such land for any purpose necessary for exploration operations, subject to and in accordance with the applicable law; provided that in the exercise of such right, the title holder shall not deprive any lands, villages or houses or watering places for wildlife of a reasonable supply of water;
+the right to remove from the licence area a required quantity of mineral or group of minerals to which the exploration licence relates, or sample thereof, for the purpose of respective testing, assaying or pilot plant studies, from any place where it was found or incidentally won in the course of such exploration operations to any other place whether within or outside the Province, subject to payment of any royalties in accordance with sub-section (2) of section 83 of this Act;
+the right to dispose, subject to payment of any royalties in accordance with sub-section 0(1) of section 83 of this Act, of any mineral or group of minerals to which the exploration licence relates which was found, won or mined in the course of exploration operations, provided that the total quantity of mineral or group of minerals so extracted during the period for which the exploration licence relates does not exceed the limit prescribed by the Licensing Authority from time to time by notification in the official Gazette; and
+the right to erect or construct ancillary works in the licence area as may be reasonably necessary for, or in connection with, any exploration operations, unless expressly prohibited under the terms of the exploration licence or this Act.
+A title holder shall have a right to renewal of the exploration licence for an area no greater than fifty percent (50%) of the initial licence area if the title holder applies in the prescribed form before the expiry of such exploration licence; provided that if the title holder fails to make such application at least six (6) months before expiry of the exploration licence, the title holder shall be required to pay a late penalty in the amount prescribed by the Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed timeframe, or pay any applicable late penalty, the title holder shall be required to apply for a new exploration licence in respect of the relevant licence area.
+(3) A title holder shall have a right in priority to all other applicants to apply to convert the Exploration Licence to a Mining Lease (Large-scale Mining) if the title holder applies in the prescribed form before the expiry of such Exploration Licence; provided that if the title holder fails to make such applications at least six (6) months before the expiry of such Exploration Licence,
+46 Page
+the title holder shall be required to pay a late penalty in the amount prescribed by the Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed time frame or pay any applicable late penalty, the title holder shall cease to have a priority right in respect of the grant or award of a Mining Lease (Large-scale Mining) in respect of the relevant Licence Area.
+(4) A title holder may apply to convert the Exploration Licence to a Mineral Deposit Retention Licence if the title holder applies in the prescribed form before the expiry of such Exploration Licence; provided that, if the title holder fails to make such applications at least six (6) months before the expiry of such Exploration Licence, the title holder shall be required to pay a late penalty in the amount prescribed by Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed timeframe or pay any applicable late penalty, the title holder shall be required to apply for a new Exploration Licence in respect of the relevant Licence Area.
+shall-
+Assistant Draking Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(5)
+It shall be a condition of an Exploration Licence that the title holder
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+commence exploration operations within three (3) months of the grant of the exploration licence, and carry out exploration operations in the licence area in accordance with the approved Technical Economic and Financial Viability Scheme delivered in accordance with sub-section (1) and good mining practices, subject to any amendments approved by the Licensing Authority in accordance with clause (b) below;
+obtain the Licensing Authority's prior written approval in respect of any change in the approved Technical Economic and Financial Viability Scheme after the grant or award of the Exploration Licence;
+duly implement the approved Environmental Management Plan delivered in accordance with sub-section (i) and take all steps reasonably necessary to conserve and protect the environment and wildlife from pollution or other damage and destruction as a result of such exploration operations in the licence area;
+take all steps reasonably necessary to conduct such exploration operations in the licence area;
+maintain in good condition and repair all structures, plants, equipment and other goods and materials in the licence area used in connection with the exploration operations;
+remove from the licence area all structures, plants, equipment and other goods and materials not used or not intended to be used in connection with the exploration operations;
+give to the Licensing Authority notice of the discovery of a deposit of any rare earth mineral, strategic mineral and other
+Joey
+47 Page
+(6)
+(h)
+mineral or group of minerals in the licence area to which their mineral title or minor mineral title, wherever applicable, does not relate; and
+give to the Licensing Authority notice of the discovery of a deposit of any mineral resources necessary for the generation of nuclear energy, mineral oil or natural gas, in the Licence Area.
+It shall be a condition of an Exploration Licence that the title holder shall duly implement the approved Mine Closure Plan.
+(7) A title holder, without authorisation, extracts a quantity of Minerals in excess of the amount permitted under clause (d) of sub-section (5), shall commit an offence.
+(8) Subject to clause (d) of sub-section (d), a title holder who without authorisation removes or sells any minerals or group of minerals or samples thereof from any place where they were found or incidentally won in the course of exploration operations, shall commit an offence.
+** 39.
+Rights and obligations of title holder of mineral deposit retention licence.---(1) A mineral deposit retention licence shall confer on the title holder-
+* F2009
+Assistant Drafting Officer-VII Govt. of Khyber Pakhtunkhwa Law Department
+(a)
+(b)
+(c)
+(d)
+(e)
+the exclusive right to retain the licence area to which the mineral deposit retention licence relates to carry out;
+further exploration operations for two (2) years in respect of any mineral or group of minerals to which the mineral deposit retention licence relates; and
+any other activities, including evaluation of the mineral deposit concerned, as may be specified in the mineral deposit retention licence; provided that such operations shall not include any mining operations;
+the right to enter and occupy the land which comprises the licence area for the purpose of carrying out exploration operations and any other activities permitted under clause (a) above, subject to the surface rights of any landowner or land user and payment of surface rent and compensation, in accordance with sections 48 and 73 of this Act;
+the right to take and use water on or flowing through such land for any purpose necessary for exploration operations and any other activities permitted under clause (a) above, subject to and in accordance with the applicable law; provided that, in the exercise of such right, the title holder shall not deprive any lands, villages or houses or watering places for wildlife of a reasonable supply of water;
+(f)
+the right to remove from the Licence Area a required quantity of Mineral or group of Minerals to which the Mineral Deposit
+48 Page
+(g)
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+aw Department
+(2)
+Retention Licence relates, or sample thereof, for the purpose of respective testing, assaying or pilot plant studies, from any place where it was found or incidentally won in the course of such operations to any other place whether within or outside the Province, subject to payment of any royalties in accordance with sub-section (2) of section 83 of this Act;
+the right to dispose, subject to payment of any royalties in accordance with sub-section (1) of section 83 of this Act, of any mineral or group of minerals to which the mineral deposit retention license relates which was found, won or mined in the course of exploration operations; provided that the total quantity of mineral or group of minerals so extracted during the total period for which the prior exploration licence and the mineral deposit retention licence relate does not exceed the limit prescribed by the Licensing Authority from time to time by notification in the official Gazette; and
+the right to do all other things, including the carrying out of investigations and the erection or construction of ancillary works in the Licence Area, as may be reasonably necessary for, or in connection with, any exploration operations and other activities permitted under clause (a) above, unless expressly prohibited under the terms of the mineral deposit retention licence or this Act.
+A title holder shall have a right in priority to all other applicants to apply to convert the Mineral Deposit Retention Licence to a Mining Lease (Large- scale Mining) if the title holder applies in the prescribed form, before the expiry of such Mineral Deposit Retention Licence; provided that, if the title holder fails to make such applications at least six (6) months before the expiry of such Mineral Deposit Retention Licence, the title holder shall be required to pay a late penalty in the amount prescribed by the Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed timeframe or pay any applicable late penalty, the title holder shall cease to have a priority right in respect of the grant of a mining lease (Large-scale-Mining) in respect of the relevant Licence Area.
+(3) The provisions of sub-sections (5) and (6) of section 38 shall apply mutatis mutandis in relation to a mineral deposit retention licence as they apply in relation to an exploration licence, and for that purpose, the reference to an exploration licence shall be deemed to be a reference to a mineral deposit retention licence.
+(4) A title holder, who, without authorisation, extracts a quantity of minerals in excess of the amount permitted under clause (d) of sub-section (f), shall commit an offence.
+(5) A title holder, who holds a mineral deposit retention licence and who without authorisation disposes of any minerals or group of minerals or samples thereof from any place where they were found or incidentally won in the course of exploration operations, shall commit an offence.
+49 Page
+** 40. Rights and obligations of title holder of mining lease (Large-scale- Mining).---(1) A mining lease (Large-scale-Mining) shall confer on the title holder-
+Assistant Drafting Officer-VII
+Govt. of Khyber Pakhtunkhwa
+Law Department
+(2)
+(a)
+(i)
+(b)
+(c)
+(d)
+(e)
+the exclusive right to carry on exploration operations and mining operations in relation to the licence area in question in respect of any mineral or group of minerals, to which the mining lease (Large-scale-Mining) relates;
+the right to enter and occupy the land which comprises the licence area for the purpose of carrying on exploration operations and mining operations, subject to the surface rights of any landowner or land user and payment of surface rent and compensation in accordance with sections 48 and 73 of this Act;
+the right to take and use water on or flowing through such Land for any purpose necessary for exploration operations and mining operations subject to and in accordance with the applicable law; provided that in the exercise of such right, the title holder shall not deprive any lands, villages or houses or watering places for wildlife of a reasonable supply of water;
+the right to remove from the licenced area a required quantity of Mineral or group of Minerals to which the mining lease (Large-scale-Mining) relates, or sample thereof, for the purpose of respective testing, assaying, feasibility or pilot plant studies, from any place where it was found or incidentally won in the course of such exploration operations to any other place whether within or outside the Province, subject to payment of any royalties in accordance with clause (0);
+the right to dispose, subject to payment of any royalties, of any mineral or group of minerals, to which the mining lease (Large-scale-Mining) relates, which was found, won or mined in the course of exploration operations or mining operations; and
+the right to erect or construct ancillary works in the Licence Area as may be reasonably necessary for, or in connection with, any exploration operations or mining operations, unless expressly prohibited under the terms of the mining lease (Large-scale-Mining) under this Act.
+A title holder shall have a right to renewal of the mining lease (Large-scale-Mining) if the title holder applies in the prescribed form before the expiry of such mining lease; provided that if the title holder fails to make such application no earlier than two (2) years prior to, but at least one (1) year before, expiry of the mining lease (Large-scale-Mining), the title holder shall be required to pay a late penalty in the amount prescribed by Government from time to time by notification in the official Gazette. In case of failure to apply in the prescribed
+50 Page
+timeframe or pay any applicable late penalty, the title holder shall be required to apply for a new mining lease (Large-scale Mining) in respect of the relevant Licence Area, which shall be considered in accordance with the provisions of this Act as a new application.
+(3)
+It shall be a condition of a mining lease (Large-scale-Mining) that the title holder shall-
+Food
+Assistant Brafting Officer-VII Govt. of Khyber Pakhtunkhwa
+Law Department
+(a)
+(b)
+(c)
+(b)
+(c)
+commence mining operations within six (6) months of the grant of the mining lease (Large-scale-Mining), and carry out mining operations and exploration operations in the licence area in accordance with the approved technical economic and financial viability scheme delivered in accordance with sub- section (1) and good mining practices, subject to any amendments approved by the Licensing Authority in accordance with clause (b) below;
+obtain the Licensing Authority's prior written approval in respect of any change in the approved Technical Economic and Financial Viability Scheme after the grant or award of the Mining Lease (Large-scale Mining);
+give notice in writing to the Director General of any intention to temporarily cease mining operations, or to reduce the normal rate of production, on a date not later than thirty (30) days prior in the case of an intended cessation of mining operations:
+duly implement the approved environmental management plan delivered in accordance with sub-section (1) and take all steps reasonably necessary to conserve and protect the environment and wildlife from pollution or other damage and destruction as a result of such mining operations and exploration operations in the licence area inclusive, including by duly implementing the approved mine closure plan;
+duly implement the approved social impact management plan and take all steps reasonably necessary to conduct such mining operations and exploration operations in the licence
+area;
+(d)
+(e)
+maintain in good condition and repair all structures, plants, equipment and other goods and materials in the licence area used in connection with the mining operations and exploration operations;
+remove from the licence area all structures, plants, equipment and other goods and materials not used or not intended to be used in connection with the mining operations or exploration operations;
+51 Page

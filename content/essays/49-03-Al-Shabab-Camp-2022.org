@@ -1,7 +1,7 @@
 #+TITLE: Al Shabab Camp 2022
 #+DATE: 2022-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 49-03-Al-Shabab-Camp-2022.org
 #+LOCATION: Somalia

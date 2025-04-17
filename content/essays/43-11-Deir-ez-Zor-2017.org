@@ -1,7 +1,7 @@
 #+TITLE: Deir Ez Zor 2017
 #+DATE: 2017-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 43-11-Deir-ez-Zor-2017.org
 #+LOCATION: Syria

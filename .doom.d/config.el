@@ -26,6 +26,17 @@
     (setq-local org-directory "notes")
     (setq-local org-agenda-files (list org-directory))))
 
+;; --- Custom terminal keybindings for non-GUI Emacs ---
+;; Open ansi-term with SPC t t
+(map! :leader
+      :desc "Open ansi-term" "t t" #'ansi-term)
+;; Open eshell with SPC t e
+(map! :leader
+      :desc "Open eshell" "t e" #'eshell)
+;; Open shell with SPC t s
+(map! :leader
+      :desc "Open shell" "t s" #'shell)
+
 ;; Set up git integration
 (add-hook! 'find-file-hook
   (lambda ()

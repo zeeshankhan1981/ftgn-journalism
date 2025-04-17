@@ -1,7 +1,7 @@
 #+TITLE: Khashamir 2012
 #+DATE: 2012-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 36-25-Khashamir-2012.org
 #+LOCATION: Yemen

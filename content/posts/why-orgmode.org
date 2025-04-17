@@ -1,0 +1,12 @@
+#+TITLE: Why I Use Org-mode
+#+DATE: 2025-04-17
+#+DRAFT: false
+#+TAGS: emacs orgmode
+#+CATEGORIES: Tools
+#+SUMMARY: Org-mode is the backbone of my writing workflow.
+
+Org-mode in Emacs offers unparalleled power for writers, researchers, and developers.
+
+* Outlining
+* Code blocks
+* Export to multiple formats

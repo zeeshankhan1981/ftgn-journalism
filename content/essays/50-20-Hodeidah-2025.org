@@ -1,7 +1,7 @@
 #+TITLE: Hodeidah 2025
 #+DATE: 2025-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+EXPORT_FILE_NAME: 50-20-Hodeidah-2025.org
 #+LOCATION: Yemen

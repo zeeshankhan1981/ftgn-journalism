@@ -1,7 +1,7 @@
 #+TITLE: Hanoi 1965
 #+DATE: 1965-01-01
 #+HUGO_BASE_DIR: ../../
-#+HUGO_SECTION: essays
+#+HUGO_SECTION: stories
 #+HUGO_TAGS: Civilians
 #+HUGO_CATEGORIES: Vietnam War
 #+EXPORT_FILE_NAME: 08-18-Hanoi-1965.org

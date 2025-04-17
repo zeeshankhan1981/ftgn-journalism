@@ -28,3 +28,5 @@ ENV/
 tmp/
 temp/.hugo_build.lock
 resources/
+# .aider.conf.yml removed from ignore to allow AI editing
+.aider*

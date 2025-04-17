@@ -1,0 +1,12 @@
+#+TITLE: The Future of Journalism
+#+DATE: 2025-04-17
+#+DRAFT: false
+#+TAGS: journalism future
+#+CATEGORIES: Media
+#+SUMMARY: Thoughts on where journalism is heading.
+
+The landscape of journalism is changing rapidly with technology and audience expectations.
+
+* Data-driven stories
+* Reader engagement
+* Ethical reporting
