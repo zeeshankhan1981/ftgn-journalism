@@ -30,13 +30,14 @@ expiryDate = ["expiryDate"]
 
 # URL Management
 [permalinks]
-essays = "/:section/:filename/"
+journal = "/journal/:filename/"
+projects = "/projects/:filename/"
 
 # Theme Parameters
 [params]
   author = "TorchScribe"
   description = "A series of fact-based civilian experience essays documenting U.S. military bombardments"
-  mainSections = ["essays"]
+  mainSections = ["journal"]
   dateFormat = "January 2, 2006"
   copyright = " 2025 Against The Tide · All rights reserved"
   
@@ -55,12 +56,12 @@ essays = "/:section/:filename/"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Essays"
-    url = "/#essays"
+    name = "Journal"
+    url = "/journal/"
     weight = 2
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
+    name = "Projects"
+    url = "/projects/"
     weight = 3
   [[menu.main]]
     name = "About"

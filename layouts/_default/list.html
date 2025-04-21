@@ -3,20 +3,20 @@
     <h1>{{ .Title }}</h1>
     
     <div class="list-controls">
-        <input type="text" id="essay-search" placeholder="Search essays..." aria-label="Search essays">
+        <input type="text" id="journal-search" placeholder="Search journal..." aria-label="Search journal">
         <div class="sort-options">
             <button class="sort-button active" data-sort="title">Title</button>
-            <button class="sort-button" data-sort="location">Location</button>
-            <button class="sort-button" data-sort="year">Year</button>
+            <button class="sort-button" data-sort="category">Category</button>
+            <button class="sort-button" data-sort="date">Date</button>
         </div>
     </div>
     
-    <ul class="essay-list" id="essays">
+    <ul class="journal-list" id="journal">
         {{ range .Pages }}
-        <li class="essay-item" data-location="{{ .Params.location }}" data-year="{{ .Params.year }}">
-            <a href="{{ .Permalink }}" class="essay-link">
-                <span class="essay-title">{{ .Title }}</span>
-                <span class="essay-meta">{{ .Params.location }}, {{ .Params.year }}</span>
+        <li class="journal-item" data-category="{{ delimit .Params.categories ", " }}" data-date="{{ .Date.Format "2006-01-02" }}">
+            <a href="{{ .Permalink }}" class="journal-link">
+                <span class="journal-title">{{ .Title }}</span>
+                <span class="journal-meta">{{ delimit .Params.categories ", " }} | {{ .Date.Format "Jan 2, 2006" }}</span>
             </a>
         </li>
         {{ end }}
@@ -24,17 +24,16 @@
 </div>
 
 <script>
-    // Search functionality
     document.addEventListener('DOMContentLoaded', () => {
-        const searchInput = document.getElementById('essay-search');
-        const essayItems = document.querySelectorAll('.essay-item');
+        const searchInput = document.getElementById('journal-search');
+        const journalItems = document.querySelectorAll('.journal-item');
         
         searchInput.addEventListener('input', () => {
             const searchTerm = searchInput.value.toLowerCase();
             
-            essayItems.forEach(item => {
-                const title = item.querySelector('.essay-title').textContent.toLowerCase();
-                const meta = item.querySelector('.essay-meta').textContent.toLowerCase();
+            journalItems.forEach(item => {
+                const title = item.querySelector('.journal-title').textContent.toLowerCase();
+                const meta = item.querySelector('.journal-meta').textContent.toLowerCase();
                 
                 if (title.includes(searchTerm) || meta.includes(searchTerm)) {
                     item.style.display = '';
@@ -46,7 +45,7 @@
         
         // Sort functionality
         const sortButtons = document.querySelectorAll('.sort-button');
-        const essayList = document.getElementById('essays');
+        const journalList = document.getElementById('journal');
         
         sortButtons.forEach(button => {
             button.addEventListener('click', () => {
@@ -54,23 +53,23 @@
                 button.classList.add('active');
                 
                 const sortBy = button.dataset.sort;
-                const essays = Array.from(essayItems);
+                const journals = Array.from(journalItems);
                 
-                essays.sort((a, b) => {
+                journals.sort((a, b) => {
                     if (sortBy === 'title') {
-                        return a.querySelector('.essay-title').textContent.localeCompare(
-                            b.querySelector('.essay-title').textContent
+                        return a.querySelector('.journal-title').textContent.localeCompare(
+                            b.querySelector('.journal-title').textContent
                         );
-                    } else if (sortBy === 'location') {
-                        return a.dataset.location.localeCompare(b.dataset.location);
-                    } else if (sortBy === 'year') {
-                        return a.dataset.year.localeCompare(b.dataset.year);
+                    } else if (sortBy === 'category') {
+                        return a.dataset.category.localeCompare(b.dataset.category);
+                    } else if (sortBy === 'date') {
+                        return a.dataset.date.localeCompare(b.dataset.date);
                     }
                 });
                 
-                essayList.innerHTML = '';
-                essays.forEach(essay => {
-                    essayList.appendChild(essay);
+                journalList.innerHTML = '';
+                journals.forEach(journal => {
+                    journalList.appendChild(journal);
                 });
             });
         });

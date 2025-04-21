@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="blog-listing">
+    <h1>Blog Posts</h1>
+    <div class="posts-list">
+        {{ range .Pages }}
+        <div class="post-card">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p class="meta">
+                <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+                {{ with .Params.categories }} | <span>{{ delimit . ", " }}</span>{{ end }}
+                {{ with .Params.tags }} | <span>{{ delimit . ", " }}</span>{{ end }}
+            </p>
+            {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+            <a href="{{ .Permalink }}" class="read-link">Read More</a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

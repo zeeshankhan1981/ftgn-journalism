@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects &amp; Portfolio - Against The Tide</title>
+    
+    
+    <meta name="description" content="Showcase of journalism, data, and creative projects.">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Projects &amp; Portfolio - Against The Tide">
+    <meta property="og:description" content="Showcase of journalism, data, and creative projects.">
+    <meta property="og:url" content="http://localhost:1313/projects/">
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="stylesheet" href="/css/tailwind.generated.css">
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    
+    <script>
+        
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        
+        
+        <a href="/" >Home</a>
+        
+        <a href="/journal/" >Journal</a>
+        
+        <a href="/projects/" >Projects</a>
+        
+        <a href="/about/" >About</a>
+        
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>
+
+        <main>
+            
+<div class="list-container">
+    <h1>Projects &amp; Portfolio</h1>
+    
+    <div class="list-controls">
+        <input type="text" id="journal-search" placeholder="Search journal..." aria-label="Search journal">
+        <div class="sort-options">
+            <button class="sort-button active" data-sort="title">Title</button>
+            <button class="sort-button" data-sort="category">Category</button>
+            <button class="sort-button" data-sort="date">Date</button>
+        </div>
+    </div>
+    
+    <ul class="journal-list" id="journal">
+        
+    </ul>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const searchInput = document.getElementById('journal-search');
+        const journalItems = document.querySelectorAll('.journal-item');
+        
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+            
+            journalItems.forEach(item => {
+                const title = item.querySelector('.journal-title').textContent.toLowerCase();
+                const meta = item.querySelector('.journal-meta').textContent.toLowerCase();
+                
+                if (title.includes(searchTerm) || meta.includes(searchTerm)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+        
+        
+        const sortButtons = document.querySelectorAll('.sort-button');
+        const journalList = document.getElementById('journal');
+        
+        sortButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                sortButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                const sortBy = button.dataset.sort;
+                const journals = Array.from(journalItems);
+                
+                journals.sort((a, b) => {
+                    if (sortBy === 'title') {
+                        return a.querySelector('.journal-title').textContent.localeCompare(
+                            b.querySelector('.journal-title').textContent
+                        );
+                    } else if (sortBy === 'category') {
+                        return a.dataset.category.localeCompare(b.dataset.category);
+                    } else if (sortBy === 'date') {
+                        return a.dataset.date.localeCompare(b.dataset.date);
+                    }
+                });
+                
+                journalList.innerHTML = '';
+                journals.forEach(journal => {
+                    journalList.appendChild(journal);
+                });
+            });
+        });
+    });
+</script>
+
+        </main>
+
+        <footer>
+    <p> 2025 Against The Tide · All rights reserved</p>
+    <p>Curated by TorchScribe</p>
+</footer>
+    </div>
+
+    <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            setTheme(newTheme);
+        });
+    });
+    
+    
+    document.addEventListener('keydown', (e) => {
+        
+        if (e.altKey && e.key === 's') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'Home') {
+            e.preventDefault();
+            window.location.href = '/';
+        }
+        
+        
+        if (e.altKey && e.key === 'e') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'a') {
+            e.preventDefault();
+            window.location.href = '/about/';
+        }
+    });
+</script>
+</body>
+</html>

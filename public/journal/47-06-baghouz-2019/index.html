@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baghouz 2019 - Against The Tide</title>
+    
+    
+    <meta name="description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Baghouz 2019 - Against The Tide">
+    <meta property="og:description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta property="og:url" content="http://localhost:1313/journal/47-06-baghouz-2019/">
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="stylesheet" href="/css/tailwind.generated.css">
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    
+    <script>
+        
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        
+        
+        <a href="/" >Home</a>
+        
+        <a href="/journal/" >Journal</a>
+        
+        <a href="/projects/" >Projects</a>
+        
+        <a href="/about/" >About</a>
+        
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>
+
+        <main>
+            
+<article class="journal-post">
+    <header>
+        <h1>Baghouz 2019</h1>
+        <p class="meta">
+            <span>Jan 1, 2019</span>
+            
+            
+            
+            
+        </p>
+    </header>
+    <section class="markdown-content">
+        <p>
+As ISIS made its last stand in Baghouz, U.S. warplanes dropped massive ordnance on makeshift camps where fighters and civilians were mixed.</p>
+<p>
+Um Yasir, a Syrian mother of three, had taken refuge in a tent when the bombing began. Her youngest daughter died instantly. Um Yasir survived with burns and shrapnel wounds.</p>
+<p>
+Investigative reports later revealed that the U.S. failed to disclose the strike, which may have killed over 80 people. Her story was documented by journalists who arrived weeks after the area was secured.</p>
+<p>
+<strong><strong>Source:</strong></strong> <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">The New York Times</a></p>
+
+    </section>
+    <footer>
+        <hr>
+        <p><a href="/journal/">← Back to Journal</a></p>
+    </footer>
+</article>
+
+        </main>
+
+        <footer>
+    <p> 2025 Against The Tide · All rights reserved</p>
+    <p>Curated by TorchScribe</p>
+</footer>
+    </div>
+
+    <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            setTheme(newTheme);
+        });
+    });
+    
+    
+    document.addEventListener('keydown', (e) => {
+        
+        if (e.altKey && e.key === 's') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'Home') {
+            e.preventDefault();
+            window.location.href = '/';
+        }
+        
+        
+        if (e.altKey && e.key === 'e') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'a') {
+            e.preventDefault();
+            window.location.href = '/about/';
+        }
+    });
+</script>
+</body>
+</html>

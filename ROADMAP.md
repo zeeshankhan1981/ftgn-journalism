@@ -1,18 +1,17 @@
-# Personal Blog Roadmap
+# Personal Site Roadmap
 
-This document outlines the ongoing and planned improvements for evolving the "Against The Tide" site into a full-featured personal blog. All content will be managed and published using Spacemacs and Org-mode workflows.
+This document outlines the ongoing and planned improvements for evolving "Against The Tide" into a full-featured personal site. All content will be managed and published using Spacemacs and Org-mode workflows.
 
 ---
 
-## 1. Content Expansion
+## 1. Content Structure & Expansion
 
-- [ ] **Add Blog Section**
-  - Create a new `posts/` section for regular blog entries (personal reflections, reviews, notes).
-  - Support tags and categories for flexible organization.
-- [ ] **Photo Essays & Galleries**
-  - Integrate image galleries and multimedia content.
+- [ ] **Journal Section**
+  - Unify all writing (thoughts, essays, photo essays, reflections) under a single `journal/` section.
+  - Use categories/tags for flexible filtering (e.g., "Essay", "Photo Essay", "Reflection", "History").
+  - Support multimedia (images, galleries, audio, etc.).
 - [ ] **Projects & Portfolio**
-  - Add a section to showcase journalism/data/creative projects.
+  - Add a section to showcase journalism, data, and creative projects.
 - [ ] **About & Contact Pages**
   - Expand the About page, add a CV, and implement a contact form.
 
@@ -23,7 +22,7 @@ This document outlines the ongoing and planned improvements for evolving the "Ag
 - [ ] **Personal Branding**
   - Add a logo, favicon, and social media previews.
 - [ ] **Homepage Improvements**
-  - Feature recent posts, a personal intro, and highlights.
+  - Feature recent journal entries, a personal intro, and highlights.
 - [ ] **Sidebar Widgets**
   - Add bio, social links, tag cloud, and archives.
 - [ ] **Comments & Interactivity**
@@ -49,7 +48,7 @@ This document outlines the ongoing and planned improvements for evolving the "Ag
 
 ## 4. Workflow & Authoring Improvements
 
-- [ ] **Org-mode Blogging Enhancements**
+- [ ] **Org-mode Publishing Enhancements**
   - Automate image embedding and front matter generation.
   - Support Org Babel for code/technical posts.
 - [ ] **Drafts & Scheduled Publishing**
@@ -59,4 +58,4 @@ This document outlines the ongoing and planned improvements for evolving the "Ag
 
 ## Notes
 - All publishing and content editing will be performed via Spacemacs and Org-mode, ensuring a smooth, distraction-free writing experience.
-- This roadmap is a living document—update as new ideas and needs arise.
+- The Journal section replaces the old "blog" and "essays" split, simplifying navigation and content management.

@@ -1,31 +1,42 @@
 {{ define "main" }}
-<article class="essay-content markdown-content">
-    <header class="essay-header">
+<article class="blog-post">
+    <header>
         <h1>{{ .Title }}</h1>
-        {{ if and .Params.location .Params.year }}
-        <div class="metadata">
-            <p><strong>Location:</strong> {{ .Params.location }}</p>
-            <p><strong>Year:</strong> {{ .Params.year }}</p>
-        </div>
-        {{ end }}
+        <p class="meta">
+            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
+            {{/* Categories handling: split string if needed */}}
+            {{ $cats := .Params.categories }}
+            {{ if $cats }}
+                | <span>
+                {{ $catList := (cond (reflect.IsSlice $cats) $cats (split $cats " ")) }}
+                {{ delimit $catList ", " }}
+                </span>
+            {{ end }}
+            {{/* Tags handling: split string if needed */}}
+            {{ $tags := .Params.tags }}
+            {{ if $tags }}
+                | <span>
+                {{ $tagList := (cond (reflect.IsSlice $tags) $tags (split $tags " ")) }}
+                {{ delimit $tagList ", " }}
+                </span>
+            {{ end }}
+        </p>
     </header>
-    
-    <div class="essay-article">
+    <section class="markdown-content">
         {{ .Content }}
-    </div>
-    
+    </section>
     {{ $tags := .Params.tags }}
     {{ if $tags }}
-    <div class="essay-tags">
+    <div class="blog-tags">
         {{ $tagList := (cond (reflect.IsSlice $tags) $tags (split $tags " ")) }}
         {{ range $tagList }}
         <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
         {{ end }}
     </div>
     {{ end }}
-    
-    <div class="essay-navigation">
-        <a href="/#essays" class="back-to-essays">← Back to Essays</a>
-    </div>
+    <footer>
+        <hr>
+        <p><a href="/posts/">← Back to Blog</a></p>
+    </footer>
 </article>
 {{ end }}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baghdad 2003 - Against The Tide</title>
+    
+    
+    <meta name="description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta name="keywords" content="journalism, civilian, military, bombardment, essays, history">
+    <meta name="author" content="TorchScribe">
+    
+    
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Baghdad 2003 - Against The Tide">
+    <meta property="og:description" content="A series of fact-based civilian experience essays documenting U.S. military bombardments">
+    <meta property="og:url" content="http://localhost:1313/journal/29-05-baghdad-2003/">
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    <link rel="stylesheet" href="/css/tailwind.generated.css">
+    
+    
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+    
+    
+    <script>
+        
+        const getThemePreference = () => {
+            if (localStorage.getItem('theme')) {
+                return localStorage.getItem('theme');
+            }
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        };
+        
+        
+        const setTheme = (theme) => {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        };
+        
+        
+        setTheme(getThemePreference());
+    </script>
+</head>
+<body>
+    <div class="container">
+        <header>
+    <div class="logo">Against <span>The</span> Tide</div>
+    <nav>
+        
+        
+        <a href="/" >Home</a>
+        
+        <a href="/journal/" >Journal</a>
+        
+        <a href="/projects/" >Projects</a>
+        
+        <a href="/about/" >About</a>
+        
+        <button id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="theme-toggle-icon">◐</span>
+        </button>
+    </nav>
+</header>
+
+        <main>
+            
+<article class="journal-post">
+    <header>
+        <h1>Baghdad 2003</h1>
+        <p class="meta">
+            <span>Jan 1, 2003</span>
+            
+            
+            
+            
+        </p>
+    </header>
+    <section class="markdown-content">
+        <p>
+The “shock and awe” campaign marked the start of the U.S.-led invasion of Iraq. On March 20, 2003, Baghdad was blanketed with explosions as over 1,700 air sorties were launched in a single day.</p>
+<p>
+Khalid al-Janabi, a pharmacist, was watching television with his children when the first strike hit a government complex two blocks away. The windows shattered. Fearing for their lives, the family fled to their basement.</p>
+<p>
+Al-Janabi&#39;s pharmacy was later destroyed in a fire caused by a misfired missile. He salvaged medicines and distributed them for free in his neighborhood.</p>
+<p>
+<strong><strong>Source:</strong></strong> <a href="https://www.bbc.com/news/world-middle-east-32057228">BBC News</a></p>
+
+    </section>
+    <footer>
+        <hr>
+        <p><a href="/journal/">← Back to Journal</a></p>
+    </footer>
+</article>
+
+        </main>
+
+        <footer>
+    <p> 2025 Against The Tide · All rights reserved</p>
+    <p>Curated by TorchScribe</p>
+</footer>
+    </div>
+
+    <script>
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            setTheme(newTheme);
+        });
+    });
+    
+    
+    document.addEventListener('keydown', (e) => {
+        
+        if (e.altKey && e.key === 's') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'Home') {
+            e.preventDefault();
+            window.location.href = '/';
+        }
+        
+        
+        if (e.altKey && e.key === 'e') {
+            e.preventDefault();
+            window.location.href = '/#essays';
+        }
+        
+        
+        if (e.altKey && e.key === 'a') {
+            e.preventDefault();
+            window.location.href = '/about/';
+        }
+    });
+</script>
+</body>
+</html>
